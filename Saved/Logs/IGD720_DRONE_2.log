@@ -1133,3 +1133,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.01-17.33.03:741][  2]LogD3D12RHI: Cannot end block when stack is empty
 [2024.02.01-17.35.51:021][550]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.316 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30412 files in 33103 folders with total size 8331 MiB.
 [2024.02.01-17.37.24:816][163]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.01-18.36.24:906][882]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:32.201 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 47599 files in 49418 folders with total size 8738 MiB.
+[2024.02.01-18.55.47:340][482]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
