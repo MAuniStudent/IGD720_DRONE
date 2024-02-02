@@ -8,7 +8,14 @@
 				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/LocomotionTest.umap",
 				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/LocomotionTest_BuiltData.uasset",
-				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/Characters/RPG_Character/Animations/DevatoxPlayerAnimBP.uasset"
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/Characters/RPG_Character/Animations/DevatoxPlayerAnimBP.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB_BuiltData.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Level1.umap",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Level2.umap",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Level3.umap",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Level4.umap",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Level5.umap"
 			]
 		}
 	]
