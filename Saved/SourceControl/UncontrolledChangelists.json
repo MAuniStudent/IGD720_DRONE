@@ -79,7 +79,11 @@
 				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Level3_BuiltData.uasset",
 				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Level4_BuiltData.uasset",
 				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Materials/M_FloorOneEmissiveFive_Inst.uasset",
-				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Materials/M_FloorOneEmissiveSix_Inst.uasset"
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Materials/M_FloorOneEmissiveSix_Inst.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/UI/MainMenuWB.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/MyFunction.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Level1_BuiltData.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Level5_BuiltData.uasset"
 			]
 		}
 	]
