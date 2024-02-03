@@ -72,7 +72,14 @@
 				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset",
 				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Meshs/LongBase.uasset",
 				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/MainMenu.umap",
-				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/UI/Screen.uasset"
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/UI/Screen.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Interactables/Checkpoints/LevelEntryBP.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Interactables/Checkpoints/LevelEnd.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Level2_BuiltData.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Level3_BuiltData.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Level4_BuiltData.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Materials/M_FloorOneEmissiveFive_Inst.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Materials/M_FloorOneEmissiveSix_Inst.uasset"
 			]
 		}
 	]
