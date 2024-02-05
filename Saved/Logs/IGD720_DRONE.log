@@ -3247,3 +3247,1318 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.04-23.19.59:253][863]AssetCheck: New page: Asset Save: HUB
 [2024.02.04-23.19.59:253][863]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/HUB.HUB
 [2024.02.04-23.20.02:663][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.04-23.23.36:855][  1]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/Girder.Girder
+[2024.02.04-23.23.36:855][  1]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/Girder.Girder
+[2024.02.04-23.23.36:855][  1]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/Girder.Girder as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.StaticMeshActor_10
+[2024.02.04-23.23.38:549][135]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/Girder.Girder
+[2024.02.04-23.23.38:549][135]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/Girder.Girder
+[2024.02.04-23.23.38:550][135]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/Girder.Girder as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.StaticMeshActor_30
+[2024.02.04-23.24.04:173][691]LogEditorViewport: Clicking Background
+[2024.02.04-23.27.56:585][152]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/GirderJiont.GirderJiont
+[2024.02.04-23.27.56:585][152]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/GirderJiont.GirderJiont
+[2024.02.04-23.27.56:585][152]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/GirderJiont.GirderJiont as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.StaticMeshActor_44
+[2024.02.04-23.27.58:458][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/GirderJiont.GirderJiont
+[2024.02.04-23.27.58:458][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/GirderJiont.GirderJiont
+[2024.02.04-23.27.58:459][289]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/GirderJiont.GirderJiont as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.StaticMeshActor_45
+[2024.02.04-23.28.54:280][360]Cmd: DELETE
+[2024.02.04-23.28.54:280][360]Cmd: ACTOR DELETE
+[2024.02.04-23.28.54:284][360]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.04-23.28.54:300][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.02.04-23.28.54:303][360]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.02.04-23.29.16:109][155]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/SM_CubeTwo.SM_CubeTwo
+[2024.02.04-23.29.16:109][155]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/SM_CubeTwo.SM_CubeTwo
+[2024.02.04-23.29.16:109][155]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/SM_CubeTwo.SM_CubeTwo as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.StaticMeshActor_46
+[2024.02.04-23.29.17:620][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/SM_CubeTwo.SM_CubeTwo
+[2024.02.04-23.29.17:620][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/SM_CubeTwo.SM_CubeTwo
+[2024.02.04-23.29.17:622][298]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/SM_CubeTwo.SM_CubeTwo as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.StaticMeshActor_47
+[2024.02.04-23.30.51:141][525]Cmd: TRANSACTION UNDO
+[2024.02.04-23.30.51:141][525]LogEditorTransaction: Undo Replace component used material
+[2024.02.04-23.31.25:148][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.04-23.31.25:180][792]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto5
+[2024.02.04-23.31.25:180][792]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB_Auto5E290B0B54405A9FC4C413B93EFF521DF.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto5.umap'
+[2024.02.04-23.31.25:181][792]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto5.umap is in the /Temp path, will not scan.
+[2024.02.04-23.31.25:182][792]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.049
+[2024.02.04-23.31.25:182][792]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2024.02.04-23.45.32:876][165]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:37.246 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50135 files in 51712 folders with total size 8908 MiB.
+[2024.02.04-23.50.29:761][985]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/EntryGuard.EntryGuard
+[2024.02.04-23.50.29:761][985]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/EntryGuard.EntryGuard
+[2024.02.04-23.50.29:761][985]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/EntryGuard.EntryGuard as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.StaticMeshActor_48
+[2024.02.04-23.50.30:856][ 77]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/EntryGuard.EntryGuard
+[2024.02.04-23.50.30:856][ 77]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/EntryGuard.EntryGuard
+[2024.02.04-23.50.30:858][ 77]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/EntryGuard.EntryGuard as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.StaticMeshActor_49
+[2024.02.04-23.52.11:193][379]Cmd: DELETE
+[2024.02.04-23.52.11:193][379]Cmd: ACTOR DELETE
+[2024.02.04-23.52.11:197][379]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.04-23.52.11:215][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.02.04-23.52.11:218][379]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.02.04-23.53.21:415][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.04-23.53.21:468][577]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto6
+[2024.02.04-23.53.21:468][577]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB_Auto6BB239AFA440EBBA1C76066AA0D253347.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto6.umap'
+[2024.02.04-23.53.21:469][577]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto6.umap is in the /Temp path, will not scan.
+[2024.02.04-23.53.21:469][577]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.068
+[2024.02.04-23.53.21:469][577]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2024.02.04-23.55.29:960][162]LogEditorViewport: Clicking Background
+[2024.02.05-00.03.21:636][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.05-00.03.21:717][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto7
+[2024.02.05-00.03.21:717][ 16]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB_Auto7E0C4BF9C45FC2A7C4565C8884CE395EE.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto7.umap'
+[2024.02.05-00.03.21:718][ 16]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto7.umap is in the /Temp path, will not scan.
+[2024.02.05-00.03.21:718][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.096
+[2024.02.05-00.03.21:718][ 16]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2024.02.05-00.04.06:080][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.05-00.04.10:410][411]LogSlate: Window 'Save Content' being destroyed
+[2024.02.05-00.04.10:470][412]LogAutomationController: Ignoring very large delta of 4.41 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.05-00.04.22:913][192]Cmd: DELETE
+[2024.02.05-00.04.22:913][192]Cmd: ACTOR DELETE
+[2024.02.05-00.04.22:917][192]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-00.04.22:934][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.02.05-00.04.22:938][192]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.02.05-00.04.47:973][556]LogSlate: Window 'Open Level' being destroyed
+[2024.02.05-00.05.35:500][937]LogEditorViewport: Clicking Background
+[2024.02.05-00.06.07:146][567]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.05-00.06.33:665][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-00.06.33:726][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/HUB" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-00.06.33:760][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.02.05-00.06.33:791][898]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/HUB
+[2024.02.05-00.06.33:792][898]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUBAB2FDD7846301F95BF3B3F964F055986.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap'
+[2024.02.05-00.06.33:798][898]LogFileHelpers: All files are already saved.
+[2024.02.05-00.06.33:798][898]LogFileHelpers: Saving map 'HUB' took 0.073
+[2024.02.05-00.06.33:805][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 5.89 sec)
+[2024.02.05-00.06.33:806][898]AssetCheck: New page: Asset Save: HUB
+[2024.02.05-00.06.33:806][898]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/HUB.HUB
+[2024.02.05-00.11.50:740][333]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.05-00.11.50:746][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.05-00.11.50:746][333]PIE: New page: PIE session: HUB (5 Feb 2024, 00:11:50)
+[2024.02.05-00.11.50:746][333]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-00.11.50:757][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011111s)
+[2024.02.05-00.11.50:759][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/HUB.HUB to /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB (0.011162s)
+[2024.02.05-00.11.50:774][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.02.05-00.11.50:775][333]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-00.11.50:776][333]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-00.11.50:776][333]LogAIModule: Creating AISystem for world HUB
+[2024.02.05-00.11.50:776][333]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2024.02.05-00.11.50:776][333]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.02.05-00.11.50:776][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.05-00.11.50:776][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.05-00.11.50:776][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.05-00.11.50:776][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.05-00.11.50:776][333]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.05-00.11.50:777][333]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.05-00.11.50:777][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.05-00.11.50:777][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.05-00.11.50:777][333]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.05-00.11.50:777][333]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.05-00.11.50:777][333]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.05-00.11.50:780][333]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.05-00.11.50:800][333]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.02.05-00.11.50:801][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.05-00.11.50:801][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.05-00.11.50:801][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.05-00.11.50:802][333]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.02.05-00.11.50:802][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.02.05-00.11.50:803][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.02.05-00.11.50:803][333]LogInit: FAudioDevice initialized with ID 5.
+[2024.02.05-00.11.50:803][333]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.02.05-00.11.50:803][333]LogAudio: Display: Audio Device (ID: 5) registered with world 'HUB'.
+[2024.02.05-00.11.50:803][333]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.05-00.11.50:882][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-00.11.50:882][333]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.02.05-00.11.50:886][333]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB up for play (max tick rate 0) at 2024.02.05-00.11.50
+[2024.02.05-00.11.50:887][333]LogWorld: Bringing up level for play took: 0.004527
+[2024.02.05-00.11.50:889][333]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.02.05-00.11.50:890][333]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.05-00.11.50:890][333]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.02.05-00.11.50:904][333]PIE: Server logged in
+[2024.02.05-00.11.50:907][333]PIE: Play in editor total start time 0.161 seconds.
+[2024.02.05-00.11.51:028][333]LogViewport: Scene viewport resized to 4307x1999, mode Windowed.
+[2024.02.05-00.12.29:481][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-00.12.29:481][139]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-00.12.29:481][139]LogSlate: Window 'IGD720_DRONE Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.05-00.12.29:613][139]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-00.12.29:615][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-00.12.29:618][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.05-00.12.29:625][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-00.12.29:638][139]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.05-00.12.29:639][139]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.05-00.12.29:639][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.05-00.12.29:641][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.05-00.12.29:649][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.02.05-00.12.29:708][140]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.02.05-00.16.07:127][ 40]Cmd: DELETE
+[2024.02.05-00.16.07:127][ 40]Cmd: ACTOR DELETE
+[2024.02.05-00.16.07:131][ 40]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-00.16.07:148][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.02.05-00.16.07:152][ 40]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.02.05-00.16.08:398][119]Cmd: DELETE
+[2024.02.05-00.16.08:398][119]Cmd: ACTOR DELETE
+[2024.02.05-00.16.08:402][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-00.16.08:418][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.05-00.16.08:421][119]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.02.05-00.16.25:106][529]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2024.02.05-00.18.13:504][349]LogEditorViewport: Clicking Background
+[2024.02.05-00.18.38:248][306]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2024.02.05-00.21.00:962][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.02.05-00.21.01:008][162]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto8
+[2024.02.05-00.21.01:008][162]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB_Auto88A623C5F4AB6A09591D916A9677883BE.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto8.umap'
+[2024.02.05-00.21.01:009][162]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto8.umap is in the /Temp path, will not scan.
+[2024.02.05-00.21.01:009][162]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto8 is in the /Temp path, will not scan.
+[2024.02.05-00.21.01:009][162]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto8 is in the /Temp path, will not scan.
+[2024.02.05-00.21.01:009][162]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.064
+[2024.02.05-00.21.01:009][162]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2024.02.05-00.23.06:510][341]LogEditorViewport: Clicking Background
+[2024.02.05-00.23.38:245][991]LogEditorViewport: Clicking Background
+[2024.02.05-00.24.22:342][468]Cmd: POLY SELECT MATCHING BRUSH
+[2024.02.05-00.24.27:643][816]LogEditorViewport: Clicking Background
+[2024.02.05-00.25.12:809][530]Cmd: POLY SELECT MATCHING BRUSH
+[2024.02.05-00.25.23:442][364]LogEditorViewport: Clicking Background
+[2024.02.05-00.26.33:422][595]Cmd: POLY SELECT ADJACENT WALLS
+[2024.02.05-00.26.43:469][595]LogEditorViewport: Clicking Background
+[2024.02.05-00.26.44:774][596]LogAutomationController: Ignoring very large delta of 11.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.05-00.26.44:776][596]LogEditorViewport: Clicking Background
+[2024.02.05-00.26.44:777][596]LogEditorViewport: Clicking Background
+[2024.02.05-00.26.45:090][597]LogEditorViewport: Clicking Background
+[2024.02.05-00.28.55:881][444]Cmd: POLY SELECT ADJACENT WALLS
+[2024.02.05-00.29.07:892][444]LogAutomationController: Ignoring very large delta of 12.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.05-00.29.16:782][ 61]LogEditorViewport: Clicking Background
+[2024.02.05-00.29.25:316][795]Cmd: TRANSACTION UNDO
+[2024.02.05-00.29.25:316][795]LogEditorTransaction: Undo Clicking Background
+[2024.02.05-00.29.28:229][  2]Cmd: TRANSACTION UNDO
+[2024.02.05-00.29.28:230][  2]LogEditorTransaction: Undo Create Actors
+[2024.02.05-00.29.31:090][193]LogEditorViewport: Clicking Background
+[2024.02.05-00.31.19:595][271]Cmd: CLEANBSPMATERIALS
+[2024.02.05-00.31.22:047][271]LogSlate: Window 'Message' being destroyed
+[2024.02.05-00.31.22:052][271]Message dialog closed, result: Ok, title: Message, text: Cleared 0 BSP material references.  Check log window for further details.
+[2024.02.05-00.31.22:062][271]LogAutomationController: Ignoring very large delta of 2.47 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.05-00.31.42:112][585]LogSlate: Window 'Select Path' being destroyed
+[2024.02.05-00.31.42:326][585]LogStaticMesh: Display: Building static mesh RoundWall...
+[2024.02.05-00.31.42:332][585]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/RoundWall.RoundWall
+[2024.02.05-00.31.42:332][585]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/RoundWall.RoundWall
+[2024.02.05-00.31.42:342][585]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/RoundWall.RoundWall as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.StaticMeshActor_50
+[2024.02.05-00.31.42:359][585]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/BLUEPRINTS/Meshs/RoundWall) ...
+[2024.02.05-00.31.42:366][585]LogStaticMesh: Built static mesh [0.04s] /Game/BLUEPRINTS/Meshs/RoundWall.RoundWall
+[2024.02.05-00.31.42:409][585]EditorErrors: New page: Actor Reattachment
+[2024.02.05-00.31.42:430][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.02.05-00.32.00:727][981]LogEditorViewport: Clicking Background
+[2024.02.05-00.32.12:326][740]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BLUEPRINTS/Meshs/RoundWall.RoundWall
+[2024.02.05-00.32.12:420][740]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-00.32.12:420][740]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-00.32.13:050][740]LogViewport: Scene viewport resized to 2894x1441, mode Windowed.
+[2024.02.05-00.33.23:751][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-00.33.23:885][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Meshs/RoundWall" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Meshs/RoundWall.uasset" SILENT=true
+[2024.02.05-00.33.23:889][599]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Meshs/RoundWall
+[2024.02.05-00.33.23:891][599]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/RoundWallCF91FBD94686C0C719A943867A1BE77D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Meshs/RoundWall.uasset'
+[2024.02.05-00.33.23:899][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 6.04 sec)
+[2024.02.05-00.33.23:899][599]AssetCheck: New page: Asset Save: RoundWall
+[2024.02.05-00.33.23:899][599]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/Meshs/RoundWall.RoundWall
+[2024.02.05-00.33.25:527][670]LogSlate: Window 'RoundWall' being destroyed
+[2024.02.05-00.33.25:587][670]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-00.33.25:587][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-00.35.30:511][787]LogEditorViewport: Clicking Background
+[2024.02.05-00.36.18:546][350]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2024.02.05-00.36.29:074][146]Cmd: TRANSACTION UNDO
+[2024.02.05-00.36.29:074][146]LogEditorTransaction: Undo Move Elements
+[2024.02.05-00.39.10:116][937]Cmd: TRANSACTION UNDO
+[2024.02.05-00.39.10:116][937]LogEditorTransaction: Undo Move Elements
+[2024.02.05-00.39.10:186][937]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2024.02.05-00.39.10:186][937]LogGeometryMode: Warning: Unable to resolve Brush_4 Brush in new BSP, see above
+[2024.02.05-00.39.10:186][937]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2024.02.05-00.40.29:085][224]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2024.02.05-00.40.29:103][224]LogAutomationController: Ignoring very large delta of 3.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.05-00.41.09:915][436]LogEditorViewport: Clicking Background
+[2024.02.05-00.41.28:871][683]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2024.02.05-00.41.28:889][684]LogAutomationController: Ignoring very large delta of 2.57 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.05-00.42.15:395][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.05-00.42.15:435][105]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto9
+[2024.02.05-00.42.15:435][105]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB_Auto9A00D60A24673C2DE2EA74C81CC67BC09.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto9.umap'
+[2024.02.05-00.42.15:436][105]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto9.umap is in the /Temp path, will not scan.
+[2024.02.05-00.42.15:436][105]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto9 is in the /Temp path, will not scan.
+[2024.02.05-00.42.15:436][105]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto9 is in the /Temp path, will not scan.
+[2024.02.05-00.42.15:436][105]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.059
+[2024.02.05-00.42.15:436][105]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2024.02.05-00.42.45:934][407]Cmd: POLY SELECT MATCHING BRUSH
+[2024.02.05-00.42.58:702][241]LogEditorViewport: Clicking Background
+[2024.02.05-00.43.14:272][269]Cmd: CLEANBSPMATERIALS
+[2024.02.05-00.43.16:587][269]LogSlate: Window 'Message' being destroyed
+[2024.02.05-00.43.16:591][269]Message dialog closed, result: Ok, title: Message, text: Cleared 0 BSP material references.  Check log window for further details.
+[2024.02.05-00.43.16:601][270]LogAutomationController: Ignoring very large delta of 2.33 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.05-00.43.37:842][594]LogSlate: Window 'Select Path' being destroyed
+[2024.02.05-00.43.37:945][594]LogStaticMesh: Display: Building static mesh SlantedWall...
+[2024.02.05-00.43.37:949][594]LogStaticMesh: Built static mesh [0.00s] /Game/BLUEPRINTS/Meshs/SlantedWall.SlantedWall
+[2024.02.05-00.43.37:951][594]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/SlantedWall.SlantedWall
+[2024.02.05-00.43.37:951][594]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/SlantedWall.SlantedWall
+[2024.02.05-00.43.37:952][594]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/SlantedWall.SlantedWall as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.StaticMeshActor_51
+[2024.02.05-00.43.37:991][594]EditorErrors: New page: Actor Reattachment
+[2024.02.05-00.43.38:009][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.02.05-00.43.56:359][750]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BLUEPRINTS/Meshs/SlantedWall.SlantedWall
+[2024.02.05-00.43.56:417][750]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-00.43.56:417][750]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-00.43.57:045][750]LogViewport: Scene viewport resized to 2899x1447, mode Windowed.
+[2024.02.05-00.44.10:510][301]LogEditorTransaction: Undo Create Convex Collision
+[2024.02.05-00.44.46:213][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-00.44.46:352][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Meshs/SlantedWall" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Meshs/SlantedWall.uasset" SILENT=true
+[2024.02.05-00.44.46:354][669]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Meshs/SlantedWall
+[2024.02.05-00.44.46:354][669]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SlantedWall4102E9FF4EA6B8DC3814C5ADE8749C66.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Meshs/SlantedWall.uasset'
+[2024.02.05-00.44.46:362][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 6.19 sec)
+[2024.02.05-00.44.46:362][669]AssetCheck: New page: Asset Save: SlantedWall
+[2024.02.05-00.44.46:362][669]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/Meshs/SlantedWall.SlantedWall
+[2024.02.05-00.44.48:587][756]LogSlate: Window 'SlantedWall' being destroyed
+[2024.02.05-00.44.48:633][756]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-00.44.48:633][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-00.45.20:150][989]LogEditorViewport: Clicking Background
+[2024.02.05-00.45.32:923][873]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:37.292 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50143 files in 51720 folders with total size 8908 MiB.
+[2024.02.05-00.45.42:191][530]LogEditorViewport: Clicking Background
+[2024.02.05-00.45.51:972][252]Cmd: TRANSACTION UNDO
+[2024.02.05-00.45.51:972][252]LogEditorTransaction: Undo Move Elements
+[2024.02.05-00.45.53:102][303]LogEditorViewport: Clicking Background
+[2024.02.05-00.46.02:942][  1]LogEditorViewport: Clicking Background
+[2024.02.05-00.46.05:600][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-00.46.05:649][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/HUB" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-00.46.05:684][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.02.05-00.46.05:720][210]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/HUB
+[2024.02.05-00.46.05:721][210]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB47E6FBF742F5E35AA07CAE870D0585F7.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap'
+[2024.02.05-00.46.05:726][210]LogFileHelpers: All files are already saved.
+[2024.02.05-00.46.05:726][210]LogFileHelpers: Saving map 'HUB' took 0.077
+[2024.02.05-00.46.05:733][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 6.32 sec)
+[2024.02.05-00.46.05:734][210]AssetCheck: New page: Asset Save: HUB
+[2024.02.05-00.46.05:734][210]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/HUB.HUB
+[2024.02.05-00.46.08:143][435]MapCheck: New page: Map Check
+[2024.02.05-00.46.08:171][435]Cmd: MAP REBUILD ALLVISIBLE
+[2024.02.05-00.46.08:172][435]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.02.05-00.46.08:450][435]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-00.46.08:451][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-00.46.08:451][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-00.46.08:451][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-00.46.08:465][435]LogShaderCompilers: Display: ================================================
+[2024.02.05-00.46.08:465][435]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.05-00.46.08:465][435]LogShaderCompilers: Display: Total job queries 920, among them cache hits 716 (77.83%)
+[2024.02.05-00.46.08:465][435]LogShaderCompilers: Display: Tracking 202 distinct input hashes that result in 130 distinct outputs (64.36%)
+[2024.02.05-00.46.08:465][435]LogShaderCompilers: Display: RAM used: 4.76 MiB of 1.60 GiB budget. Usage: 0.29%
+[2024.02.05-00.46.08:465][435]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.05-00.46.08:465][435]LogShaderCompilers: Display: Shaders Compiled: 100
+[2024.02.05-00.46.08:465][435]LogShaderCompilers: Display: Jobs assigned 100, completed 100 (100%)
+[2024.02.05-00.46.08:465][435]LogShaderCompilers: Display: Average time worker was idle: 417.70 s
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.78 s
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display: Job execution time: average 0.47 s, max 2.08 s
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display: Job life time (pending + execution): average 0.58 s, max 2.12
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display: Shader code size: average 37.787 KiB, min 29.613 KiB, max 61.656 KiB
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.81 s
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display: Jobs were issued in 100 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display: Average processing rate: 5.62 jobs/sec
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display: Total thread time: 30.451 s
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display: Total thread preprocess time: 5.539 s
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display: Percentage time preprocessing: 18.19%
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display: Effective parallelization: 1.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.46 sec, max 0.74 sec, min 0.31 sec)
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.41 sec, max 0.43 sec, min 0.39 sec)
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.40 sec, max 0.41 sec, min 0.39 sec)
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.39 sec, max 0.42 sec, min 0.37 sec)
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.66% of total time (compiled   27 times, average 0.29 sec, max 0.75 sec, min 0.22 sec)
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.05% of total time (compiled   27 times, average 0.27 sec, max 0.91 sec, min 0.21 sec)
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.51% of total time (compiled    3 times, average 0.46 sec, max 0.74 sec, min 0.31 sec)
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 2.92% of total time (compiled    3 times, average 0.30 sec, max 0.61 sec, min 0.14 sec)
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.68% of total time (compiled    2 times, average 0.41 sec, max 0.43 sec, min 0.39 sec)
+[2024.02.05-00.46.08:466][435]LogShaderCompilers: Display: ================================================
+[2024.02.05-00.46.08:476][435]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.02.05-00.46.08:495][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.02.05-00.46.08:525][435]LogLevel: Display: Export Material TexCoord Scales took 0.028 seconds.
+[2024.02.05-00.46.08:531][435]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2024.02.05-00.46.08:545][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.02.05-00.46.08:553][435]LightingResults: New page: Lighting Build - 5 Feb 2024, 00:46:08
+[2024.02.05-00.46.08:569][435]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.02.05-00.46.08:575][435]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.02.05-00.46.08:575][435]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.02.05-00.46.08:576][435]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.02.05-00.46.08:576][435]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20252
+[2024.02.05-00.46.14:338][435]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.02.05-00.46.14:338][435]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.02.05-00.46.14:338][435]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.02.05-00.46.14:338][435]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.02.05-00.46.14:338][435]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.02.05-00.46.14:338][435]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.02.05-00.46.14:430][435]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.02.05-00.46.14:430][435]MapCheck: New page: HUB - 5 Feb 2024, 00:46:14
+[2024.02.05-00.46.14:431][435]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.697ms to complete.
+[2024.02.05-00.46.14:431][435]LogEditorBuildUtils: Build time 0:06
+[2024.02.05-00.46.14:609][436]LogAutomationController: Ignoring very large delta of 6.47 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.05-00.46.16:940][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.02.05-00.46.18:530][501]LightingResults: Warning: BracketLight Object has overlapping UVs.
+[2024.02.05-00.46.18:530][501]LightingResults: BracketLight Lightmap UV are overlapping by 3.5%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-00.46.18:551][502]LightingResults: Warning: EdgePlatformRower Object has overlapping UVs.
+[2024.02.05-00.46.18:551][502]LightingResults: EdgePlatformRower Lightmap UV are overlapping by 1.3%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-00.46.18:608][503]LightingResults: Warning: BracketLight Object has overlapping UVs.
+[2024.02.05-00.46.18:608][503]LightingResults: BracketLight Lightmap UV are overlapping by 3.5%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-00.46.18:608][503]LightingResults: Warning: BracketLight Object has overlapping UVs.
+[2024.02.05-00.46.18:608][503]LightingResults: BracketLight Lightmap UV are overlapping by 3.5%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-00.46.18:760][510]LightingResults: Warning: BracketLight Object has overlapping UVs.
+[2024.02.05-00.46.18:760][510]LightingResults: BracketLight Lightmap UV are overlapping by 3.5%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-00.46.18:838][512]LightingResults: Warning: EdgePlatformRower Object has overlapping UVs.
+[2024.02.05-00.46.18:838][512]LightingResults: EdgePlatformRower Lightmap UV are overlapping by 1.3%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-00.46.18:883][514]LightingResults: Warning: BracketLight Object has overlapping UVs.
+[2024.02.05-00.46.18:884][514]LightingResults: BracketLight Lightmap UV are overlapping by 3.5%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-00.46.18:973][518]LightingResults: Warning: MidBase Object has overlapping UVs.
+[2024.02.05-00.46.18:973][518]LightingResults: MidBase Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-00.46.19:039][520]LightingResults: Warning: BracketLight Object has overlapping UVs.
+[2024.02.05-00.46.19:039][520]LightingResults: BracketLight Lightmap UV are overlapping by 3.5%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-00.46.19:428][542]Job is a success!
+[2024.02.05-00.46.19:706][544]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2024.02.05-00.46.19:706][544]LogVolumetricLightmapImport:      Indirection Texture 32x16x16 = 0.0Mb
+[2024.02.05-00.46.19:706][544]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2024.02.05-00.46.19:706][544]LogVolumetricLightmapImport:      Bricks at depth
+[2024.02.05-00.46.19:706][544]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2024.02.05-00.46.19:706][544]LogVolumetricLightmapImport:          1: 25.8% covering 18.8% of volume
+[2024.02.05-00.46.19:706][544]LogVolumetricLightmapImport:          2: 72.0% covering 0.8% of volume
+[2024.02.05-00.46.19:706][544]LogVolumetricLightmapImport:      Bricks in each level
+[2024.02.05-00.46.19:706][544]LogVolumetricLightmapImport:          HUB 			 93 bricks 	 100.0% (Persistent Level)
+[2024.02.05-00.46.19:780][544]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.02.05-00.46.19:795][544]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.02.05-00.46.19:880][544]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData:ShadowMapTexture2D_0 (BGRA8, 1024x256 x1x1x1) (Required Memory Estimate: 8.0625 MB), EncodeSpeed: Fast
+[2024.02.05-00.46.19:894][544]Lightmass on DEVATOX: 2.22 sec total, 363 ms importing, 18 ms setup, 271 ms photons, 1.57 sec processing, 0 us extra exporting [58/58 mappings]. Threads: 17.2 sec total, 6.54 sec processing.
+[2024.02.05-00.46.19:935][544]LogStaticLightingSystem: HUB_BuiltData storing lightmap data for 58 meshes in 2 LightmapResourceClusters (29.0 Meshes per cluster).
+[2024.02.05-00.46.19:965][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.05-00.46.20:019][544]LogStaticLightingSystem: Illumination: 11.3 sec (75 ms encoding lightmaps, 74 ms encoding shadowmaps)
+[2024.02.05-00.46.20:019][544]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2024.02.05-00.46.20:019][544]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 1 textures
+[2024.02.05-00.46.20:321][544]DumpUnbuiltLightIteractions
+[2024.02.05-00.46.20:321][544]Lights with unbuilt interactions: 0
+[2024.02.05-00.46.20:321][544]
+[2024.02.05-00.46.20:321][544]Primitives with unbuilt interactions: 0
+[2024.02.05-00.46.20:336][545]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.02.05-00.46.20:336][545]MapCheck: New page: HUB - 5 Feb 2024, 00:46:20
+[2024.02.05-00.46.20:336][545]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.54ms to complete.
+[2024.02.05-00.46.43:635][174]LogAutomationController: Ignoring very large delta of 2.90 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.05-00.47.02:952][782]LogSlate: Window 'Message Log' being destroyed
+[2024.02.05-00.47.02:961][782]LogSlate: Window 'Message Log' being destroyed
+[2024.02.05-00.51.26:858][506]LogEditorViewport: Clicking Background
+[2024.02.05-00.51.31:862][930]LogEditorViewport: Clicking Background
+[2024.02.05-00.51.39:985][605]LogEditorViewport: Clicking Background
+[2024.02.05-00.53.01:180][473]LogEditorViewport: Clicking Background
+[2024.02.05-00.53.08:397][ 72]LogEditorViewport: Clicking Background
+[2024.02.05-00.53.13:393][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-00.53.13:449][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/HUB" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-00.53.13:484][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.02.05-00.53.13:520][542]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/HUB
+[2024.02.05-00.53.13:521][542]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB69267A3E4952A16701C0F28EFA088368.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap'
+[2024.02.05-00.53.13:528][542]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/BLUEPRINTS/Maps/HUB_BuiltData
+[2024.02.05-00.53.13:528][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-00.53.13:532][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/HUB_BuiltData" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB_BuiltData.uasset" SILENT=true
+[2024.02.05-00.53.13:547][542]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/HUB_BuiltData
+[2024.02.05-00.53.13:548][542]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB_BuiltData2215A45141F258828422EE9BB41ABFC9.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB_BuiltData.uasset'
+[2024.02.05-00.53.13:549][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 21 ms (total: 6.34 sec)
+[2024.02.05-00.53.13:549][542]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/BLUEPRINTS/Maps/HUB_BuiltData
+[2024.02.05-00.53.13:549][542]LogFileHelpers: Saving map 'HUB' took 0.101
+[2024.02.05-00.53.13:557][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 6.50 sec)
+[2024.02.05-00.53.13:559][542]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.05-00.53.13:559][542]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/HUB.HUB
+[2024.02.05-00.53.13:559][542]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData
+[2024.02.05-00.53.16:353][790]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.05-00.53.16:360][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.05-00.53.16:360][790]PIE: New page: PIE session: HUB (5 Feb 2024, 00:53:16)
+[2024.02.05-00.53.16:360][790]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-00.53.16:370][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010515s)
+[2024.02.05-00.53.16:371][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/HUB.HUB to /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB (0.010556s)
+[2024.02.05-00.53.16:386][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.05-00.53.16:387][790]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-00.53.16:387][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-00.53.16:388][790]LogAIModule: Creating AISystem for world HUB
+[2024.02.05-00.53.16:388][790]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2024.02.05-00.53.16:388][790]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.02.05-00.53.16:388][790]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.05-00.53.16:388][790]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.05-00.53.16:388][790]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.05-00.53.16:388][790]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.05-00.53.16:388][790]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.05-00.53.16:388][790]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.05-00.53.16:388][790]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.05-00.53.16:388][790]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.05-00.53.16:389][790]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.05-00.53.16:389][790]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.05-00.53.16:389][790]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.05-00.53.16:391][790]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.05-00.53.16:412][790]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.02.05-00.53.16:412][790]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.05-00.53.16:412][790]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.05-00.53.16:412][790]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.05-00.53.16:413][790]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.02.05-00.53.16:413][790]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.02.05-00.53.16:415][790]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.02.05-00.53.16:415][790]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.02.05-00.53.16:415][790]LogInit: FAudioDevice initialized with ID 6.
+[2024.02.05-00.53.16:415][790]LogAudio: Display: Audio Device (ID: 6) registered with world 'HUB'.
+[2024.02.05-00.53.16:415][790]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.05-00.53.16:474][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-00.53.16:474][790]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.02.05-00.53.16:479][790]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB up for play (max tick rate 0) at 2024.02.05-00.53.16
+[2024.02.05-00.53.16:480][790]LogWorld: Bringing up level for play took: 0.005541
+[2024.02.05-00.53.16:483][790]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.02.05-00.53.16:484][790]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.05-00.53.16:484][790]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.02.05-00.53.16:493][790]PIE: Server logged in
+[2024.02.05-00.53.16:496][790]PIE: Play in editor total start time 0.136 seconds.
+[2024.02.05-00.53.16:517][790]LogViewport: Scene viewport resized to 4313x1999, mode Windowed.
+[2024.02.05-00.53.59:231][633]LogBlueprintUserMessages: [DevatoxBP_C_0] OUT OF AMMO!
+[2024.02.05-00.53.59:568][640]LogBlueprintUserMessages: [DevatoxBP_C_0] OUT OF AMMO!
+[2024.02.05-00.54.02:074][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-00.54.02:074][693]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-00.54.02:075][693]LogSlate: Window 'IGD720_DRONE Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.05-00.54.02:174][693]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-00.54.02:176][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-00.54.02:179][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.05-00.54.02:186][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-00.54.02:201][693]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.05-00.54.02:201][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.05-00.54.02:204][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.05-00.54.02:211][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.02.05-00.54.02:240][694]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.02.05-00.57.43:145][ 42]Cmd: DELETE
+[2024.02.05-00.57.43:145][ 42]Cmd: ACTOR DELETE
+[2024.02.05-00.57.43:149][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-00.57.43:166][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.05-00.57.43:172][ 42]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.02.05-00.58.00:258][407]LogEditorViewport: Clicking Background
+[2024.02.05-00.58.23:905][427]Cmd: DELETE
+[2024.02.05-00.58.23:905][427]Cmd: ACTOR DELETE
+[2024.02.05-00.58.23:915][427]LogEditorActor: Deleted Actor: SpotLight
+[2024.02.05-00.58.23:934][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.05-00.58.23:938][427]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2024.02.05-00.58.25:227][530]Cmd: DELETE
+[2024.02.05-00.58.25:227][530]Cmd: ACTOR DELETE
+[2024.02.05-00.58.25:230][530]LogEditorActor: Deleted Actor: SpotLight
+[2024.02.05-00.58.25:246][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.05-00.58.25:249][530]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.02.05-00.58.27:509][720]Cmd: DELETE
+[2024.02.05-00.58.27:509][720]Cmd: ACTOR DELETE
+[2024.02.05-00.58.27:513][720]LogEditorActor: Deleted Actor: SpotLight
+[2024.02.05-00.58.27:528][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.05-00.58.27:531][720]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.02.05-00.58.28:679][809]Cmd: DELETE
+[2024.02.05-00.58.28:679][809]Cmd: ACTOR DELETE
+[2024.02.05-00.58.28:683][809]LogEditorActor: Deleted Actor: SpotLight
+[2024.02.05-00.58.28:697][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.02.05-00.58.28:700][809]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.02.05-00.58.30:415][953]Cmd: DELETE
+[2024.02.05-00.58.30:415][953]Cmd: ACTOR DELETE
+[2024.02.05-00.58.30:418][953]LogEditorActor: Deleted Actor: SpotLight
+[2024.02.05-00.58.30:435][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.05-00.58.30:438][953]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.02.05-01.00.21:148][218]MapCheck: New page: Map Check
+[2024.02.05-01.00.21:170][218]Cmd: MAP REBUILD ALLVISIBLE
+[2024.02.05-01.00.21:171][218]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.02.05-01.00.21:432][218]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.00.21:433][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.00.21:433][218]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.00.21:433][218]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: ================================================
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Total job queries 928, among them cache hits 720 (77.59%)
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Tracking 204 distinct input hashes that result in 131 distinct outputs (64.22%)
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: RAM used: 4.80 MiB of 1.60 GiB budget. Usage: 0.29%
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Shaders Compiled: 102
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Jobs assigned 102, completed 102 (100%)
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Average time worker was idle: 523.68 s
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.78 s
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Job execution time: average 0.50 s, max 2.17 s
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Job life time (pending + execution): average 0.61 s, max 2.23
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Shader code size: average 37.693 KiB, min 29.613 KiB, max 61.656 KiB
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.03 s
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Jobs were issued in 102 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Average processing rate: 5.09 jobs/sec
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Total thread time: 31.365 s
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Total thread preprocess time: 6.115 s
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Percentage time preprocessing: 19.49%
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Effective parallelization: 1.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.46 sec, max 0.74 sec, min 0.31 sec)
+[2024.02.05-01.00.21:446][218]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.41 sec, max 0.43 sec, min 0.39 sec)
+[2024.02.05-01.00.21:447][218]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.40 sec, max 0.41 sec, min 0.39 sec)
+[2024.02.05-01.00.21:447][218]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.39 sec, max 0.42 sec, min 0.37 sec)
+[2024.02.05-01.00.21:447][218]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.02.05-01.00.21:447][218]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.05-01.00.21:447][218]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.26% of total time (compiled   28 times, average 0.29 sec, max 0.75 sec, min 0.22 sec)
+[2024.02.05-01.00.21:447][218]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.92% of total time (compiled   28 times, average 0.28 sec, max 0.91 sec, min 0.21 sec)
+[2024.02.05-01.00.21:447][218]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.38% of total time (compiled    3 times, average 0.46 sec, max 0.74 sec, min 0.31 sec)
+[2024.02.05-01.00.21:447][218]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 2.84% of total time (compiled    3 times, average 0.30 sec, max 0.61 sec, min 0.14 sec)
+[2024.02.05-01.00.21:447][218]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.60% of total time (compiled    2 times, average 0.41 sec, max 0.43 sec, min 0.39 sec)
+[2024.02.05-01.00.21:447][218]LogShaderCompilers: Display: ================================================
+[2024.02.05-01.00.21:452][218]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.02.05-01.00.21:470][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.05-01.00.21:499][218]LogLevel: Display: Export Material TexCoord Scales took 0.025 seconds.
+[2024.02.05-01.00.21:505][218]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2024.02.05-01.00.21:518][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.05-01.00.21:522][218]LightingResults: New page: Lighting Build - 5 Feb 2024, 01:00:21
+[2024.02.05-01.00.21:527][218]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.02.05-01.00.21:531][218]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.02.05-01.00.21:531][218]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.02.05-01.00.21:533][218]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.02.05-01.00.21:533][218]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20252
+[2024.02.05-01.00.26:910][218]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.02.05-01.00.26:910][218]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.02.05-01.00.26:910][218]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.02.05-01.00.26:910][218]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.02.05-01.00.26:910][218]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.02.05-01.00.26:910][218]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.02.05-01.00.26:978][218]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.02.05-01.00.26:978][218]MapCheck: New page: HUB - 5 Feb 2024, 01:00:26
+[2024.02.05-01.00.26:978][218]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.593ms to complete.
+[2024.02.05-01.00.26:978][218]LogEditorBuildUtils: Build time 0:05
+[2024.02.05-01.00.27:134][218]LogAutomationController: Ignoring very large delta of 5.99 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.05-01.00.27:151][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.05-01.00.28:742][267]LightingResults: Warning: EdgePlatformRower Object has overlapping UVs.
+[2024.02.05-01.00.28:742][267]LightingResults: EdgePlatformRower Lightmap UV are overlapping by 1.3%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.00.28:763][268]LightingResults: Warning: BracketLight Object has overlapping UVs.
+[2024.02.05-01.00.28:763][268]LightingResults: BracketLight Lightmap UV are overlapping by 3.5%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.00.28:838][269]LightingResults: Warning: BracketLight Object has overlapping UVs.
+[2024.02.05-01.00.28:838][269]LightingResults: BracketLight Lightmap UV are overlapping by 3.5%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.00.28:838][269]LightingResults: Warning: BracketLight Object has overlapping UVs.
+[2024.02.05-01.00.28:838][269]LightingResults: BracketLight Lightmap UV are overlapping by 3.5%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.00.28:909][271]LightingResults: Warning: BracketLight Object has overlapping UVs.
+[2024.02.05-01.00.28:909][271]LightingResults: BracketLight Lightmap UV are overlapping by 3.5%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.00.28:909][271]LightingResults: Warning: EdgePlatformRower Object has overlapping UVs.
+[2024.02.05-01.00.28:909][271]LightingResults: EdgePlatformRower Lightmap UV are overlapping by 1.3%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.00.28:947][272]LightingResults: Warning: BracketLight Object has overlapping UVs.
+[2024.02.05-01.00.28:947][272]LightingResults: BracketLight Lightmap UV are overlapping by 3.5%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.00.29:045][277]LightingResults: Warning: MidBase Object has overlapping UVs.
+[2024.02.05-01.00.29:045][277]LightingResults: MidBase Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.00.29:145][281]LightingResults: Warning: BracketLight Object has overlapping UVs.
+[2024.02.05-01.00.29:145][281]LightingResults: BracketLight Lightmap UV are overlapping by 3.5%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.00.29:293][289]Job is a success!
+[2024.02.05-01.00.29:571][291]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.025s
+[2024.02.05-01.00.29:571][291]LogVolumetricLightmapImport:      Indirection Texture 32x16x16 = 0.0Mb
+[2024.02.05-01.00.29:571][291]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2024.02.05-01.00.29:571][291]LogVolumetricLightmapImport:      Bricks at depth
+[2024.02.05-01.00.29:571][291]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2024.02.05-01.00.29:571][291]LogVolumetricLightmapImport:          1: 24.5% covering 18.8% of volume
+[2024.02.05-01.00.29:571][291]LogVolumetricLightmapImport:          2: 73.5% covering 0.9% of volume
+[2024.02.05-01.00.29:571][291]LogVolumetricLightmapImport:      Bricks in each level
+[2024.02.05-01.00.29:571][291]LogVolumetricLightmapImport:          HUB 			 98 bricks 	 100.0% (Persistent Level)
+[2024.02.05-01.00.29:645][291]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.02.05-01.00.29:661][291]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.02.05-01.00.29:744][291]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData:ShadowMapTexture2D_1 (G8, 1024x256 x1x1x1) (Required Memory Estimate: 6.062496 MB), EncodeSpeed: Fast
+[2024.02.05-01.00.29:794][291]Lightmass on DEVATOX: 1.99 sec total, 192 ms importing, 17 ms setup, 278 ms photons, 1.50 sec processing, 0 us extra exporting [57/57 mappings]. Threads: 16.5 sec total, 6.71 sec processing.
+[2024.02.05-01.00.29:851][291]LogStaticLightingSystem: HUB_BuiltData storing lightmap data for 57 meshes in 2 LightmapResourceClusters (28.5 Meshes per cluster).
+[2024.02.05-01.00.29:882][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.05-01.00.29:933][291]LogStaticLightingSystem: Illumination: 8.32 sec (75 ms encoding lightmaps, 114 ms encoding shadowmaps)
+[2024.02.05-01.00.29:933][291]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2024.02.05-01.00.29:933][291]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 1 textures
+[2024.02.05-01.00.35:922][291]DumpUnbuiltLightIteractions
+[2024.02.05-01.00.35:922][291]Lights with unbuilt interactions: 0
+[2024.02.05-01.00.35:922][291]
+[2024.02.05-01.00.35:922][291]Primitives with unbuilt interactions: 0
+[2024.02.05-01.00.35:938][291]LogAutomationController: Ignoring very large delta of 6.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.05-01.00.35:938][292]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.02.05-01.00.35:939][292]MapCheck: New page: HUB - 5 Feb 2024, 01:00:35
+[2024.02.05-01.00.35:939][292]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.656ms to complete.
+[2024.02.05-01.00.46:346][942]LogAutomationController: Ignoring very large delta of 2.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.05-01.00.54:673][569]LogSlate: Window 'Message Log' being destroyed
+[2024.02.05-01.00.54:680][569]LogSlate: Window 'Message Log' being destroyed
+[2024.02.05-01.01.43:034][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.01.43:119][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/HUB" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.01.43:152][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.02.05-01.01.43:213][172]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/HUB
+[2024.02.05-01.01.43:214][172]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB3C1182CC4F72008C5FC96A8F77143115.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap'
+[2024.02.05-01.01.43:220][172]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/BLUEPRINTS/Maps/HUB_BuiltData
+[2024.02.05-01.01.43:220][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.01.43:220][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/HUB_BuiltData" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB_BuiltData.uasset" SILENT=true
+[2024.02.05-01.01.43:236][172]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/HUB_BuiltData
+[2024.02.05-01.01.43:236][172]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB_BuiltData232CBD894CDF2B30FCEA1ABCB57F45B2.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB_BuiltData.uasset'
+[2024.02.05-01.01.43:237][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 17 ms (total: 6.52 sec)
+[2024.02.05-01.01.43:237][172]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/BLUEPRINTS/Maps/HUB_BuiltData
+[2024.02.05-01.01.43:237][172]LogFileHelpers: Saving map 'HUB' took 0.119
+[2024.02.05-01.01.43:244][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 6.73 sec)
+[2024.02.05-01.01.43:246][172]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.05-01.01.43:246][172]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/HUB.HUB
+[2024.02.05-01.01.43:246][172]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData
+[2024.02.05-01.01.45:392][348]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.05-01.01.45:398][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.05-01.01.45:398][348]PIE: New page: PIE session: HUB (5 Feb 2024, 01:01:45)
+[2024.02.05-01.01.45:398][348]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-01.01.45:409][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010034s)
+[2024.02.05-01.01.45:409][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/HUB.HUB to /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB (0.010079s)
+[2024.02.05-01.01.45:424][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.02.05-01.01.45:426][348]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.01.45:426][348]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.01.45:426][348]LogAIModule: Creating AISystem for world HUB
+[2024.02.05-01.01.45:427][348]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2024.02.05-01.01.45:427][348]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.02.05-01.01.45:427][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.05-01.01.45:427][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.05-01.01.45:427][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.05-01.01.45:427][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.05-01.01.45:427][348]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.05-01.01.45:427][348]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.05-01.01.45:427][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.05-01.01.45:427][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.05-01.01.45:427][348]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.05-01.01.45:427][348]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.05-01.01.45:427][348]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.05-01.01.45:429][348]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.05-01.01.45:449][348]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.02.05-01.01.45:449][348]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.05-01.01.45:449][348]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.05-01.01.45:449][348]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.05-01.01.45:450][348]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.02.05-01.01.45:450][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.02.05-01.01.45:452][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.02.05-01.01.45:452][348]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.02.05-01.01.45:452][348]LogInit: FAudioDevice initialized with ID 7.
+[2024.02.05-01.01.45:452][348]LogAudio: Display: Audio Device (ID: 7) registered with world 'HUB'.
+[2024.02.05-01.01.45:452][348]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.05-01.01.45:544][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-01.01.45:544][348]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.02.05-01.01.45:549][348]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB up for play (max tick rate 0) at 2024.02.05-01.01.45
+[2024.02.05-01.01.45:550][348]LogWorld: Bringing up level for play took: 0.005389
+[2024.02.05-01.01.45:553][348]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.02.05-01.01.45:555][348]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.05-01.01.45:555][348]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.02.05-01.01.45:564][348]PIE: Server logged in
+[2024.02.05-01.01.45:566][348]PIE: Play in editor total start time 0.168 seconds.
+[2024.02.05-01.01.45:589][348]LogViewport: Scene viewport resized to 4319x1999, mode Windowed.
+[2024.02.05-01.02.15:164][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-01.02.15:164][871]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-01.02.15:164][871]LogSlate: Window 'IGD720_DRONE Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.05-01.02.15:189][871]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.02.15:189][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.02.15:192][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.05-01.02.15:199][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.02.15:212][871]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.05-01.02.15:213][871]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.05-01.02.15:213][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.05-01.02.15:216][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.05-01.02.15:223][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.05-01.02.15:251][872]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.02.05-01.04.12:785][961]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2024.02.05-01.05.17:563][910]Cmd: DELETE
+[2024.02.05-01.05.17:563][910]Cmd: ACTOR DELETE
+[2024.02.05-01.05.17:569][910]LogEditorActor: Deleted Actor: Brush
+[2024.02.05-01.05.17:586][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.02.05-01.05.17:616][910]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2024.02.05-01.05.43:659][921]Cmd: DELETE
+[2024.02.05-01.05.43:659][921]Cmd: ACTOR DELETE
+[2024.02.05-01.05.43:664][921]LogEditorActor: Deleted Actor: Brush
+[2024.02.05-01.05.43:680][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.02.05-01.05.43:687][921]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.02.05-01.05.47:930][229]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2024.02.05-01.08.52:681][990]LogEditorViewport: Clicking Background
+[2024.02.05-01.09.15:680][701]Cmd: TRANSACTION UNDO
+[2024.02.05-01.09.15:680][701]LogEditorTransaction: Undo Move Elements
+[2024.02.05-01.09.38:248][249]Cmd: TRANSACTION UNDO
+[2024.02.05-01.09.38:248][249]LogEditorTransaction: Undo Move Elements
+[2024.02.05-01.09.51:059][120]Cmd: TRANSACTION UNDO
+[2024.02.05-01.09.51:059][120]LogEditorTransaction: Undo Move Elements
+[2024.02.05-01.10.32:254][847]LogSlate: Window 'Select Path' being destroyed
+[2024.02.05-01.10.32:640][847]LogStaticMesh: Display: Building static mesh Panel...
+[2024.02.05-01.10.32:646][847]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/Panel.Panel
+[2024.02.05-01.10.32:646][847]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/Panel.Panel
+[2024.02.05-01.10.32:650][847]LogStaticMesh: Built static mesh [0.01s] /Game/BLUEPRINTS/Meshs/Panel.Panel
+[2024.02.05-01.10.32:650][847]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/Panel.Panel as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.StaticMeshActor_52
+[2024.02.05-01.10.32:700][847]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.10.32:717][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.05-01.10.39:731][358]Cmd: DELETE
+[2024.02.05-01.10.39:731][358]Cmd: ACTOR DELETE
+[2024.02.05-01.10.39:738][358]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-01.10.39:754][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.05-01.10.39:764][358]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2024.02.05-01.11.03:281][224]LogEditorViewport: Clicking Background
+[2024.02.05-01.11.14:257][ 99]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2024.02.05-01.12.52:483][236]LogEditorViewport: Clicking Background
+[2024.02.05-01.13.19:312][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.02.05-01.13.19:363][398]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto0
+[2024.02.05-01.13.19:363][398]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB_Auto0E5BFFE8F4933FD6DFD22B0B717113E3D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto0.umap'
+[2024.02.05-01.13.19:364][398]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto0.umap is in the /Temp path, will not scan.
+[2024.02.05-01.13.19:364][398]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto0 is in the /Temp path, will not scan.
+[2024.02.05-01.13.19:364][398]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/BLUEPRINTS/Maps/HUB_Auto0 is in the /Temp path, will not scan.
+[2024.02.05-01.13.19:364][398]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.068
+[2024.02.05-01.13.19:364][398]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2024.02.05-01.13.19:365][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BLUEPRINTS/Meshs/Panel] ([1] browsable assets)...
+[2024.02.05-01.13.19:404][398]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/BLUEPRINTS/Meshs/Panel.Panel]
+[2024.02.05-01.13.19:404][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINTS/Meshs/Panel]
+[2024.02.05-01.13.19:404][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Meshs/Panel" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/Meshs/Panel_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.02.05-01.13.19:407][398]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/Meshs/Panel_Auto0
+[2024.02.05-01.13.19:407][398]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Panel_Auto0874640DC4C31454E8E6C5D85F9C3F677.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/Meshs/Panel_Auto0.uasset'
+[2024.02.05-01.13.19:408][398]LogFileHelpers: Auto-saving content packages took 0.043
+[2024.02.05-01.21.14:831][477]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2024.02.05-01.23.12:995][257]LogEditorViewport: Clicking Background
+[2024.02.05-01.25.17:625][361]LogEditorViewport: Clicking Background
+[2024.02.05-01.26.16:341][699]Cmd: TRANSACTION UNDO
+[2024.02.05-01.26.16:341][699]LogEditorTransaction: Undo Move Elements
+[2024.02.05-01.26.39:450][262]Cmd: TRANSACTION UNDO
+[2024.02.05-01.26.39:450][262]LogEditorTransaction: Undo Move Elements
+[2024.02.05-01.26.50:573][997]Cmd: TRANSACTION UNDO
+[2024.02.05-01.26.50:573][997]LogEditorTransaction: Undo Move Elements
+[2024.02.05-01.27.39:793][561]LogEditorViewport: Clicking Background
+[2024.02.05-01.27.48:374][176]Cmd: POLY SELECT MATCHING BRUSH
+[2024.02.05-01.27.56:409][715]Cmd: POLY SELECT MATCHING BRUSH
+[2024.02.05-01.28.06:141][409]Cmd: POLY SELECT MATCHING BRUSH
+[2024.02.05-01.28.23:812][710]Cmd: POLY SELECT MATCHING BRUSH
+[2024.02.05-01.28.28:190][997]LogEditorViewport: Clicking Background
+[2024.02.05-01.28.36:597][619]Cmd: POLY SELECT MATCHING BRUSH
+[2024.02.05-01.28.46:722][410]Cmd: TRANSACTION UNDO
+[2024.02.05-01.28.46:722][410]LogEditorTransaction: Undo Move Elements
+[2024.02.05-01.28.46:753][410]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.ModelComponent_245' invalid (6409 verts, 0 indices).
+[2024.02.05-01.28.56:180][ 49]Cmd: POLY SELECT MATCHING BRUSH
+[2024.02.05-01.29.00:358][342]LogEditorViewport: Clicking Background
+[2024.02.05-01.30.30:715][862]Cmd: CLEANBSPMATERIALS
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_8:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_9:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_10:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_11:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_12:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_13:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_14:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_15:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_17:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_18:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_19:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_20:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_21:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_22:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_23:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_24:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_34:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.30:715][862]LogEditorServer: Cleared /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.Brush_35:/Game/BLUEPRINTS/Materials/M_Chrome.M_Chrome
+[2024.02.05-01.30.32:694][862]LogSlate: Window 'Message' being destroyed
+[2024.02.05-01.30.32:699][862]Message dialog closed, result: Ok, title: Message, text: Cleared 18 BSP material references.  Check log window for further details.
+[2024.02.05-01.31.00:962][696]LogSlate: Window 'Select Path' being destroyed
+[2024.02.05-01.31.01:598][696]LogStaticMesh: Display: Building static mesh PipeBracket...
+[2024.02.05-01.31.01:604][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/PipeBracket.PipeBracket
+[2024.02.05-01.31.01:604][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/PipeBracket.PipeBracket
+[2024.02.05-01.31.01:614][696]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/PipeBracket.PipeBracket as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.StaticMeshActor_53
+[2024.02.05-01.31.01:632][696]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/BLUEPRINTS/Meshs/PipeBracket) ...
+[2024.02.05-01.31.01:649][696]LogStaticMesh: Built static mesh [0.05s] /Game/BLUEPRINTS/Meshs/PipeBracket.PipeBracket
+[2024.02.05-01.31.01:703][696]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.31.01:730][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.02.05-01.31.13:503][455]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BLUEPRINTS/Meshs/PipeBracket.PipeBracket
+[2024.02.05-01.31.13:768][455]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.31.13:768][455]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.31.14:393][455]LogViewport: Scene viewport resized to 2903x1453, mode Windowed.
+[2024.02.05-01.31.52:818][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.31.52:930][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Meshs/PipeBracket" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Meshs/PipeBracket.uasset" SILENT=true
+[2024.02.05-01.31.52:936][909]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Meshs/PipeBracket
+[2024.02.05-01.31.52:936][909]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/PipeBracket9F6E14234482D60D8D73AD86FD512DD1.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Meshs/PipeBracket.uasset'
+[2024.02.05-01.31.52:965][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 6.88 sec)
+[2024.02.05-01.31.52:967][909]AssetCheck: New page: Asset Save: PipeBracket
+[2024.02.05-01.31.52:967][909]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/Meshs/PipeBracket.PipeBracket
+[2024.02.05-01.31.54:411][970]LogSlate: Window 'PipeBracket' being destroyed
+[2024.02.05-01.31.54:459][970]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.31.54:459][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.31.58:472][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.31.58:519][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/HUB" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.31.58:554][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.05-01.31.58:601][261]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/HUB
+[2024.02.05-01.31.58:601][261]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB892F38FC45AD7538DC77BB98D0BD7231.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap'
+[2024.02.05-01.31.58:608][261]LogFileHelpers: All files are already saved.
+[2024.02.05-01.31.58:608][261]LogFileHelpers: Saving map 'HUB' took 0.088
+[2024.02.05-01.31.58:614][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 7.02 sec)
+[2024.02.05-01.31.58:616][261]AssetCheck: New page: Asset Save: HUB
+[2024.02.05-01.31.58:616][261]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/HUB.HUB
+[2024.02.05-01.32.08:849][ 52]Cmd: DELETE
+[2024.02.05-01.32.08:849][ 52]Cmd: ACTOR DELETE
+[2024.02.05-01.32.08:853][ 52]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-01.32.08:871][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.05-01.32.08:875][ 52]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.02.05-01.32.32:805][908]Cmd: TRANSACTION UNDO
+[2024.02.05-01.32.32:805][908]LogEditorTransaction: Undo Move Elements
+[2024.02.05-01.32.37:818][299]Cmd: TRANSACTION UNDO
+[2024.02.05-01.32.37:818][299]LogEditorTransaction: Undo Move Elements
+[2024.02.05-01.33.16:899][322]Cmd: DELETE
+[2024.02.05-01.33.16:899][322]Cmd: ACTOR DELETE
+[2024.02.05-01.33.16:903][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-01.33.16:919][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.02.05-01.33.16:925][322]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.02.05-01.33.23:421][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.05-01.33.23:422][925]PIE: New page: SIE session: HUB (5 Feb 2024, 01:33:23)
+[2024.02.05-01.33.23:422][925]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-01.33.23:434][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012758s)
+[2024.02.05-01.33.23:434][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/HUB.HUB to /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB (0.012799s)
+[2024.02.05-01.33.23:448][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.02.05-01.33.23:450][925]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.33.23:450][925]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.33.23:451][925]LogAIModule: Creating AISystem for world HUB
+[2024.02.05-01.33.23:451][925]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2024.02.05-01.33.23:451][925]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.02.05-01.33.23:451][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.05-01.33.23:451][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.05-01.33.23:451][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.05-01.33.23:451][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.05-01.33.23:451][925]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.05-01.33.23:451][925]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.05-01.33.23:451][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.05-01.33.23:451][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.05-01.33.23:452][925]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.05-01.33.23:452][925]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.05-01.33.23:452][925]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.05-01.33.23:454][925]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.05-01.33.23:476][925]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.02.05-01.33.23:476][925]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.05-01.33.23:476][925]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.05-01.33.23:476][925]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.05-01.33.23:477][925]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.02.05-01.33.23:477][925]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.02.05-01.33.23:479][925]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.02.05-01.33.23:479][925]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.02.05-01.33.23:479][925]LogInit: FAudioDevice initialized with ID 8.
+[2024.02.05-01.33.23:479][925]LogAudio: Display: Audio Device (ID: 8) registered with world 'HUB'.
+[2024.02.05-01.33.23:479][925]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.05-01.33.23:482][925]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.02.05-01.33.23:485][925]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB up for play (max tick rate 0) at 2024.02.05-01.33.23
+[2024.02.05-01.33.23:486][925]LogWorld: Bringing up level for play took: 0.004712
+[2024.02.05-01.33.23:488][925]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.02.05-01.33.23:490][925]PIE: Server logged in
+[2024.02.05-01.33.23:491][925]PIE: Play in editor total start time 0.07 seconds.
+[2024.02.05-01.33.39:717][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-01.33.39:717][698]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-01.33.39:718][698]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.33.39:718][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.33.39:733][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.05-01.33.39:740][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.33.39:754][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-01.33.39:755][698]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.05-01.33.39:755][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.05-01.33.39:756][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.05-01.33.39:763][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.02.05-01.33.39:848][699]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.02.05-01.33.45:753][177]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.02.05-01.33.45:759][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.05-01.33.45:759][177]PIE: New page: SIE session: HUB (5 Feb 2024, 01:33:45)
+[2024.02.05-01.33.45:759][177]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-01.33.45:772][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012860s)
+[2024.02.05-01.33.45:772][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/HUB.HUB to /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB (0.012896s)
+[2024.02.05-01.33.45:785][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.05-01.33.45:789][177]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.33.45:789][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.33.45:789][177]LogAIModule: Creating AISystem for world HUB
+[2024.02.05-01.33.45:790][177]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2024.02.05-01.33.45:790][177]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.02.05-01.33.45:790][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.05-01.33.45:790][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.05-01.33.45:790][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.05-01.33.45:790][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.05-01.33.45:790][177]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.05-01.33.45:790][177]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.05-01.33.45:790][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.05-01.33.45:790][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.05-01.33.45:790][177]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.05-01.33.45:790][177]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.05-01.33.45:790][177]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.05-01.33.45:792][177]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.05-01.33.45:811][177]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.02.05-01.33.45:812][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.05-01.33.45:812][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.05-01.33.45:812][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.05-01.33.45:812][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.02.05-01.33.45:812][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.02.05-01.33.45:815][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.02.05-01.33.45:815][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.02.05-01.33.45:815][177]LogInit: FAudioDevice initialized with ID 9.
+[2024.02.05-01.33.45:815][177]LogAudio: Display: Audio Device (ID: 9) registered with world 'HUB'.
+[2024.02.05-01.33.45:815][177]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.02.05-01.33.45:819][177]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.02.05-01.33.45:822][177]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB up for play (max tick rate 0) at 2024.02.05-01.33.45
+[2024.02.05-01.33.45:823][177]LogWorld: Bringing up level for play took: 0.004307
+[2024.02.05-01.33.45:825][177]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.02.05-01.33.45:827][177]PIE: Server logged in
+[2024.02.05-01.33.45:828][177]PIE: Play in editor total start time 0.07 seconds.
+[2024.02.05-01.34.05:777][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-01.34.05:777][200]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-01.34.05:778][200]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.34.05:779][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.34.05:939][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.05-01.34.05:946][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.34.05:960][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-01.34.05:961][200]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.02.05-01.34.05:962][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.05-01.34.05:964][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.05-01.34.05:971][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.02.05-01.34.06:060][201]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.02.05-01.34.49:247][570]Cmd: DELETE
+[2024.02.05-01.34.49:247][570]Cmd: ACTOR DELETE
+[2024.02.05-01.34.49:252][570]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-01.34.49:270][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.05-01.34.49:275][570]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.02.05-01.34.51:812][795]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.02.05-01.34.51:819][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.05-01.34.51:819][795]PIE: New page: SIE session: HUB (5 Feb 2024, 01:34:51)
+[2024.02.05-01.34.51:819][795]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-01.34.51:832][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012707s)
+[2024.02.05-01.34.51:832][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/HUB.HUB to /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB (0.012746s)
+[2024.02.05-01.34.51:845][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.02.05-01.34.51:847][795]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.34.51:847][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.34.51:848][795]LogAIModule: Creating AISystem for world HUB
+[2024.02.05-01.34.51:848][795]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2024.02.05-01.34.51:848][795]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.02.05-01.34.51:848][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.05-01.34.51:848][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.05-01.34.51:848][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.05-01.34.51:848][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.05-01.34.51:848][795]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.05-01.34.51:848][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.05-01.34.51:848][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.05-01.34.51:848][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.05-01.34.51:849][795]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.05-01.34.51:849][795]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.05-01.34.51:849][795]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.05-01.34.51:851][795]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.05-01.34.51:871][795]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.02.05-01.34.51:872][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.05-01.34.51:872][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.05-01.34.51:872][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.05-01.34.51:872][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.02.05-01.34.51:872][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.02.05-01.34.51:874][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.02.05-01.34.51:874][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.02.05-01.34.51:874][795]LogInit: FAudioDevice initialized with ID 10.
+[2024.02.05-01.34.51:874][795]LogAudio: Display: Audio Device (ID: 10) registered with world 'HUB'.
+[2024.02.05-01.34.51:874][795]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.02.05-01.34.51:877][795]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.02.05-01.34.51:881][795]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB up for play (max tick rate 0) at 2024.02.05-01.34.51
+[2024.02.05-01.34.51:881][795]LogWorld: Bringing up level for play took: 0.004368
+[2024.02.05-01.34.51:884][795]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.02.05-01.34.51:886][795]PIE: Server logged in
+[2024.02.05-01.34.51:887][795]PIE: Play in editor total start time 0.068 seconds.
+[2024.02.05-01.35.08:296][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-01.35.08:296][632]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-01.35.08:297][632]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.35.08:298][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.35.08:301][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.05-01.35.08:309][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.35.08:322][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-01.35.08:323][632]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.02.05-01.35.08:323][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.05-01.35.08:326][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.05-01.35.08:332][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.05-01.35.08:363][633]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.02.05-01.35.38:491][155]Cmd: DELETE
+[2024.02.05-01.35.38:491][155]Cmd: ACTOR DELETE
+[2024.02.05-01.35.38:495][155]LogEditorActor: Deleted Actor: NiagaraActor
+[2024.02.05-01.35.38:513][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.05-01.35.38:516][155]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.02.05-01.35.39:376][216]Cmd: DELETE
+[2024.02.05-01.35.39:377][216]Cmd: ACTOR DELETE
+[2024.02.05-01.35.39:384][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-01.35.39:398][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.05-01.35.39:401][216]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.02.05-01.35.45:410][714]Cmd: DELETE
+[2024.02.05-01.35.45:410][714]Cmd: ACTOR DELETE
+[2024.02.05-01.35.45:414][714]LogEditorActor: Deleted Actor: NiagaraActor
+[2024.02.05-01.35.45:430][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.05-01.35.45:433][714]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.02.05-01.35.47:716][898]Cmd: DELETE
+[2024.02.05-01.35.47:716][898]Cmd: ACTOR DELETE
+[2024.02.05-01.35.47:721][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-01.35.47:737][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.05-01.35.47:740][898]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.02.05-01.36.03:273][149]Cmd: DELETE
+[2024.02.05-01.36.03:273][149]Cmd: ACTOR DELETE
+[2024.02.05-01.36.03:277][149]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-01.36.03:294][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.05-01.36.03:297][149]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.02.05-01.36.32:500][501]LogClass: Warning: Short type name "NiagaraActor_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.02.05-01.36.32:695][501]LogClass: Warning: Short type name "NiagaraActor_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.02.05-01.36.32:710][501]LogClass: Warning: Short type name "NiagaraActor_8" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.02.05-01.37.21:970][810]LogEditorViewport: Clicking Background
+[2024.02.05-01.37.37:276][249]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.02.05-01.37.37:283][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.05-01.37.37:283][249]PIE: New page: SIE session: HUB (5 Feb 2024, 01:37:37)
+[2024.02.05-01.37.37:283][249]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-01.37.37:296][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012924s)
+[2024.02.05-01.37.37:296][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/HUB.HUB to /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB (0.012964s)
+[2024.02.05-01.37.37:311][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.02.05-01.37.37:315][249]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.37.37:317][249]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.37.37:317][249]LogAIModule: Creating AISystem for world HUB
+[2024.02.05-01.37.37:317][249]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2024.02.05-01.37.37:317][249]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.02.05-01.37.37:317][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.05-01.37.37:317][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.05-01.37.37:317][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.05-01.37.37:317][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.05-01.37.37:317][249]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.05-01.37.37:317][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.05-01.37.37:318][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.05-01.37.37:318][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.05-01.37.37:318][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.05-01.37.37:318][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.05-01.37.37:318][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.05-01.37.37:320][249]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.05-01.37.37:341][249]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.02.05-01.37.37:341][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.05-01.37.37:341][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.05-01.37.37:341][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.05-01.37.37:341][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.02.05-01.37.37:341][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.02.05-01.37.37:344][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.02.05-01.37.37:344][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.02.05-01.37.37:344][249]LogInit: FAudioDevice initialized with ID 11.
+[2024.02.05-01.37.37:344][249]LogAudio: Display: Audio Device (ID: 11) registered with world 'HUB'.
+[2024.02.05-01.37.37:344][249]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.05-01.37.37:347][249]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.02.05-01.37.37:351][249]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB up for play (max tick rate 0) at 2024.02.05-01.37.37
+[2024.02.05-01.37.37:351][249]LogWorld: Bringing up level for play took: 0.004379
+[2024.02.05-01.37.37:354][249]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.02.05-01.37.37:355][249]PIE: Server logged in
+[2024.02.05-01.37.37:356][249]PIE: Play in editor total start time 0.074 seconds.
+[2024.02.05-01.38.06:406][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-01.38.06:406][731]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-01.38.06:407][731]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.38.06:407][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.38.06:569][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.05-01.38.06:582][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.38.06:600][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-01.38.06:600][731]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.05-01.38.06:600][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.05-01.38.06:602][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.05-01.38.06:612][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.02.05-01.38.06:656][732]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.02.05-01.38.09:709][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.05-01.38.09:710][  5]PIE: New page: PIE session: HUB (5 Feb 2024, 01:38:09)
+[2024.02.05-01.38.09:710][  5]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-01.38.09:723][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013987s)
+[2024.02.05-01.38.09:723][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/HUB.HUB to /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB (0.014028s)
+[2024.02.05-01.38.09:739][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.02.05-01.38.09:741][  5]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.38.09:741][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.38.09:742][  5]LogAIModule: Creating AISystem for world HUB
+[2024.02.05-01.38.09:742][  5]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2024.02.05-01.38.09:742][  5]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.02.05-01.38.09:742][  5]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.05-01.38.09:742][  5]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.05-01.38.09:742][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.05-01.38.09:742][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.05-01.38.09:742][  5]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.05-01.38.09:742][  5]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.05-01.38.09:742][  5]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.05-01.38.09:742][  5]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.05-01.38.09:743][  5]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.05-01.38.09:743][  5]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.05-01.38.09:743][  5]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.05-01.38.09:745][  5]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.05-01.38.09:766][  5]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.02.05-01.38.09:767][  5]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.05-01.38.09:767][  5]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.05-01.38.09:767][  5]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.05-01.38.09:767][  5]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.02.05-01.38.09:767][  5]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.02.05-01.38.09:769][  5]LogInit: FAudioDevice initialized with ID 12.
+[2024.02.05-01.38.09:769][  5]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.02.05-01.38.09:769][  5]LogAudio: Display: Audio Device (ID: 12) registered with world 'HUB'.
+[2024.02.05-01.38.09:769][  5]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.02.05-01.38.09:769][  5]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.05-01.38.09:838][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-01.38.09:839][  5]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.02.05-01.38.09:844][  5]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB up for play (max tick rate 0) at 2024.02.05-01.38.09
+[2024.02.05-01.38.09:845][  5]LogWorld: Bringing up level for play took: 0.006983
+[2024.02.05-01.38.09:848][  5]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.02.05-01.38.09:850][  5]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.02.05-01.38.09:850][  5]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB.HUB:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.02.05-01.38.09:860][  5]PIE: Server logged in
+[2024.02.05-01.38.09:863][  5]PIE: Play in editor total start time 0.155 seconds.
+[2024.02.05-01.38.10:053][  5]LogViewport: Scene viewport resized to 4325x1999, mode Windowed.
+[2024.02.05-01.38.26:760][273]Set new viewmode: Wireframe
+[2024.02.05-01.38.29:376][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-01.38.29:376][380]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_HUB
+[2024.02.05-01.38.29:378][380]LogSlate: Window 'IGD720_DRONE Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.05-01.38.29:392][380]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.38.29:393][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.38.29:396][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.05-01.38.29:404][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.38.29:420][380]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.05-01.38.29:420][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.05-01.38.29:422][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.05-01.38.29:431][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.02.05-01.38.29:474][381]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.02.05-01.38.56:529][659]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/DecoOne.DecoOne
+[2024.02.05-01.38.56:529][659]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/DecoOne.DecoOne
+[2024.02.05-01.38.56:529][659]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/DecoOne.DecoOne as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.StaticMeshActor_61
+[2024.02.05-01.38.57:705][752]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/DecoOne.DecoOne
+[2024.02.05-01.38.57:705][752]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/DecoOne.DecoOne
+[2024.02.05-01.38.57:707][752]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/DecoOne.DecoOne as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/HUB.HUB:PersistentLevel.StaticMeshActor_64
+[2024.02.05-01.39.19:236][520]LogEditorViewport: Clicking Background
+[2024.02.05-01.41.22:661][135]LogEditorViewport: Clicking Background
+[2024.02.05-01.41.45:067][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.41.45:126][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/HUB" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.41.45:166][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.02.05-01.41.45:206][  6]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/HUB
+[2024.02.05-01.41.45:206][  6]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB46970C7C4EBE535CBE836FB956503983.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap'
+[2024.02.05-01.41.45:213][  6]LogFileHelpers: All files are already saved.
+[2024.02.05-01.41.45:214][  6]LogFileHelpers: Saving map 'HUB' took 0.089
+[2024.02.05-01.41.45:220][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 7.17 sec)
+[2024.02.05-01.41.45:222][  6]AssetCheck: New page: Asset Save: HUB
+[2024.02.05-01.41.45:222][  6]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/HUB.HUB
+[2024.02.05-01.41.47:912][266]MapCheck: New page: Map Check
+[2024.02.05-01.41.47:944][266]Cmd: MAP REBUILD ALLVISIBLE
+[2024.02.05-01.41.47:945][266]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.02.05-01.41.48:203][266]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.41.48:204][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.41.48:204][266]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.41.48:204][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: ================================================
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Total job queries 928, among them cache hits 720 (77.59%)
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Tracking 204 distinct input hashes that result in 131 distinct outputs (64.22%)
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: RAM used: 4.80 MiB of 1.60 GiB budget. Usage: 0.29%
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Shaders Compiled: 102
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Jobs assigned 102, completed 102 (100%)
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Average time worker was idle: 523.68 s
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.78 s
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Job execution time: average 0.50 s, max 2.17 s
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Job life time (pending + execution): average 0.61 s, max 2.23
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Shader code size: average 37.693 KiB, min 29.613 KiB, max 61.656 KiB
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.03 s
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Jobs were issued in 102 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Average processing rate: 5.09 jobs/sec
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Total thread time: 31.365 s
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Total thread preprocess time: 6.115 s
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Percentage time preprocessing: 19.49%
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Effective parallelization: 1.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.46 sec, max 0.74 sec, min 0.31 sec)
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.41 sec, max 0.43 sec, min 0.39 sec)
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.40 sec, max 0.41 sec, min 0.39 sec)
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.39 sec, max 0.42 sec, min 0.37 sec)
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.26% of total time (compiled   28 times, average 0.29 sec, max 0.75 sec, min 0.22 sec)
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.92% of total time (compiled   28 times, average 0.28 sec, max 0.91 sec, min 0.21 sec)
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.38% of total time (compiled    3 times, average 0.46 sec, max 0.74 sec, min 0.31 sec)
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 2.84% of total time (compiled    3 times, average 0.30 sec, max 0.61 sec, min 0.14 sec)
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.60% of total time (compiled    2 times, average 0.41 sec, max 0.43 sec, min 0.39 sec)
+[2024.02.05-01.41.48:220][266]LogShaderCompilers: Display: ================================================
+[2024.02.05-01.41.48:227][266]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.02.05-01.41.48:245][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.02.05-01.41.48:275][266]LogLevel: Display: Export Material TexCoord Scales took 0.028 seconds.
+[2024.02.05-01.41.48:281][266]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2024.02.05-01.41.48:295][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.05-01.41.48:300][266]LightingResults: New page: Lighting Build - 5 Feb 2024, 01:41:48
+[2024.02.05-01.41.48:304][266]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.02.05-01.41.48:313][266]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.02.05-01.41.48:313][266]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.02.05-01.41.48:313][266]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.02.05-01.41.48:313][266]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20252
+[2024.02.05-01.41.53:691][266]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.02.05-01.41.53:691][266]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.02.05-01.41.53:691][266]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.02.05-01.41.53:691][266]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.02.05-01.41.53:691][266]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.02.05-01.41.53:691][266]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.02.05-01.41.53:786][266]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.02.05-01.41.53:786][266]MapCheck: New page: HUB - 5 Feb 2024, 01:41:53
+[2024.02.05-01.41.53:787][266]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.637ms to complete.
+[2024.02.05-01.41.53:787][266]LogEditorBuildUtils: Build time 0:05
+[2024.02.05-01.41.53:892][266]LogAutomationController: Ignoring very large delta of 5.99 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.05-01.41.53:908][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.02.05-01.41.55:418][314]LightingResults: Warning: PipeBracket Object has overlapping UVs.
+[2024.02.05-01.41.55:418][314]LightingResults: PipeBracket Lightmap UV are overlapping by 10.1%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.41.55:418][314]LightingResults: Warning: PipeBracket Object has overlapping UVs.
+[2024.02.05-01.41.55:418][314]LightingResults: PipeBracket Lightmap UV are overlapping by 10.1%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.41.55:549][321]LightingResults: Warning: PipeBracket Object has overlapping UVs.
+[2024.02.05-01.41.55:549][321]LightingResults: PipeBracket Lightmap UV are overlapping by 10.1%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.41.55:549][321]LightingResults: Warning: PipeBracket Object has overlapping UVs.
+[2024.02.05-01.41.55:549][321]LightingResults: PipeBracket Lightmap UV are overlapping by 10.1%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.41.55:601][323]LightingResults: Warning: PipeBracket Object has overlapping UVs.
+[2024.02.05-01.41.55:601][323]LightingResults: PipeBracket Lightmap UV are overlapping by 10.1%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.41.55:601][323]LightingResults: Warning: EdgePlatformRower Object has overlapping UVs.
+[2024.02.05-01.41.55:601][323]LightingResults: EdgePlatformRower Lightmap UV are overlapping by 1.3%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.41.55:705][327]LightingResults: Warning: EdgePlatformRower Object has overlapping UVs.
+[2024.02.05-01.41.55:705][327]LightingResults: EdgePlatformRower Lightmap UV are overlapping by 1.3%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.41.55:783][329]LightingResults: Warning: PipeBracket Object has overlapping UVs.
+[2024.02.05-01.41.55:783][329]LightingResults: PipeBracket Lightmap UV are overlapping by 10.1%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.41.55:823][330]LightingResults: Warning: MidBase Object has overlapping UVs.
+[2024.02.05-01.41.55:823][330]LightingResults: MidBase Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2024.02.05-01.41.56:072][344]Job is a success!
+[2024.02.05-01.41.56:331][346]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.026s
+[2024.02.05-01.41.56:331][346]LogVolumetricLightmapImport:      Indirection Texture 32x16x16 = 0.0Mb
+[2024.02.05-01.41.56:331][346]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2024.02.05-01.41.56:331][346]LogVolumetricLightmapImport:      Bricks at depth
+[2024.02.05-01.41.56:331][346]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2024.02.05-01.41.56:331][346]LogVolumetricLightmapImport:          1: 25.0% covering 18.8% of volume
+[2024.02.05-01.41.56:331][346]LogVolumetricLightmapImport:          2: 72.9% covering 0.9% of volume
+[2024.02.05-01.41.56:331][346]LogVolumetricLightmapImport:      Bricks in each level
+[2024.02.05-01.41.56:331][346]LogVolumetricLightmapImport:          HUB 			 96 bricks 	 100.0% (Persistent Level)
+[2024.02.05-01.41.56:431][346]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.02.05-01.41.56:449][346]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.02.05-01.41.56:520][346]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.666627 MB), EncodeSpeed: Fast
+[2024.02.05-01.41.56:521][346]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.947886 MB), EncodeSpeed: Fast
+[2024.02.05-01.41.56:571][346]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData:ShadowMapTexture2D_0 (G8, 1024x256 x1x1x1) (Required Memory Estimate: 6.062496 MB), EncodeSpeed: Fast
+[2024.02.05-01.41.56:574][346]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData:ShadowMapTexture2D_2 (G8, 128x32 x1x1x1) (Required Memory Estimate: 0.156246 MB), EncodeSpeed: Fast
+[2024.02.05-01.41.56:590][346]Lightmass on DEVATOX: 2.03 sec total, 178 ms importing, 18 ms setup, 304 ms photons, 1.52 sec processing, 0 us extra exporting [136/136 mappings]. Threads: 16.7 sec total, 6.88 sec processing.
+[2024.02.05-01.41.56:626][346]LogStaticLightingSystem: HUB_BuiltData storing lightmap data for 59 meshes in 2 LightmapResourceClusters (29.5 Meshes per cluster).
+[2024.02.05-01.41.56:654][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.02.05-01.41.56:708][346]LogStaticLightingSystem: Illumination: 8.32 sec (156 ms encoding lightmaps, 52 ms encoding shadowmaps)
+[2024.02.05-01.41.56:708][346]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2024.02.05-01.41.56:708][346]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 2 textures
+[2024.02.05-01.42.02:704][346]DumpUnbuiltLightIteractions
+[2024.02.05-01.42.02:704][346]Lights with unbuilt interactions: 0
+[2024.02.05-01.42.02:704][346]
+[2024.02.05-01.42.02:704][346]Primitives with unbuilt interactions: 0
+[2024.02.05-01.42.02:720][347]LogAutomationController: Ignoring very large delta of 6.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.05-01.42.02:720][347]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.02.05-01.42.02:720][347]MapCheck: New page: HUB - 5 Feb 2024, 01:42:02
+[2024.02.05-01.42.02:721][347]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.592ms to complete.
+[2024.02.05-01.42.45:797][916]LogSlate: Window 'Message Log' being destroyed
+[2024.02.05-01.42.45:804][916]LogSlate: Window 'Message Log' being destroyed
+[2024.02.05-01.44.22:559][ 98]LogEditorViewport: Clicking Background
+[2024.02.05-01.44.40:261][644]LogEditorViewport: Clicking Background
+[2024.02.05-01.44.44:881][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.44.44:930][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/HUB" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.44.44:966][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.02.05-01.44.45:009][ 62]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/HUB
+[2024.02.05-01.44.45:009][ 62]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB4422BEAC420C6220F40688B1675389C9.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap'
+[2024.02.05-01.44.45:016][ 62]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/BLUEPRINTS/Maps/HUB_BuiltData
+[2024.02.05-01.44.45:016][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.44.45:016][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/HUB_BuiltData" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB_BuiltData.uasset" SILENT=true
+[2024.02.05-01.44.45:034][ 62]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/HUB_BuiltData
+[2024.02.05-01.44.45:034][ 62]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUB_BuiltData79D72C8E45DE7A1614C3238C11BE44E2.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB_BuiltData.uasset'
+[2024.02.05-01.44.45:036][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 20 ms (total: 7.19 sec)
+[2024.02.05-01.44.45:036][ 62]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/BLUEPRINTS/Maps/HUB_BuiltData
+[2024.02.05-01.44.45:036][ 62]LogFileHelpers: Saving map 'HUB' took 0.106
+[2024.02.05-01.44.45:043][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 7.36 sec)
+[2024.02.05-01.44.45:045][ 62]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.05-01.44.45:045][ 62]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/HUB.HUB
+[2024.02.05-01.44.45:045][ 62]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/BLUEPRINTS/Maps/HUB_BuiltData.HUB_BuiltData
+[2024.02.05-01.45.32:048][100]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:36.416 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50220 files in 51786 folders with total size 8910 MiB.
