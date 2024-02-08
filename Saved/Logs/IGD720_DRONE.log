@@ -6533,3 +6533,168 @@ UnknownFunction []
 [2024.02.07-22.46.12:385][987]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.017
 [2024.02.07-22.56.13:143][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
 [2024.02.07-22.56.13:145][789]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.017
+[2024.02.07-23.06.13:741][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.07-23.06.13:743][591]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.07-23.16.14:419][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.07-23.16.14:420][393]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.017
+[2024.02.07-23.26.15:129][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.02.07-23.26.15:131][195]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.021
+[2024.02.07-23.36.15:549][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.07-23.36.15:550][996]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.019
+[2024.02.07-23.38.19:592][369]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:38.340 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50965 files in 52435 folders with total size 8937 MiB.
+[2024.02.07-23.46.16:059][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.07-23.46.16:061][797]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.025
+[2024.02.07-23.56.16:435][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.02.07-23.56.16:436][598]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.019
+[2024.02.08-00.06.16:862][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.02.08-00.06.16:863][399]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.018
+[2024.02.08-00.16.17:305][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.02.08-00.16.17:306][200]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.019
+[2024.02.08-00.26.17:839][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.02.08-00.26.17:841][  1]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.020
+[2024.02.08-00.36.18:589][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.02.08-00.36.18:591][803]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.022
+[2024.02.08-00.38.19:564][167]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:38.312 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50991 files in 52457 folders with total size 8938 MiB.
+[2024.02.08-00.46.19:018][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.02.08-00.46.19:020][604]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.019
+[2024.02.08-00.56.19:699][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.02.08-00.56.19:701][406]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.019
+[2024.02.08-01.06.20:616][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.02.08-01.06.20:618][205]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-01.16.21:289][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.02.08-01.16.21:291][  7]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-01.26.21:971][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.02.08-01.26.21:972][809]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.013
+[2024.02.08-01.36.22:657][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.08-01.36.22:658][611]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-01.38.20:298][965]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:39.045 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50991 files in 52457 folders with total size 8938 MiB.
+[2024.02.08-01.46.23:327][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.08-01.46.23:328][413]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-01.56.23:937][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.08-01.56.23:939][212]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-02.06.24:604][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.02.08-02.06.24:605][ 14]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.014
+[2024.02.08-02.16.24:956][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.08-02.16.24:958][815]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.017
+[2024.02.08-02.26.25:628][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.08-02.26.25:629][617]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-02.36.26:296][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.08-02.36.26:297][419]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.014
+[2024.02.08-02.38.19:529][759]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:38.275 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50991 files in 52457 folders with total size 8938 MiB.
+[2024.02.08-02.46.26:986][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.08-02.46.26:987][221]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-02.56.27:645][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.08-02.56.27:646][ 23]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-03.06.28:324][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.08-03.06.28:325][825]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.014
+[2024.02.08-03.16.29:005][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.08-03.16.29:006][627]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-03.26.29:679][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.08-03.26.29:680][429]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-03.36.30:427][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.08-03.36.30:428][227]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-03.38.19:525][555]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:38.270 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50991 files in 52457 folders with total size 8938 MiB.
+[2024.02.08-03.46.31:094][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.08-03.46.31:095][ 29]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-03.56.31:766][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.08-03.56.31:767][831]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-04.06.32:439][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.08-04.06.32:439][633]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-04.16.33:112][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.08-04.16.33:113][435]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-04.26.33:796][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.08-04.26.33:798][237]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-04.36.34:670][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.02.08-04.36.34:671][ 36]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-04.38.20:361][354]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:39.105 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50991 files in 52457 folders with total size 8938 MiB.
+[2024.02.08-04.46.35:002][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.08-04.46.35:003][837]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-04.56.35:673][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.08-04.56.35:674][639]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.014
+[2024.02.08-05.06.36:361][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.08-05.06.36:362][441]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-05.16.37:024][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.08-05.16.37:025][243]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-05.26.37:736][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.08-05.26.37:738][ 41]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-05.36.38:410][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.08-05.36.38:411][843]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-05.38.19:541][147]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:38.285 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50991 files in 52457 folders with total size 8938 MiB.
+[2024.02.08-05.46.39:278][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.08-05.46.39:279][643]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.014
+[2024.02.08-05.56.39:951][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.08-05.56.39:953][445]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-06.06.40:307][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.02.08-06.06.40:308][246]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-06.16.40:633][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.08-06.16.40:634][ 47]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-06.26.41:433][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.08-06.26.41:434][845]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-06.36.42:099][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.08-06.36.42:100][647]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-06.38.19:516][940]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:38.260 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50991 files in 52457 folders with total size 8938 MiB.
+[2024.02.08-06.46.42:804][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.02.08-06.46.42:805][449]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-06.56.43:482][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.02.08-06.56.43:483][251]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.017
+[2024.02.08-07.06.44:171][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.02.08-07.06.44:172][ 53]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-07.16.44:878][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.02.08-07.16.44:879][855]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-07.26.45:562][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.08-07.26.45:564][657]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-07.36.46:225][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.08-07.36.46:227][459]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-07.38.19:468][739]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:38.212 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50991 files in 52457 folders with total size 8938 MiB.
+[2024.02.08-07.46.46:912][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.08-07.46.46:914][261]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-07.56.47:596][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.08-07.56.47:597][ 63]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.014
+[2024.02.08-08.06.48:248][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.02.08-08.06.48:250][865]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-08.16.48:608][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.08-08.16.48:610][666]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-08.26.49:278][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.08-08.26.49:279][468]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-08.36.49:951][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.08-08.36.49:952][270]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-08.38.20:282][542]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:39.026 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50991 files in 52457 folders with total size 8938 MiB.
+[2024.02.08-08.46.50:638][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.08-08.46.50:639][ 72]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-08.56.51:622][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.08-08.56.51:623][872]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-09.06.52:417][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.08-09.06.52:418][671]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.018
+[2024.02.08-09.16.53:084][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.08-09.16.53:086][473]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-09.26.55:239][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.08-09.26.55:241][275]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-09.36.55:928][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.08-09.36.55:931][ 77]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.015
+[2024.02.08-09.38.21:072][333]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:38.352 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50991 files in 52457 folders with total size 8938 MiB.
+[2024.02.08-09.46.56:601][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.08-09.46.56:603][879]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-09.56.57:276][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.02.08-09.56.57:278][681]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-10.06.57:933][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.02.08-10.06.57:935][483]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.016
+[2024.02.08-10.16.58:640][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.02.08-10.16.58:641][285]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.017
+[2024.02.08-10.26.59:615][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.02.08-10.26.59:617][ 87]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.027
+[2024.02.08-10.36.59:979][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.02.08-10.36.59:981][888]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.024
+[2024.02.08-10.38.21:004][132]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:38.283 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 50993 files in 52459 folders with total size 8938 MiB.
+[2024.02.08-10.47.00:411][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.02.08-10.47.00:413][689]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.042
+[2024.02.08-10.57.00:862][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.02.08-10.57.00:865][490]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.024
+[2024.02.08-11.07.01:713][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.02.08-11.07.01:715][292]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.019
+[2024.02.08-11.17.02:551][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.02.08-11.17.02:554][ 94]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.026
+[2024.02.08-11.27.03:238][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.02.08-11.27.03:239][896]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.022
+[2024.02.08-11.37.04:009][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.02.08-11.37.04:010][698]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/HUB' took 0.020
+[2024.02.08-11.38.21:818][932]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:39.096 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 51037 files in 52495 folders with total size 8941 MiB.
