@@ -1321,3 +1321,576 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.29-11.33.29:275][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2024.02.29-11.33.29:288][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
 [2024.02.29-11.33.29:342][183]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.02.29-11.34.38:246][177]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:34.412 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 49180 files in 50936 folders with total size 8426 MiB.
+[2024.02.29-11.35.03:998][ 58]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/WayPoint.PackageMetaData'
+[2024.02.29-11.35.03:998][ 58]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/WayPoint.PackageMetaData'
+[2024.02.29-11.35.03:998][ 58]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/WayPoint.PackageMetaData'
+[2024.02.29-11.35.03:998][ 58]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/WayPoint.PackageMetaData'
+[2024.02.29-11.35.03:998][ 58]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/WayPoint.PackageMetaData'
+[2024.02.29-11.35.03:998][ 58]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/WayPoint.SKEL_WayPoint_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/WayPoint.PackageMetaData'
+[2024.02.29-11.35.03:998][ 58]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/WayPoint.SKEL_WayPoint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/WayPoint.PackageMetaData'
+[2024.02.29-11.35.03:998][ 58]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/WayPoint.SKEL_WayPoint_C:ReceiveTick' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/WayPoint.PackageMetaData'
+[2024.02.29-11.35.03:999][ 58]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/WayPoint.SKEL_WayPoint_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/WayPoint.PackageMetaData'
+[2024.02.29-11.35.03:999][ 58]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/WayPoint.SKEL_WayPoint_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/WayPoint.PackageMetaData'
+[2024.02.29-11.35.04:017][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-11.35.04:083][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/WayPoint" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/WayPoint.uasset" SILENT=true
+[2024.02.29-11.35.04:083][ 58]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/BLUEPRINTS/DRONE_AI/WayPoint does not exist, will not scan.
+[2024.02.29-11.35.04:087][ 58]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/WayPoint
+[2024.02.29-11.35.04:087][ 58]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/WayPoint5E5678A542BA52FD2AAA64A69FF5D903.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/WayPoint.uasset'
+[2024.02.29-11.35.04:091][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/AI_Characters/WayPoint" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/AI_Characters/WayPoint.uasset" SILENT=true
+[2024.02.29-11.35.04:091][ 58]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/AI_Characters/WayPoint
+[2024.02.29-11.35.04:093][ 58]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/WayPoint5292AE094ABA05128B04238549F26F94.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/AI_Characters/WayPoint.uasset'
+[2024.02.29-11.35.04:284][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave took 266 ms (total: 1.04 sec)
+[2024.02.29-11.35.04:296][ 58]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.29-11.35.04:296][ 58]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint
+[2024.02.29-11.35.04:296][ 58]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/BLUEPRINTS/AI_Characters/WayPoint.WayPoint_C
+[2024.02.29-11.35.04:296][ 58]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/BLUEPRINTS/AI_Characters/WayPoint.WayPoint
+[2024.02.29-11.35.04:296][ 58]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/BLUEPRINTS/AI_Characters/WayPoint.Default__WayPoint_C
+[2024.02.29-11.35.29:488][875]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2024.02.29-11.35.29:512][876]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.29-11.35.29:615][877]LogShaderCompilers: Display: ================================================
+[2024.02.29-11.35.29:615][877]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.29-11.35.29:615][877]LogShaderCompilers: Display: Total job queries 96, among them cache hits 46 (47.92%)
+[2024.02.29-11.35.29:615][877]LogShaderCompilers: Display: Tracking 50 distinct input hashes that result in 42 distinct outputs (84.00%)
+[2024.02.29-11.35.29:615][877]LogShaderCompilers: Display: RAM used: 1.38 MiB of 1.60 GiB budget. Usage: 0.08%
+[2024.02.29-11.35.29:615][877]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.29-11.35.29:615][877]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.02.29-11.35.29:616][877]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.02.29-11.35.29:616][877]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.02.29-11.35.29:616][877]LogShaderCompilers: Display: ================================================
+[2024.02.29-11.35.29:667][880]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.29-11.35.42:018][718]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.02.29-11.35.42:018][718]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.02.29-11.35.47:403][301]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/BLUEPRINTS/AI_Characters/SciFiSoldier02/Demo/Animations/ThirdPersonRun.ThirdPersonRun
+[2024.02.29-11.35.47:438][301]LogAnimationCompression: Display: Storing compressed animation data for /Game/BLUEPRINTS/AI_Characters/SciFiSoldier02/Demo/Animations/ThirdPersonRun.ThirdPersonRun, at AnimationSequence/3b66d4cb1585887fcf5ef3e1d7cb7684afcf6e16
+[2024.02.29-11.35.48:746][301]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2024.02.29-11.35.48:746][301]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_15' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2024.02.29-11.35.48:746][301]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_26' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2024.02.29-11.35.48:746][301]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_37' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2024.02.29-11.35.48:746][301]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_8.Transition.AnimGraphNode_TransitionResult_48' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2024.02.29-11.35.48:746][301]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2024.02.29-11.35.48:746][301]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2024.02.29-11.35.48:746][301]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2024.02.29-11.35.48:746][301]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2024.02.29-11.35.48:746][301]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2024.02.29-11.35.49:035][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-11.35.49:098][301]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.29-11.35.49:237][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseWalking.uasset" SILENT=true
+[2024.02.29-11.35.49:260][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking
+[2024.02.29-11.35.49:260][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseWalking326BEAF043C78E9898B68EA9BAA65CB7.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseWalking.uasset'
+[2024.02.29-11.35.49:261][301]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.29-11.35.49:300][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/Animations/Rigs/AI_SoldierIKRig
+[2024.02.29-11.35.49:301][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_SoldierIKRigA607E2544146255DD105029CF54BEB74.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/Animations/Rigs/AI_SoldierIKRig.uasset'
+[2024.02.29-11.35.49:304][301]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.29-11.35.49:332][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/Animations/Rigs/AI_SoldierIKRetargeter
+[2024.02.29-11.35.49:333][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_SoldierIKRetargeter3C0F05E848870FD25E596ABC62D691EF.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/Animations/Rigs/AI_SoldierIKRetargeter.uasset'
+[2024.02.29-11.35.49:347][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Legs_A
+[2024.02.29-11.35.49:347][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Legs_A037EC47A4F279E5974F526BC8D4B95AA.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Legs_A.uasset'
+[2024.02.29-11.35.49:360][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Head_A
+[2024.02.29-11.35.49:360][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Head_A64E5F26F4970DAE0C367E7AEB66F3707.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Head_A.uasset'
+[2024.02.29-11.35.49:373][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Torso_A
+[2024.02.29-11.35.49:374][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Torso_AAF5E87B04A368200CDC63FA177E7435B.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Torso_A.uasset'
+[2024.02.29-11.35.49:435][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Meshes/SK_SciFiSoldier02
+[2024.02.29-11.35.49:435][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SK_SciFiSoldier020EF27EA64057CC5FB0A73899DF7E134C.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Meshes/SK_SciFiSoldier02.uasset'
+[2024.02.29-11.35.49:459][301]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.29-11.35.49:494][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Meshes/SK_SciFiSoldier02_PhysicsAsset
+[2024.02.29-11.35.49:494][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SK_SciFiSoldier02_PhysicsAsset30D1121B4EFA89B9748ACF8360B9A346.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Meshes/SK_SciFiSoldier02_PhysicsAsset.uasset'
+[2024.02.29-11.35.49:530][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_OcclusionRoughnessMetallic
+[2024.02.29-11.35.49:530][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Legs_OcclusionRoughnessMetalliCA2E24114569F2B9499765B9F1A65B1F.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_OcclusionRoughnessMetallic.uasset'
+[2024.02.29-11.35.49:590][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_Normal
+[2024.02.29-11.35.49:590][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Legs_Normal1FE2CE7A4B19A25A468B00834BB54B50.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_Normal.uasset'
+[2024.02.29-11.35.49:595][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_Mask
+[2024.02.29-11.35.49:595][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Legs_Mask2E1EBBDB4325A4E0330E0191C6D6D6F1.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_Mask.uasset'
+[2024.02.29-11.35.49:597][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_Emissive
+[2024.02.29-11.35.49:597][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Legs_EmissiveE7FDEBED47F7258D8733AB93151AB065.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_Emissive.uasset'
+[2024.02.29-11.35.49:602][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_BaseColor
+[2024.02.29-11.35.49:602][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Legs_BaseColor207691F5471707B413CBAD9937D18FFC.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_BaseColor.uasset'
+[2024.02.29-11.35.49:689][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_OcclusionRoughnessMetallic
+[2024.02.29-11.35.49:689][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Head_OcclusionRoughnessMetalli94CFCED74135521D7AD0ECB64DBBC9D4.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_OcclusionRoughnessMetallic.uasset'
+[2024.02.29-11.35.49:822][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_Normal
+[2024.02.29-11.35.49:822][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Head_Normal26965718408BC30FF931468169B13E86.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_Normal.uasset'
+[2024.02.29-11.35.49:826][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_Mask
+[2024.02.29-11.35.49:826][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Head_Mask55B6AEEC4F23F6E601F68B84F9C5039F.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_Mask.uasset'
+[2024.02.29-11.35.49:832][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_BaseColor
+[2024.02.29-11.35.49:832][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Head_BaseColor0EA5326C4EB9E2DCEBEBE7AF4E366FDC.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_BaseColor.uasset'
+[2024.02.29-11.35.49:835][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/M_Base
+[2024.02.29-11.35.49:835][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_Base32A11A0C4E391C120CA95EA39BAFD977.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/M_Base.uasset'
+[2024.02.29-11.35.49:875][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Torso_OcclusionRoughnessMetallic
+[2024.02.29-11.35.49:875][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Torso_OcclusionRoughnessMetall51C928F14A8B6A37FD0B36AAD2FA769D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Torso_OcclusionRoughnessMetallic.uasset'
+[2024.02.29-11.35.50:014][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Torso_Normal
+[2024.02.29-11.35.50:014][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Torso_Normal7EF3238E4DE11B31252C2E95BD868B56.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Torso_Normal.uasset'
+[2024.02.29-11.35.50:018][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Torso_Mask
+[2024.02.29-11.35.50:018][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Torso_MaskE249478E455DBA76613394999E6CB8BD.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Torso_Mask.uasset'
+[2024.02.29-11.35.50:022][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Torso_BaseColor
+[2024.02.29-11.35.50:022][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Torso_BaseColorD09C06EC4492332EC6576EAB90FD77D8.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Torso_BaseColor.uasset'
+[2024.02.29-11.35.50:025][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_Emissive
+[2024.02.29-11.35.50:025][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Head_EmissiveC6D3F9F84E3D2DB98C8ABAB039A1C10C.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_Emissive.uasset'
+[2024.02.29-11.35.50:037][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_Jump
+[2024.02.29-11.35.50:037][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/ThirdPerson_Jump1217610B4D0D62BE3021D4BD73830139.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_Jump.uasset'
+[2024.02.29-11.35.50:040][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_IdleRun_2D
+[2024.02.29-11.35.50:040][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/ThirdPerson_IdleRun_2DF6B09E624B9A86571208E18122270DC6.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2024.02.29-11.35.50:064][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP
+[2024.02.29-11.35.50:064][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/ThirdPerson_AnimBPA704E6094666BFFC6C1B47BC4040C860.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.uasset'
+[2024.02.29-11.35.50:079][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonWalk
+[2024.02.29-11.35.50:079][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/ThirdPersonWalk731896DD41B9DD999A2C34B058B5F6ED.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonWalk.uasset'
+[2024.02.29-11.35.50:106][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonRun
+[2024.02.29-11.35.50:106][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/ThirdPersonRun4FA46494497FA6384072BD88C88F06FC.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonRun.uasset'
+[2024.02.29-11.35.50:117][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonJump_Start
+[2024.02.29-11.35.50:118][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/ThirdPersonJump_Start188E36E248C98751B668B4A852910349.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonJump_Start.uasset'
+[2024.02.29-11.35.50:131][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonJump_Loop
+[2024.02.29-11.35.50:131][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/ThirdPersonJump_LoopB6B397BD47D6AACD13BD009B99632B67.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonJump_Loop.uasset'
+[2024.02.29-11.35.50:143][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonIdle
+[2024.02.29-11.35.50:143][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/ThirdPersonIdle80A93159400CB28195EA43A7FCB1CDF8.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonIdle.uasset'
+[2024.02.29-11.35.50:147][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Materials/M_Background
+[2024.02.29-11.35.50:147][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_Background6E045FA64EB564181D240BABE7303D9C.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Materials/M_Background.uasset'
+[2024.02.29-11.35.50:149][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Materials/MI_Background
+[2024.02.29-11.35.50:149][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Background270A4D4A48C4D68F487981A9460F1FA4.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Materials/MI_Background.uasset'
+[2024.02.29-11.35.50:150][301]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.29-11.35.50:178][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Meshes/SM_Background
+[2024.02.29-11.35.50:178][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_Background9811D4EB44D5C3E08EE7A6BD3E06B4DA.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Meshes/SM_Background.uasset'
+[2024.02.29-11.35.50:192][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Textures/TC_EpicQuadPanorama
+[2024.02.29-11.35.50:192][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/TC_EpicQuadPanoramaBC1D7F3643A12D0F393E619CBB8F2466.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Textures/TC_EpicQuadPanorama.uasset'
+[2024.02.29-11.35.50:195][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/M_AIpostProcess
+[2024.02.29-11.35.50:195][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_AIpostProcess94535410478C326E35F1FC89275501B0.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/M_AIpostProcess.uasset'
+[2024.02.29-11.35.50:198][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_B/MI_Torso_B
+[2024.02.29-11.35.50:198][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Torso_B786F30D8495FAFB37A062FA91B673F4D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_B/MI_Torso_B.uasset'
+[2024.02.29-11.35.50:200][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_B/MI_Legs_B
+[2024.02.29-11.35.50:200][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Legs_B345154504EC9F7779EAF198F55FC8D94.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_B/MI_Legs_B.uasset'
+[2024.02.29-11.35.50:202][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_B/MI_Head_B
+[2024.02.29-11.35.50:202][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Head_B6434DCA1436150B88D6B01AAF295E7A1.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_B/MI_Head_B.uasset'
+[2024.02.29-11.35.50:205][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_C/MI_Torso_C
+[2024.02.29-11.35.50:205][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Torso_C947D0CC747FE4EE6E6F5D0B961A5D764.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_C/MI_Torso_C.uasset'
+[2024.02.29-11.35.50:207][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_C/MI_Legs_C
+[2024.02.29-11.35.50:207][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Legs_C0EE17CE743F55D8BE6C813A98777A588.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_C/MI_Legs_C.uasset'
+[2024.02.29-11.35.50:209][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_C/MI_Head_C
+[2024.02.29-11.35.50:209][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Head_CC67B760E4EED0F34659FF1AFB1705E71.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_C/MI_Head_C.uasset'
+[2024.02.29-11.35.50:211][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_D/MI_Torso_D
+[2024.02.29-11.35.50:211][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Torso_DB04D6438409424BD0C07C29BD853F6B9.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_D/MI_Torso_D.uasset'
+[2024.02.29-11.35.50:217][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_D/MI_Legs_D
+[2024.02.29-11.35.50:217][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Legs_D4D6BD12748D3B27142939D92505CC4FC.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_D/MI_Legs_D.uasset'
+[2024.02.29-11.35.50:220][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_D/MI_Head_D
+[2024.02.29-11.35.50:220][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Head_D6FA90BA54AEDB15DCA66A6A3E2F6B5CA.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_D/MI_Head_D.uasset'
+[2024.02.29-11.35.50:222][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_E/MI_Torso_E
+[2024.02.29-11.35.50:222][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Torso_E81BD0C82488FC74F382F249D9736990B.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_E/MI_Torso_E.uasset'
+[2024.02.29-11.35.50:225][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_E/MI_Legs_E
+[2024.02.29-11.35.50:225][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Legs_E4B9893F84FEE10E02AA0779A483F9F00.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_E/MI_Legs_E.uasset'
+[2024.02.29-11.35.50:227][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_E/MI_Head_E
+[2024.02.29-11.35.50:227][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Head_E4E73F0A2427276E35C9CE4A3C50CF158.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_E/MI_Head_E.uasset'
+[2024.02.29-11.35.50:231][301]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Meshes/UE4_Mannequin_Skeleton
+[2024.02.29-11.35.50:231][301]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/UE4_Mannequin_Skeleton23D924F44E7C7F0A1AADC4B0B111295C.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Meshes/UE4_Mannequin_Skeleton.uasset'
+[2024.02.29-11.35.50:243][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.20 sec (total: 2.25 sec)
+[2024.02.29-11.35.50:540][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.02.29-11.35.50:555][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.29-11.35.50:570][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.29-11.35.50:844][301]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/BLUEPRINTS/DRONE_AI/Animations/Rigs/AI_SoldierIKRig.AI_SoldierIKRig
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/BLUEPRINTS/DRONE_AI/Animations/Rigs/AI_SoldierIKRetargeter.AI_SoldierIKRetargeter
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Legs_A.MI_Legs_A
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Head_A.MI_Head_A
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Torso_A.MI_Torso_A
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Meshes/SK_SciFiSoldier02.SK_SciFiSoldier02
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Meshes/SK_SciFiSoldier02_PhysicsAsset.SK_SciFiSoldier02_PhysicsAsset
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_OcclusionRoughnessMetallic.T_Legs_OcclusionRoughnessMetallic
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_Normal.T_Legs_Normal
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_Mask.T_Legs_Mask
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_Emissive.T_Legs_Emissive
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Legs_BaseColor.T_Legs_BaseColor
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_OcclusionRoughnessMetallic.T_Head_OcclusionRoughnessMetallic
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_Normal.T_Head_Normal
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_Mask.T_Head_Mask
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_BaseColor.T_Head_BaseColor
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/M_Base.M_Base
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Torso_OcclusionRoughnessMetallic.T_Torso_OcclusionRoughnessMetallic
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Torso_Normal.T_Torso_Normal
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Torso_Mask.T_Torso_Mask
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Torso_BaseColor.T_Torso_BaseColor
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Textures/T_Head_Emissive.T_Head_Emissive
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonRun.ThirdPersonRun
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Materials/M_Background.M_Background
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Materials/MI_Background.MI_Background
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Meshes/SM_Background.SM_Background
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.TextureCube /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Demo/Textures/TC_EpicQuadPanorama.TC_EpicQuadPanorama
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/M_AIpostProcess.M_AIpostProcess
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_B/MI_Torso_B.MI_Torso_B
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_B/MI_Legs_B.MI_Legs_B
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_B/MI_Head_B.MI_Head_B
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_C/MI_Torso_C.MI_Torso_C
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_C/MI_Legs_C.MI_Legs_C
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_C/MI_Head_C.MI_Head_C
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_D/MI_Torso_D.MI_Torso_D
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_D/MI_Legs_D.MI_Legs_D
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_D/MI_Head_D.MI_Head_D
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_E/MI_Torso_E.MI_Torso_E
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_E/MI_Legs_E.MI_Legs_E
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Materials/Type_E/MI_Head_E.MI_Head_E
+[2024.02.29-11.35.50:845][301]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/BLUEPRINTS/DRONE_AI/SciFiSoldier02/Meshes/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2024.02.29-11.35.50:936][301]LogAutomationController: Ignoring very large delta of 3.71 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.29-11.36.14:321][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-11.36.14:322][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector1" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.29-11.36.14:360][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.02.29-11.36.14:507][ 25]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector1
+[2024.02.29-11.36.14:508][ 25]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector19E9DF365483EDA8883EEE2BD8DBAA37C.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector1.umap'
+[2024.02.29-11.36.14:516][ 25]LogFileHelpers: All files are already saved.
+[2024.02.29-11.36.14:516][ 25]LogFileHelpers: Saving map 'Sector1' took 0.195
+[2024.02.29-11.36.14:516][ 25]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.29-11.36.14:704][ 25]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone
+[2024.02.29-11.36.14:705][ 25]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BP_AI_MasterDrone300A1AD04CC32EB4471206BF3D5E3E46.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.uasset'
+[2024.02.29-11.36.14:706][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 385 ms (total: 2.64 sec)
+[2024.02.29-11.36.14:727][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.02.29-11.36.14:794][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.02.29-11.36.14:810][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.29-11.36.14:826][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.29-11.36.14:839][ 25]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.29-11.36.14:839][ 25]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector1.Sector1
+[2024.02.29-11.36.14:839][ 25]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.BP_AI_MasterDrone
+[2024.02.29-11.36.31:541][822]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.02.29-11.36.31:541][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.29-11.36.41:387][445]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking
+[2024.02.29-11.36.41:388][445]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.29-11.36.41:388][445]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.29-11.36.41:913][447]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.29-11.37.16:817][485]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.02.29-11.37.16:817][485]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.02.29-11.37.52:063][663]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.02.29-11.48.55:073][603]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (High Definition Audio Device), InstanceID=1
+[2024.02.29-11.48.55:093][604]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7476
+[2024.02.29-11.48.55:139][606]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{65a1216e-f0b1-4e20-8cb4-ea155c58febc}, Name=Speakers (High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=26.35
+[2024.02.29-11.48.55:139][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.29-11.48.55:142][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.29-12.34.38:963][630]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:35.129 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 49197 files in 50954 folders with total size 8426 MiB.
+[2024.02.29-13.34.38:964][420]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:35.129 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 49197 files in 50954 folders with total size 8426 MiB.
+[2024.02.29-13.56.23:702][341]BlueprintLog: New page: Compile AI_BaseWalking
+[2024.02.29-13.56.23:772][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.02.29-13.56.25:050][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-13.56.25:192][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseWalking.uasset" SILENT=true
+[2024.02.29-13.56.25:213][425]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking
+[2024.02.29-13.56.25:214][425]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseWalking47083EA1468A68FB9A8C6F8494D90E4A.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseWalking.uasset'
+[2024.02.29-13.56.25:224][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 2.81 sec)
+[2024.02.29-13.56.25:224][425]AssetCheck: New page: Asset Save: AI_BaseWalking
+[2024.02.29-13.56.25:224][425]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking
+[2024.02.29-14.00.14:857][128]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.02.29-14.00.38:684][278]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.29-14.00.38:695][278]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.29-14.00.38:725][278]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.29-14.00.38:746][278]LogAutomationController: Ignoring very large delta of 22.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.29-14.00.38:776][279]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.02.29-14.00.53:847][326]LogContentBrowser: Attempting asset rename: NewBlueprint -> AI_BaseController
+[2024.02.29-14.00.53:853][326]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.29-14.01.03:552][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.02.29-14.01.03:561][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-14.01.03:623][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseController" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset" SILENT=true
+[2024.02.29-14.01.03:627][ 42]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseController
+[2024.02.29-14.01.03:627][ 42]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseController5E4B865D49EB0CCDED4C0ABAE7749D64.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset'
+[2024.02.29-14.01.03:638][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 2.89 sec)
+[2024.02.29-14.01.03:639][ 42]AssetCheck: New page: Asset Save: AI_BaseController
+[2024.02.29-14.01.03:639][ 42]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController
+[2024.02.29-14.02.12:157][758]LogSlate: Took 0.004594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.02.29-14.02.38:298][966]BlueprintLog: New page: Compile AI_BaseWalking
+[2024.02.29-14.02.38:362][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.02.29-14.02.39:507][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-14.02.39:640][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseWalking.uasset" SILENT=true
+[2024.02.29-14.02.39:662][ 53]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking
+[2024.02.29-14.02.39:663][ 53]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseWalkingE844CA39477CDB06E91153AC8FBBED3B.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseWalking.uasset'
+[2024.02.29-14.02.39:670][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 3.05 sec)
+[2024.02.29-14.02.39:671][ 53]AssetCheck: New page: Asset Save: AI_BaseWalking
+[2024.02.29-14.02.39:671][ 53]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking
+[2024.02.29-14.02.48:888][845]BlueprintLog: New page: Compile AI_BaseWalking
+[2024.02.29-14.02.48:953][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.29-14.02.50:374][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-14.02.50:518][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseWalking.uasset" SILENT=true
+[2024.02.29-14.02.50:542][947]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking
+[2024.02.29-14.02.50:542][947]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseWalking538166594CB2565B62130ABF6D4DA701.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseWalking.uasset'
+[2024.02.29-14.02.50:551][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 3.23 sec)
+[2024.02.29-14.02.50:553][947]AssetCheck: New page: Asset Save: AI_BaseWalking
+[2024.02.29-14.02.50:553][947]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking
+[2024.02.29-14.03.59:531][723]Cmd: DELETE
+[2024.02.29-14.03.59:531][723]Cmd: ACTOR DELETE
+[2024.02.29-14.03.59:544][723]LogEditorActor: Deleted Actor: AI_BaseWalking_C
+[2024.02.29-14.03.59:565][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.02.29-14.03.59:572][723]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2024.02.29-14.04.09:343][385]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking_C
+[2024.02.29-14.04.09:343][385]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking_C
+[2024.02.29-14.04.09:347][385]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking as actor: AI_BaseWalking_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.AI_BaseWalking_C_0
+[2024.02.29-14.04.09:350][385]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking as actor: AI_BaseWalking_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.AI_BaseWalking_C_0
+[2024.02.29-14.04.09:357][385]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.02.29-14.04.10:236][459]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking_C
+[2024.02.29-14.04.10:236][459]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking_C
+[2024.02.29-14.04.10:246][459]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking as actor: AI_BaseWalking_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.AI_BaseWalking_C_2
+[2024.02.29-14.04.10:248][459]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking as actor: AI_BaseWalking_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.AI_BaseWalking_C_2
+[2024.02.29-14.04.27:979][459]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.04.27:980][459]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.04.27:981][459]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_0
+[2024.02.29-14.04.27:981][459]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_0
+[2024.02.29-14.04.28:980][522]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.04.28:980][522]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.04.28:984][522]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_3
+[2024.02.29-14.04.28:985][522]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_3
+[2024.02.29-14.04.37:563][126]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint
+[2024.02.29-14.04.37:564][126]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.29-14.04.37:564][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.29-14.04.37:891][126]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414092503957645523
+[2024.02.29-14.04.37:891][126]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.02.29-14.04.39:615][214]LogViewport: Scene viewport resized to 2288x1039, mode Windowed.
+[2024.02.29-14.04.49:013][675]BlueprintLog: New page: Compile WayPoint
+[2024.02.29-14.04.49:061][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.02.29-14.04.50:895][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-14.04.50:943][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/WayPoint" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/WayPoint.uasset" SILENT=true
+[2024.02.29-14.04.50:946][774]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/WayPoint
+[2024.02.29-14.04.50:947][774]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/WayPoint20FE92244DEEB5411492FE905FD61225.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/WayPoint.uasset'
+[2024.02.29-14.04.50:956][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 3.29 sec)
+[2024.02.29-14.04.50:958][774]AssetCheck: New page: Asset Save: WayPoint
+[2024.02.29-14.04.50:958][774]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint
+[2024.02.29-14.04.52:515][854]LogSlate: Window 'WayPoint' being destroyed
+[2024.02.29-14.04.52:529][854]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.02.29-14.04.52:529][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.29-14.04.55:119][ 36]Cmd: DELETE
+[2024.02.29-14.04.55:119][ 36]Cmd: ACTOR DELETE
+[2024.02.29-14.04.55:129][ 36]LogEditorActor: Deleted Actor: WayPoint_C
+[2024.02.29-14.04.55:147][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.29-14.04.55:152][ 36]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2024.02.29-14.04.56:884][154]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.04.56:884][154]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.04.56:884][154]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_5
+[2024.02.29-14.04.56:885][154]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_5
+[2024.02.29-14.04.57:442][196]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.04.57:442][196]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.04.57:446][196]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_7
+[2024.02.29-14.04.57:447][196]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_7
+[2024.02.29-14.05.42:823][250]Cmd: TRANSACTION UNDO
+[2024.02.29-14.05.42:823][250]LogEditorTransaction: Undo Move Elements
+[2024.02.29-14.05.44:814][400]Cmd: TRANSACTION UNDO
+[2024.02.29-14.05.44:814][400]LogEditorTransaction: Undo Move Elements
+[2024.02.29-14.05.47:387][592]Cmd: TRANSACTION UNDO
+[2024.02.29-14.05.47:387][592]LogEditorTransaction: Undo Move Elements
+[2024.02.29-14.06.41:961][  9]Cmd: DELETE
+[2024.02.29-14.06.41:961][  9]Cmd: ACTOR DELETE
+[2024.02.29-14.06.41:974][  9]LogEditorActor: Deleted Actor: WayPoint_C
+[2024.02.29-14.06.41:998][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.29-14.06.42:004][  9]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2024.02.29-14.06.49:234][465]Cmd: DELETE
+[2024.02.29-14.06.49:234][465]Cmd: ACTOR DELETE
+[2024.02.29-14.06.49:246][465]LogEditorActor: Deleted Actor: WayPoint_C
+[2024.02.29-14.06.49:263][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.02.29-14.06.49:266][465]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.02.29-14.06.53:002][696]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.06.53:002][696]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.06.53:003][696]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_12
+[2024.02.29-14.06.53:004][696]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_12
+[2024.02.29-14.06.53:729][756]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.06.53:729][756]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.06.53:733][756]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_13
+[2024.02.29-14.06.53:734][756]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_13
+[2024.02.29-14.06.56:650][939]Cmd: DELETE
+[2024.02.29-14.06.56:650][939]Cmd: ACTOR DELETE
+[2024.02.29-14.06.56:661][939]LogEditorActor: Deleted Actor: WayPoint_C
+[2024.02.29-14.06.56:681][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.29-14.06.56:684][939]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2024.02.29-14.07.02:495][310]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.07.02:495][310]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.07.02:496][310]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_14
+[2024.02.29-14.07.02:497][310]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_14
+[2024.02.29-14.07.03:789][405]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.07.03:789][405]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.07.03:793][405]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_15
+[2024.02.29-14.07.03:793][405]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_15
+[2024.02.29-14.07.09:561][759]Cmd: DELETE
+[2024.02.29-14.07.09:561][759]Cmd: ACTOR DELETE
+[2024.02.29-14.07.09:573][759]LogEditorActor: Deleted Actor: WayPoint_C
+[2024.02.29-14.07.09:593][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.02.29-14.07.09:595][759]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2024.02.29-14.07.15:611][146]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.07.15:611][146]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.07.15:612][146]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_16
+[2024.02.29-14.07.15:613][146]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_16
+[2024.02.29-14.07.17:009][275]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.07.17:009][275]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.07.17:013][275]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_17
+[2024.02.29-14.07.17:014][275]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_17
+[2024.02.29-14.07.23:604][692]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.07.23:605][692]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.07.23:606][692]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_18
+[2024.02.29-14.07.23:607][692]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_18
+[2024.02.29-14.07.24:689][774]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.07.24:690][774]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint_C
+[2024.02.29-14.07.24:694][774]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_19
+[2024.02.29-14.07.24:695][774]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/DRONE_AI/WayPoint.WayPoint as actor: WayPoint_C /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.WayPoint_C_19
+[2024.02.29-14.09.48:956][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-14.09.49:004][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector1" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.29-14.09.49:048][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.02.29-14.09.49:200][259]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector1
+[2024.02.29-14.09.49:200][259]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector1AD2FC0784EA79D1BF447C187192A2AC2.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector1.umap'
+[2024.02.29-14.09.49:210][259]LogFileHelpers: All files are already saved.
+[2024.02.29-14.09.49:210][259]LogFileHelpers: Saving map 'Sector1' took 0.207
+[2024.02.29-14.09.49:216][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 3.55 sec)
+[2024.02.29-14.09.49:220][259]AssetCheck: New page: Asset Save: Sector1
+[2024.02.29-14.09.49:220][259]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector1.Sector1
+[2024.02.29-14.14.46:652][289]BlueprintLog: New page: Compile AI_BaseWalking
+[2024.02.29-14.14.46:870][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.02.29-14.14.48:426][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-14.14.48:577][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseWalking.uasset" SILENT=true
+[2024.02.29-14.14.48:599][362]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking
+[2024.02.29-14.14.48:599][362]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseWalking1EDB12DA43E2E489943AE6B763A34C2B.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseWalking.uasset'
+[2024.02.29-14.14.48:608][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 3.73 sec)
+[2024.02.29-14.14.48:610][362]AssetCheck: New page: Asset Save: AI_BaseWalking
+[2024.02.29-14.14.48:610][362]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking
+[2024.02.29-14.15.49:041][713]BlueprintLog: New page: Compile AI_BaseWalking
+[2024.02.29-14.15.49:236][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.29-14.15.50:482][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-14.15.50:632][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseWalking.uasset" SILENT=true
+[2024.02.29-14.15.50:655][768]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking
+[2024.02.29-14.15.50:655][768]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseWalkingACB760854712F9C5CD8C7AACE15C53E2.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseWalking.uasset'
+[2024.02.29-14.15.50:663][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 3.91 sec)
+[2024.02.29-14.15.50:664][768]AssetCheck: New page: Asset Save: AI_BaseWalking
+[2024.02.29-14.15.50:664][768]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking
+[2024.02.29-14.16.26:780][547]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController
+[2024.02.29-14.16.26:781][547]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.29-14.16.26:781][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.29-14.16.27:098][547]LogViewport: Scene viewport resized to 2291x1043, mode Windowed.
+[2024.02.29-14.16.30:960][739]LogViewport: Scene viewport resized to 2286x1076, mode Windowed.
+[2024.02.29-14.16.31:080][741]LogViewport: Scene viewport resized to 457x54, mode Windowed.
+[2024.02.29-14.16.31:589][787]LogViewport: Scene viewport resized to 2282x1377, mode Windowed.
+[2024.02.29-14.16.31:973][825]LogSlate: Window 'AI_BaseController' being destroyed
+[2024.02.29-14.20.04:203][510]BlueprintLog: New page: Compile AI_BaseController
+[2024.02.29-14.20.04:238][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.02.29-14.20.05:471][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-14.20.05:528][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseController" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset" SILENT=true
+[2024.02.29-14.20.05:534][645]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseController
+[2024.02.29-14.20.05:534][645]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseController0EBA736449465523EF9EE29870D3C9B0.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset'
+[2024.02.29-14.20.05:542][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 3.98 sec)
+[2024.02.29-14.20.05:543][645]AssetCheck: New page: Asset Save: AI_BaseController
+[2024.02.29-14.20.05:543][645]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController
+[2024.02.29-14.21.24:181][792]BlueprintLog: New page: Compile AI_BaseController
+[2024.02.29-14.21.24:211][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.02.29-14.21.25:188][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-14.21.25:247][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseController" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset" SILENT=true
+[2024.02.29-14.21.25:253][896]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseController
+[2024.02.29-14.21.25:254][896]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseControllerF54363334914BE79C6D29783613B897D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset'
+[2024.02.29-14.21.25:261][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 4.05 sec)
+[2024.02.29-14.21.25:263][896]AssetCheck: New page: Asset Save: AI_BaseController
+[2024.02.29-14.21.25:263][896]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController
+[2024.02.29-14.22.55:056][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.02.29-14.22.55:060][292]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/Sector1' took 0.021
+[2024.02.29-14.22.55:061][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLUEPRINTS/DRONE_AI/AI_BaseController] ([2] browsable assets)...
+[2024.02.29-14.22.55:061][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINTS/DRONE_AI/AI_BaseController]
+[2024.02.29-14.22.55:067][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/DRONE_AI/AI_BaseController_Auto1
+[2024.02.29-14.22.55:067][292]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseController_Auto1D85FFFD7419B03688A58F6B8FFCA5F0B.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/DRONE_AI/AI_BaseController_Auto1.uasset'
+[2024.02.29-14.22.55:069][292]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.02.29-14.25.24:857][104]BlueprintLog: New page: Compile AI_BaseController
+[2024.02.29-14.25.24:889][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.02.29-14.25.25:759][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-14.25.25:808][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseController" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset" SILENT=true
+[2024.02.29-14.25.25:815][184]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseController
+[2024.02.29-14.25.25:816][184]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseControllerCEE9C9044FC95FDFE6B5849DD9830AC0.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset'
+[2024.02.29-14.25.25:825][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 4.12 sec)
+[2024.02.29-14.25.25:826][184]AssetCheck: New page: Asset Save: AI_BaseController
+[2024.02.29-14.25.25:826][184]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController
+[2024.02.29-14.25.31:143][673]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.29-14.25.31:145][673]LogPlayLevel: [PlayLevel] Compiling BP_AI_MasterDrone before play...
+[2024.02.29-14.25.31:194][673]LogPlayLevel: [PlayLevel] Compiling Sector1 before play...
+[2024.02.29-14.25.31:238][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.02.29-14.25.31:240][673]LogPlayLevel: PlayLevel: Blueprint regeneration took 96 ms (2 blueprints)
+[2024.02.29-14.25.31:240][673]PIE: New page: SIE session: Sector1 (29 Feb 2024, 14:25:31)
+[2024.02.29-14.25.31:240][673]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.02.29-14.25.31:302][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061964s)
+[2024.02.29-14.25.31:302][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/Sector1.Sector1 to /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 (0.062009s)
+[2024.02.29-14.25.31:318][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.29-14.25.31:319][673]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.29-14.25.31:319][673]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.29-14.25.31:320][673]LogAIModule: Creating AISystem for world Sector1
+[2024.02.29-14.25.31:320][673]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2024.02.29-14.25.31:320][673]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.02.29-14.25.31:320][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.29-14.25.31:320][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.29-14.25.31:320][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.29-14.25.31:320][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.29-14.25.31:320][673]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.29-14.25.31:320][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.29-14.25.31:320][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.29-14.25.31:320][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.29-14.25.31:321][673]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.29-14.25.31:321][673]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.29-14.25.31:321][673]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.29-14.25.31:323][673]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.29-14.25.31:345][673]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.02.29-14.25.31:345][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.29-14.25.31:345][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.29-14.25.31:345][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.29-14.25.31:346][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.02.29-14.25.31:346][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.02.29-14.25.31:347][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.02.29-14.25.31:347][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.02.29-14.25.31:347][673]LogInit: FAudioDevice initialized with ID 3.
+[2024.02.29-14.25.31:347][673]LogAudio: Display: Audio Device (ID: 3) registered with world 'Sector1'.
+[2024.02.29-14.25.31:347][673]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.29-14.25.31:351][673]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.02.29-14.25.31:369][673]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 up for play (max tick rate 0) at 2024.02.29-14.25.31
+[2024.02.29-14.25.31:369][673]LogWorld: Bringing up level for play took: 0.017724
+[2024.02.29-14.25.31:372][673]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.02.29-14.25.31:376][673]PIE: Server logged in
+[2024.02.29-14.25.31:376][673]PIE: Play in editor total start time 0.233 seconds.
+[2024.02.29-14.25.33:152][673]LogAutomationController: Ignoring very large delta of 2.03 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.29-14.25.57:090][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.29-14.25.57:090][158]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.02.29-14.25.57:091][158]LogWorld: UWorld::CleanupWorld for Sector1, bSessionEnded=true, bCleanupResources=true
+[2024.02.29-14.25.57:093][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.29-14.25.57:507][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.29-14.25.57:516][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.29-14.25.57:536][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.29-14.25.57:537][158]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.29-14.25.57:537][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.29-14.25.57:541][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.29-14.25.57:555][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.02.29-14.25.57:651][159]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.02.29-14.34.39:087][190]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:35.252 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 49197 files in 50954 folders with total size 8426 MiB.
+[2024.02.29-14.42.09:380][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.02.29-14.42.09:385][556]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/Sector1' took 0.023
+[2024.02.29-14.42.09:386][556]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLUEPRINTS/DRONE_AI/AI_BaseController] ([2] browsable assets)...
+[2024.02.29-14.42.09:386][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINTS/DRONE_AI/AI_BaseController]
+[2024.02.29-14.42.09:398][556]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/DRONE_AI/AI_BaseController_Auto2
+[2024.02.29-14.42.09:398][556]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseController_Auto22D47E9DA45E3B78F5CAD93B35B38042A.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/DRONE_AI/AI_BaseController_Auto2.uasset'
+[2024.02.29-14.42.09:398][556]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.02.29-14.42.41:141][319]BlueprintLog: New page: Compile AI_BaseController
+[2024.02.29-14.42.41:177][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.29-14.42.42:056][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-14.42.42:110][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseController" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset" SILENT=true
+[2024.02.29-14.42.42:123][404]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseController
+[2024.02.29-14.42.42:123][404]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseControllerE4736ABF4B626D3A083F4F85C8150C3D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset'
+[2024.02.29-14.42.42:130][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 4.19 sec)
+[2024.02.29-14.42.42:132][404]AssetCheck: New page: Asset Save: AI_BaseController
+[2024.02.29-14.42.42:132][404]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController
+[2024.02.29-14.45.12:846][121]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::GreaterEqual_IntInt' [Element not found.]
+[2024.02.29-14.48.51:818][473]BlueprintLog: New page: Compile AI_BaseController
+[2024.02.29-14.48.51:860][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.02.29-14.48.53:418][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-14.48.53:475][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseController" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset" SILENT=true
+[2024.02.29-14.48.53:490][638]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseController
+[2024.02.29-14.48.53:491][638]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseControllerE02E3CC042F7F6CD2927918B84CC3304.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset'
+[2024.02.29-14.48.53:498][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 4.27 sec)
+[2024.02.29-14.48.53:500][638]AssetCheck: New page: Asset Save: AI_BaseController
+[2024.02.29-14.48.53:500][638]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController
+[2024.02.29-14.52.15:455][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.02.29-14.52.15:457][977]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/Sector1' took 0.019
+[2024.02.29-14.52.15:458][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLUEPRINTS/DRONE_AI/AI_BaseController] ([2] browsable assets)...
+[2024.02.29-14.52.15:458][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINTS/DRONE_AI/AI_BaseController]
+[2024.02.29-14.52.15:475][977]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/DRONE_AI/AI_BaseController_Auto3
+[2024.02.29-14.52.15:475][977]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseController_Auto3F7FD7C53411E468A2D18F3AD36B48117.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/DRONE_AI/AI_BaseController_Auto3.uasset'
+[2024.02.29-14.52.15:476][977]LogFileHelpers: Auto-saving content packages took 0.019
+[2024.02.29-15.01.24:946][481]BlueprintLog: New page: Compile AI_BaseController
+[2024.02.29-15.01.24:987][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.02.29-15.01.26:093][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-15.01.26:138][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseController" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset" SILENT=true
+[2024.02.29-15.01.26:157][598]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseController
+[2024.02.29-15.01.26:158][598]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseControllerE1129F3B437278EFDD3EC7A506849C57.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset'
+[2024.02.29-15.01.26:165][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 4.35 sec)
+[2024.02.29-15.01.26:167][598]AssetCheck: New page: Asset Save: AI_BaseController
+[2024.02.29-15.01.26:167][598]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController
+[2024.02.29-15.34.39:091][455]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:35.255 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 49197 files in 50954 folders with total size 8426 MiB.
+[2024.02.29-16.34.39:071][251]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:35.234 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 49197 files in 50954 folders with total size 8426 MiB.
