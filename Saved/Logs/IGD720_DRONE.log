@@ -5648,3 +5648,1205 @@ Would you like to regenerate the skeleton from this mesh?
 [2024.03.01-00.30.22:002][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 382 ms (total: 21.9 sec)
 [2024.03.01-00.30.22:006][726]AssetCheck: New page: Asset Save: DevatoxBP
 [2024.03.01-00.30.22:006][726]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DevatoxBP.DevatoxBP
+[2024.03.01-00.34.39:102][  9]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:35.260 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 49403 files in 51138 folders with total size 8441 MiB.
+[2024.03.01-00.37.36:533][541]LogWorld: UWorld::CleanupWorld for World_128, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-00.37.36:533][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-00.37.41:130][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.03.01-00.39.39:888][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.03.01-00.39.39:895][714]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/Sector1' took 0.025
+[2024.03.01-00.39.39:896][714]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLUEPRINTS/DRONE_AI/AI_BaseController] ([2] browsable assets)...
+[2024.03.01-00.39.39:896][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINTS/DRONE_AI/AI_BaseController]
+[2024.03.01-00.39.39:931][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/DRONE_AI/AI_BaseController_Auto7
+[2024.03.01-00.39.39:931][714]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseController_Auto73911147349D8B5E6947C478059711C85.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/DRONE_AI/AI_BaseController_Auto7.uasset'
+[2024.03.01-00.39.39:931][714]LogFileHelpers: Auto-saving content packages took 0.036
+[2024.03.01-00.41.19:915][ 75]BlueprintLog: New page: Compile AI_BaseController
+[2024.03.01-00.41.19:966][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.03.01-00.41.21:432][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-00.41.21:489][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseController" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset" SILENT=true
+[2024.03.01-00.41.21:524][143]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseController
+[2024.03.01-00.41.21:524][143]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseController43F64B2A4C21A62ED932C78A5A99767F.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset'
+[2024.03.01-00.41.21:533][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 22.0 sec)
+[2024.03.01-00.41.21:535][143]AssetCheck: New page: Asset Save: AI_BaseController
+[2024.03.01-00.41.21:535][143]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController
+[2024.03.01-00.42.28:910][365]BlueprintLog: New page: Compile AI_BaseController
+[2024.03.01-00.42.28:965][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.01-00.42.30:067][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-00.42.30:124][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseController" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset" SILENT=true
+[2024.03.01-00.42.30:161][404]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseController
+[2024.03.01-00.42.30:161][404]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseController66F8433C4A4FF1546574A19D02415EE3.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset'
+[2024.03.01-00.42.30:170][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 22.1 sec)
+[2024.03.01-00.42.30:171][404]AssetCheck: New page: Asset Save: AI_BaseController
+[2024.03.01-00.42.30:171][404]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController
+[2024.03.01-00.42.30:550][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-00.42.30:607][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseController" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset" SILENT=true
+[2024.03.01-00.42.30:643][426]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseController
+[2024.03.01-00.42.30:644][426]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseController70AE589E414095C983AA349B1AB9A142.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset'
+[2024.03.01-00.42.30:654][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 22.2 sec)
+[2024.03.01-00.42.30:655][426]AssetCheck: New page: Asset Save: AI_BaseController
+[2024.03.01-00.42.30:655][426]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController
+[2024.03.01-00.43.32:672][832]BlueprintLog: New page: Compile AI_BaseWalking
+[2024.03.01-00.43.32:773][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.03.01-00.43.34:130][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-00.43.34:261][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseWalking.uasset" SILENT=true
+[2024.03.01-00.43.34:283][919]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking
+[2024.03.01-00.43.34:284][919]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseWalking5E7683B6447C88F290C0BD8B4207E103.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseWalking.uasset'
+[2024.03.01-00.43.34:296][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 22.4 sec)
+[2024.03.01-00.43.34:297][919]AssetCheck: New page: Asset Save: AI_BaseWalking
+[2024.03.01-00.43.34:297][919]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseWalking.AI_BaseWalking
+[2024.03.01-00.49.32:675][835]BlueprintLog: New page: Compile AI_BaseController
+[2024.03.01-00.49.32:734][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.03.01-00.49.34:128][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-00.49.34:182][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DRONE_AI/AI_BaseController" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset" SILENT=true
+[2024.03.01-00.49.34:219][902]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_BaseController
+[2024.03.01-00.49.34:220][902]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_BaseControllerEC41471F4F6F5FC53B3084A014FE701D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_BaseController.uasset'
+[2024.03.01-00.49.34:230][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 22.5 sec)
+[2024.03.01-00.49.34:233][902]AssetCheck: New page: Asset Save: AI_BaseController
+[2024.03.01-00.49.34:233][902]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController
+[2024.03.01-00.59.05:281][593]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.01-00.59.05:282][593]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-00.59.05:282][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-00.59.07:313][737]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.01-00.59.07:313][737]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-00.59.07:313][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-00.59.11:176][991]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-00.59.11:177][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-00.59.11:245][991]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-00.59.11:246][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-00.59.11:431][991]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-00.59.11:431][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-00.59.17:210][338]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BLUEPRINTS/DevatoxBP.DevatoxBP
+[2024.03.01-00.59.17:211][338]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-00.59.17:211][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-00.59.17:347][338]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-00.59.17:347][338]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.03.13:976][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.03.01-01.03.13:986][ 66]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BLUEPRINTS/Maps/Sector1' took 0.043
+[2024.03.01-01.03.13:987][ 66]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BLUEPRINTS/DevatoxBP] ([2] browsable assets)...
+[2024.03.01-01.03.14:063][ 66]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BLUEPRINTS/DevatoxBP.DevatoxBP]
+[2024.03.01-01.03.14:063][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINTS/DevatoxBP]
+[2024.03.01-01.03.14:063][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DevatoxBP" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/DevatoxBP_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.03.01-01.03.14:318][ 66]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/DevatoxBP_Auto8
+[2024.03.01-01.03.14:318][ 66]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/DevatoxBP_Auto8644099E64A7CEFF18F5A8DA3AEFDD7EF.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Autosaves/Game/BLUEPRINTS/DevatoxBP_Auto8.uasset'
+[2024.03.01-01.03.14:319][ 66]LogFileHelpers: Auto-saving content packages took 0.333
+[2024.03.01-01.03.46:683][943]BlueprintLog: New page: Compile DevatoxBP
+[2024.03.01-01.03.47:666][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.03.01-01.03.47:705][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.03.47:705][943]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.03.47:706][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.03.47:706][943]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.03.47:707][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.03.47:707][943]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_4.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.03.47:708][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.03.47:708][943]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_4.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.03.47:708][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.03.47:709][943]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.03.47:710][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.03.47:710][943]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.03.47:711][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.03.47:711][943]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_5.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.03.47:733][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.03.47:733][943]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.03.47:734][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.03.47:734][943]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.03.47:735][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.03.47:735][943]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.03.47:736][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.03.47:736][943]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.03.47:737][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.03.47:737][943]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_5.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.03.47:738][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.03.47:738][943]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_5.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.03.50:190][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-01.03.50:302][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DevatoxBP" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset" SILENT=true
+[2024.03.01-01.03.50:557][214]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DevatoxBP
+[2024.03.01-01.03.50:558][214]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/DevatoxBP1EAE6680436F46B64328BD9B6153D9CC.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset'
+[2024.03.01-01.03.50:568][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 378 ms (total: 22.9 sec)
+[2024.03.01-01.03.50:571][214]AssetCheck: New page: Asset Save: DevatoxBP
+[2024.03.01-01.03.50:571][214]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DevatoxBP.DevatoxBP
+[2024.03.01-01.03.55:679][610]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.03.01-01.03.55:687][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-01.03.55:687][610]PIE: New page: PIE session: Sector1 (1 Mar 2024, 01:03:55)
+[2024.03.01-01.03.55:687][610]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.03.01-01.03.55:752][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064574s)
+[2024.03.01-01.03.55:752][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/Sector1.Sector1 to /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 (0.064613s)
+[2024.03.01-01.03.55:774][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.03.01-01.03.55:782][610]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-01.03.55:782][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-01.03.55:782][610]LogAIModule: Creating AISystem for world Sector1
+[2024.03.01-01.03.55:783][610]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2024.03.01-01.03.55:783][610]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.03.01-01.03.55:783][610]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-01.03.55:783][610]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-01.03.55:783][610]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-01.03.55:783][610]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-01.03.55:783][610]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.01-01.03.55:783][610]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.01-01.03.55:783][610]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.01-01.03.55:783][610]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-01.03.55:783][610]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-01.03.55:783][610]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-01.03.55:783][610]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-01.03.55:785][610]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.01-01.03.55:805][610]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.03.01-01.03.55:805][610]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-01.03.55:805][610]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-01.03.55:805][610]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-01.03.55:806][610]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.03.01-01.03.55:806][610]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.03.01-01.03.55:807][610]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.03.01-01.03.55:808][610]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.03.01-01.03.55:808][610]LogInit: FAudioDevice initialized with ID 18.
+[2024.03.01-01.03.55:808][610]LogAudio: Display: Audio Device (ID: 18) registered with world 'Sector1'.
+[2024.03.01-01.03.55:808][610]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.03.01-01.03.55:877][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-01.03.55:877][610]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.03.01-01.03.55:897][610]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 up for play (max tick rate 0) at 2024.03.01-01.03.55
+[2024.03.01-01.03.55:898][610]LogWorld: Bringing up level for play took: 0.020308
+[2024.03.01-01.03.55:900][610]LogOnline: OSS: Created online subsystem instance for: :Context_147
+[2024.03.01-01.03.55:901][610]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.03.55:901][610]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.03.55:916][610]PIE: Server logged in
+[2024.03.01-01.03.55:918][610]PIE: Play in editor total start time 0.231 seconds.
+[2024.03.01-01.03.55:947][610]LogViewport: Scene viewport resized to 4037x1999, mode Windowed.
+[2024.03.01-01.04.05:459][785]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Waypoints' of length 9 in '/Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController_C'!
+[2024.03.01-01.04.05:459][785]LogScript: Warning: Script Msg called by: AI_BaseController_C /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1:PersistentLevel.AI_BaseController_C_0
+[2024.03.01-01.04.07:413][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-01.04.07:413][826]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.03.01-01.04.07:415][826]LogSlate: Window 'IGD720_DRONE Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.01-01.04.07:443][826]LogWorld: UWorld::CleanupWorld for Sector1, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-01.04.07:445][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.04.07:449][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-01.04.07:458][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.04.07:474][826]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.01-01.04.07:475][826]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.03.01-01.04.07:476][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.01-01.04.07:477][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.01-01.04.07:491][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.03.01-01.04.07:565][827]LogPlayLevel: Display: Destroying online subsystem :Context_147
+[2024.03.01-01.04.47:532][382]BlueprintLog: New page: Compile DevatoxBP
+[2024.03.01-01.04.47:782][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.03.01-01.04.47:800][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.04.47:800][382]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.04.47:801][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.04.47:801][382]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.04.47:802][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.04.47:802][382]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_5.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.04.47:802][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.04.47:803][382]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_5.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.04.47:803][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.04.47:803][382]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.04.47:805][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.04.47:805][382]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.04.47:806][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.04.47:806][382]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_6.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.04.47:828][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.04.47:828][382]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.04.47:829][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.04.47:829][382]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.04.47:830][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.04.47:830][382]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.04.47:832][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.04.47:832][382]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.04.47:833][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.04.47:833][382]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_6.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.04.47:834][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.04.47:834][382]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_6.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.04.48:788][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-01.04.48:937][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DevatoxBP" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset" SILENT=true
+[2024.03.01-01.04.49:189][477]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DevatoxBP
+[2024.03.01-01.04.49:190][477]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/DevatoxBPDD46BC0D42E0D72EEF28BC8134852571.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset'
+[2024.03.01-01.04.49:200][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 411 ms (total: 23.3 sec)
+[2024.03.01-01.04.49:203][477]AssetCheck: New page: Asset Save: DevatoxBP
+[2024.03.01-01.04.49:203][477]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DevatoxBP.DevatoxBP
+[2024.03.01-01.04.52:450][768]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.03.01-01.04.52:457][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-01.04.52:458][768]PIE: New page: PIE session: Sector1 (1 Mar 2024, 01:04:52)
+[2024.03.01-01.04.52:458][768]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.03.01-01.04.52:522][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064595s)
+[2024.03.01-01.04.52:522][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/Sector1.Sector1 to /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 (0.064632s)
+[2024.03.01-01.04.52:543][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.01-01.04.52:549][768]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-01.04.52:549][768]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-01.04.52:550][768]LogAIModule: Creating AISystem for world Sector1
+[2024.03.01-01.04.52:550][768]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2024.03.01-01.04.52:550][768]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.03.01-01.04.52:550][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-01.04.52:550][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-01.04.52:550][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-01.04.52:550][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-01.04.52:550][768]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.01-01.04.52:551][768]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.01-01.04.52:551][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.01-01.04.52:551][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-01.04.52:551][768]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-01.04.52:551][768]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-01.04.52:551][768]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-01.04.52:553][768]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.01-01.04.52:574][768]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.03.01-01.04.52:574][768]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-01.04.52:574][768]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-01.04.52:574][768]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-01.04.52:574][768]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.03.01-01.04.52:574][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.03.01-01.04.52:576][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.03.01-01.04.52:576][768]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.03.01-01.04.52:576][768]LogInit: FAudioDevice initialized with ID 19.
+[2024.03.01-01.04.52:576][768]LogAudio: Display: Audio Device (ID: 19) registered with world 'Sector1'.
+[2024.03.01-01.04.52:576][768]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.01-01.04.52:612][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-01.04.52:612][768]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.03.01-01.04.52:632][768]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 up for play (max tick rate 0) at 2024.03.01-01.04.52
+[2024.03.01-01.04.52:633][768]LogWorld: Bringing up level for play took: 0.021461
+[2024.03.01-01.04.52:636][768]LogOnline: OSS: Created online subsystem instance for: :Context_148
+[2024.03.01-01.04.52:637][768]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.04.52:637][768]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.04.52:647][768]PIE: Server logged in
+[2024.03.01-01.04.52:650][768]PIE: Play in editor total start time 0.193 seconds.
+[2024.03.01-01.04.52:680][768]LogViewport: Scene viewport resized to 4043x1999, mode Windowed.
+[2024.03.01-01.05.01:749][959]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Waypoints' of length 9 in '/Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController_C'!
+[2024.03.01-01.05.01:749][959]LogScript: Warning: Script Msg called by: AI_BaseController_C /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1:PersistentLevel.AI_BaseController_C_0
+[2024.03.01-01.05.05:443][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-01.05.05:443][ 40]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.03.01-01.05.05:445][ 40]LogSlate: Window 'IGD720_DRONE Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.01-01.05.05:472][ 40]LogWorld: UWorld::CleanupWorld for Sector1, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-01.05.05:474][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.05.05:477][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-01.05.05:486][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.05.05:503][ 40]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.01-01.05.05:505][ 40]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.01-01.05.05:506][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.01-01.05.05:508][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.01-01.05.05:518][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.03.01-01.05.05:590][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_148
+[2024.03.01-01.06.45:930][624]BlueprintLog: New page: Compile DevatoxBP
+[2024.03.01-01.06.46:174][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.03.01-01.06.46:193][624]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.06.46:193][624]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.06.46:194][624]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.06.46:194][624]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.06.46:195][624]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.06.46:195][624]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_6.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.06.46:196][624]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.06.46:196][624]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_6.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.06.46:197][624]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.06.46:197][624]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.06.46:198][624]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.06.46:198][624]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.06.46:199][624]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.06.46:199][624]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_7.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.06.46:220][624]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.06.46:220][624]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.06.46:221][624]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.06.46:221][624]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.06.46:222][624]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.06.46:222][624]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.06.46:224][624]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.06.46:224][624]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.06.46:225][624]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.06.46:225][624]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_7.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.06.46:226][624]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.06.46:226][624]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_7.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.06.47:124][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-01.06.47:248][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DevatoxBP" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset" SILENT=true
+[2024.03.01-01.06.47:498][721]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DevatoxBP
+[2024.03.01-01.06.47:499][721]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/DevatoxBP5CDB96074AD7161E008447B40367D0FE.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset'
+[2024.03.01-01.06.47:508][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 384 ms (total: 23.7 sec)
+[2024.03.01-01.06.47:512][721]AssetCheck: New page: Asset Save: DevatoxBP
+[2024.03.01-01.06.47:512][721]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DevatoxBP.DevatoxBP
+[2024.03.01-01.06.49:531][897]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.03.01-01.06.49:539][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-01.06.49:539][897]PIE: New page: PIE session: Sector1 (1 Mar 2024, 01:06:49)
+[2024.03.01-01.06.49:539][897]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.03.01-01.06.49:605][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065388s)
+[2024.03.01-01.06.49:605][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/Sector1.Sector1 to /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 (0.065428s)
+[2024.03.01-01.06.49:628][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.03.01-01.06.49:635][897]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-01.06.49:635][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-01.06.49:635][897]LogAIModule: Creating AISystem for world Sector1
+[2024.03.01-01.06.49:636][897]LogPlayLevel: PIE: World Init took: (0.001215s)
+[2024.03.01-01.06.49:636][897]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.03.01-01.06.49:636][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-01.06.49:636][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-01.06.49:636][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-01.06.49:636][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-01.06.49:636][897]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.01-01.06.49:636][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.01-01.06.49:636][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.01-01.06.49:636][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-01.06.49:637][897]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-01.06.49:637][897]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-01.06.49:637][897]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-01.06.49:639][897]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.01-01.06.49:659][897]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.03.01-01.06.49:659][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-01.06.49:659][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-01.06.49:659][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-01.06.49:659][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.03.01-01.06.49:659][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.03.01-01.06.49:662][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.03.01-01.06.49:662][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.03.01-01.06.49:662][897]LogInit: FAudioDevice initialized with ID 20.
+[2024.03.01-01.06.49:662][897]LogAudio: Display: Audio Device (ID: 20) registered with world 'Sector1'.
+[2024.03.01-01.06.49:662][897]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.03.01-01.06.49:719][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-01.06.49:719][897]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.03.01-01.06.49:738][897]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 up for play (max tick rate 0) at 2024.03.01-01.06.49
+[2024.03.01-01.06.49:739][897]LogWorld: Bringing up level for play took: 0.020603
+[2024.03.01-01.06.49:742][897]LogOnline: OSS: Created online subsystem instance for: :Context_149
+[2024.03.01-01.06.49:743][897]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.06.49:743][897]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.06.49:754][897]PIE: Server logged in
+[2024.03.01-01.06.49:757][897]PIE: Play in editor total start time 0.217 seconds.
+[2024.03.01-01.06.49:788][897]LogViewport: Scene viewport resized to 4049x1999, mode Windowed.
+[2024.03.01-01.06.58:830][ 78]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Waypoints' of length 9 in '/Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController_C'!
+[2024.03.01-01.06.58:830][ 78]LogScript: Warning: Script Msg called by: AI_BaseController_C /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1:PersistentLevel.AI_BaseController_C_0
+[2024.03.01-01.07.03:293][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-01.07.03:293][173]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.03.01-01.07.03:295][173]LogSlate: Window 'IGD720_DRONE Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.01-01.07.03:308][173]LogWorld: UWorld::CleanupWorld for Sector1, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-01.07.03:311][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.07.03:313][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-01.07.03:322][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.07.03:339][173]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.01-01.07.03:341][173]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.03.01-01.07.03:341][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.03.01-01.07.03:343][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.03.01-01.07.03:354][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.03.01-01.07.03:427][174]LogPlayLevel: Display: Destroying online subsystem :Context_149
+[2024.03.01-01.07.34:648][673]BlueprintLog: New page: Compile DevatoxBP
+[2024.03.01-01.07.34:897][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.03.01-01.07.34:915][673]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.07.34:915][673]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.07.34:916][673]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.07.34:916][673]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.07.34:917][673]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.07.34:917][673]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_7.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.07.34:918][673]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.07.34:918][673]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_7.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.07.34:919][673]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.07.34:919][673]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.07.34:920][673]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.07.34:920][673]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.07.34:922][673]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.07.34:922][673]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_8.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.07.34:942][673]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.07.34:942][673]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.07.34:944][673]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.07.34:944][673]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.07.34:945][673]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.07.34:945][673]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.07.34:947][673]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.07.34:947][673]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.07.34:948][673]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.07.34:948][673]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_8.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.07.34:949][673]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.07.34:949][673]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_8.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.07.37:326][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-01.07.37:473][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DevatoxBP" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset" SILENT=true
+[2024.03.01-01.07.37:725][940]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DevatoxBP
+[2024.03.01-01.07.37:726][940]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/DevatoxBP1AA521AC4542A22DBA09BF8D51D5E3FE.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset'
+[2024.03.01-01.07.37:735][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 408 ms (total: 24.1 sec)
+[2024.03.01-01.07.37:739][940]AssetCheck: New page: Asset Save: DevatoxBP
+[2024.03.01-01.07.37:740][940]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DevatoxBP.DevatoxBP
+[2024.03.01-01.07.39:669][ 96]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.03.01-01.07.39:678][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-01.07.39:678][ 96]PIE: New page: PIE session: Sector1 (1 Mar 2024, 01:07:39)
+[2024.03.01-01.07.39:678][ 96]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.03.01-01.07.39:742][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064110s)
+[2024.03.01-01.07.39:742][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/Sector1.Sector1 to /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 (0.064154s)
+[2024.03.01-01.07.39:764][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.01-01.07.39:770][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-01.07.39:770][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-01.07.39:770][ 96]LogAIModule: Creating AISystem for world Sector1
+[2024.03.01-01.07.39:771][ 96]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2024.03.01-01.07.39:771][ 96]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.03.01-01.07.39:771][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-01.07.39:771][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-01.07.39:771][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-01.07.39:771][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-01.07.39:771][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.01-01.07.39:771][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.01-01.07.39:771][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.01-01.07.39:771][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-01.07.39:772][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-01.07.39:772][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-01.07.39:772][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-01.07.39:774][ 96]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.01-01.07.39:792][ 96]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.03.01-01.07.39:794][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-01.07.39:794][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-01.07.39:794][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-01.07.39:794][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.03.01-01.07.39:794][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.03.01-01.07.39:796][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.03.01-01.07.39:796][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.03.01-01.07.39:796][ 96]LogInit: FAudioDevice initialized with ID 21.
+[2024.03.01-01.07.39:796][ 96]LogAudio: Display: Audio Device (ID: 21) registered with world 'Sector1'.
+[2024.03.01-01.07.39:796][ 96]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.03.01-01.07.39:853][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-01.07.39:854][ 96]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.03.01-01.07.39:873][ 96]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 up for play (max tick rate 0) at 2024.03.01-01.07.39
+[2024.03.01-01.07.39:874][ 96]LogWorld: Bringing up level for play took: 0.020493
+[2024.03.01-01.07.39:877][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_150
+[2024.03.01-01.07.39:878][ 96]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.07.39:878][ 96]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.07.39:889][ 96]PIE: Server logged in
+[2024.03.01-01.07.39:891][ 96]PIE: Play in editor total start time 0.214 seconds.
+[2024.03.01-01.07.39:923][ 96]LogViewport: Scene viewport resized to 4055x1999, mode Windowed.
+[2024.03.01-01.07.48:944][278]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Waypoints' of length 9 in '/Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController_C'!
+[2024.03.01-01.07.48:944][278]LogScript: Warning: Script Msg called by: AI_BaseController_C /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1:PersistentLevel.AI_BaseController_C_0
+[2024.03.01-01.07.50:725][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-01.07.50:725][311]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.03.01-01.07.50:726][311]LogSlate: Window 'IGD720_DRONE Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.01-01.07.50:749][311]LogWorld: UWorld::CleanupWorld for Sector1, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-01.07.50:751][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.07.50:753][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-01.07.50:762][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.07.50:778][311]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.01-01.07.50:780][311]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.03.01-01.07.50:780][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.03.01-01.07.50:782][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.03.01-01.07.50:793][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.03.01-01.07.50:869][312]LogPlayLevel: Display: Destroying online subsystem :Context_150
+[2024.03.01-01.08.03:058][660]BlueprintLog: New page: Compile DevatoxBP
+[2024.03.01-01.08.03:301][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.01-01.08.03:319][660]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.03:319][660]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.03:320][660]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.03:320][660]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.03:321][660]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.03:321][660]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_8.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.03:321][660]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.03:321][660]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_8.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.03:322][660]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.03:322][660]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.03:324][660]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.03:324][660]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.03:326][660]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.03:326][660]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_9.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.08.03:347][660]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.03:347][660]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.03:348][660]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.03:348][660]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.03:349][660]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.03:349][660]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.03:351][660]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.03:351][660]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.03:352][660]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.03:352][660]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_9.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.08.03:352][660]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.03:352][660]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_9.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.08.10:941][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-01.08.11:063][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DevatoxBP" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset" SILENT=true
+[2024.03.01-01.08.11:313][543]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DevatoxBP
+[2024.03.01-01.08.11:313][543]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/DevatoxBP9A75CDAD4B7F75001295829D88B2F5C7.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset'
+[2024.03.01-01.08.11:324][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 383 ms (total: 24.5 sec)
+[2024.03.01-01.08.11:328][543]AssetCheck: New page: Asset Save: DevatoxBP
+[2024.03.01-01.08.11:328][543]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DevatoxBP.DevatoxBP
+[2024.03.01-01.08.14:913][857]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.03.01-01.08.14:920][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-01.08.14:921][857]PIE: New page: PIE session: Sector1 (1 Mar 2024, 01:08:14)
+[2024.03.01-01.08.14:921][857]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.03.01-01.08.14:988][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066423s)
+[2024.03.01-01.08.14:988][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/Sector1.Sector1 to /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 (0.066465s)
+[2024.03.01-01.08.15:012][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.03.01-01.08.15:017][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-01.08.15:017][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-01.08.15:018][857]LogAIModule: Creating AISystem for world Sector1
+[2024.03.01-01.08.15:018][857]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2024.03.01-01.08.15:018][857]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.03.01-01.08.15:018][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-01.08.15:018][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-01.08.15:018][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-01.08.15:018][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-01.08.15:018][857]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.01-01.08.15:018][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.01-01.08.15:018][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.01-01.08.15:018][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-01.08.15:019][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-01.08.15:019][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-01.08.15:019][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-01.08.15:021][857]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.01-01.08.15:040][857]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.03.01-01.08.15:041][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-01.08.15:041][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-01.08.15:041][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-01.08.15:041][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.03.01-01.08.15:041][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.03.01-01.08.15:044][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.03.01-01.08.15:044][857]LogInit: FAudioDevice initialized with ID 22.
+[2024.03.01-01.08.15:044][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.03.01-01.08.15:044][857]LogAudio: Display: Audio Device (ID: 22) registered with world 'Sector1'.
+[2024.03.01-01.08.15:044][857]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.01-01.08.15:103][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-01.08.15:105][857]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.03.01-01.08.15:123][857]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 up for play (max tick rate 0) at 2024.03.01-01.08.15
+[2024.03.01-01.08.15:125][857]LogWorld: Bringing up level for play took: 0.019425
+[2024.03.01-01.08.15:127][857]LogOnline: OSS: Created online subsystem instance for: :Context_151
+[2024.03.01-01.08.15:128][857]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.15:128][857]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.08.15:138][857]PIE: Server logged in
+[2024.03.01-01.08.15:140][857]PIE: Play in editor total start time 0.22 seconds.
+[2024.03.01-01.08.15:171][857]LogViewport: Scene viewport resized to 4061x1999, mode Windowed.
+[2024.03.01-01.08.24:186][ 38]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Waypoints' of length 9 in '/Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController_C'!
+[2024.03.01-01.08.24:186][ 38]LogScript: Warning: Script Msg called by: AI_BaseController_C /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1:PersistentLevel.AI_BaseController_C_0
+[2024.03.01-01.08.27:324][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-01.08.27:324][102]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.03.01-01.08.27:325][102]LogSlate: Window 'IGD720_DRONE Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.01-01.08.27:354][102]LogWorld: UWorld::CleanupWorld for Sector1, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-01.08.27:356][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.08.27:359][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-01.08.27:369][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.08.27:385][102]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.01-01.08.27:387][102]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.01-01.08.27:387][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.01-01.08.27:389][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.01-01.08.27:400][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.03.01-01.08.27:473][103]LogPlayLevel: Display: Destroying online subsystem :Context_151
+[2024.03.01-01.08.37:833][239]BlueprintLog: New page: Compile DevatoxBP
+[2024.03.01-01.08.38:080][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.03.01-01.08.38:098][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.38:098][239]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.38:099][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.38:099][239]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.38:100][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.38:100][239]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_9.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.38:100][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.38:100][239]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_9.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.38:101][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.38:101][239]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.38:102][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.38:102][239]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.38:104][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.38:104][239]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_10.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.08.38:125][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.38:126][239]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.38:127][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.38:127][239]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_5:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.38:128][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.38:128][239]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.38:129][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.38:129][239]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_129:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_1
+[2024.03.01-01.08.38:130][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.38:130][239]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_10.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.08.38:131][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.38:131][239]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_1:PersistentLevel.DevatoxBP_C_10.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.08.39:100][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-01.08.39:227][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DevatoxBP" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset" SILENT=true
+[2024.03.01-01.08.39:478][322]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DevatoxBP
+[2024.03.01-01.08.39:479][322]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/DevatoxBP0A52FDAD42E1073360C01097C4DCC8DA.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset'
+[2024.03.01-01.08.39:490][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 388 ms (total: 24.9 sec)
+[2024.03.01-01.08.39:493][322]AssetCheck: New page: Asset Save: DevatoxBP
+[2024.03.01-01.08.39:493][322]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DevatoxBP.DevatoxBP
+[2024.03.01-01.08.40:300][416]LogWorld: UWorld::CleanupWorld for World_129, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-01.08.40:300][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.08.42:539][562]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.03.01-01.08.42:546][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-01.08.42:546][562]PIE: New page: PIE session: Sector1 (1 Mar 2024, 01:08:42)
+[2024.03.01-01.08.42:546][562]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.03.01-01.08.42:611][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064945s)
+[2024.03.01-01.08.42:611][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/Sector1.Sector1 to /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 (0.064988s)
+[2024.03.01-01.08.42:637][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.03.01-01.08.42:646][562]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-01.08.42:646][562]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-01.08.42:646][562]LogAIModule: Creating AISystem for world Sector1
+[2024.03.01-01.08.42:646][562]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2024.03.01-01.08.42:647][562]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.03.01-01.08.42:647][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-01.08.42:647][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-01.08.42:647][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-01.08.42:647][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-01.08.42:647][562]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.01-01.08.42:647][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.01-01.08.42:647][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.01-01.08.42:647][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-01.08.42:647][562]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-01.08.42:647][562]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-01.08.42:647][562]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-01.08.42:649][562]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.01-01.08.42:668][562]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.03.01-01.08.42:669][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-01.08.42:669][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-01.08.42:669][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-01.08.42:669][562]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.03.01-01.08.42:669][562]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.03.01-01.08.42:671][562]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.03.01-01.08.42:671][562]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.03.01-01.08.42:671][562]LogInit: FAudioDevice initialized with ID 23.
+[2024.03.01-01.08.42:671][562]LogAudio: Display: Audio Device (ID: 23) registered with world 'Sector1'.
+[2024.03.01-01.08.42:671][562]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.01-01.08.42:758][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-01.08.42:758][562]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.03.01-01.08.42:777][562]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 up for play (max tick rate 0) at 2024.03.01-01.08.42
+[2024.03.01-01.08.42:778][562]LogWorld: Bringing up level for play took: 0.019549
+[2024.03.01-01.08.42:780][562]LogOnline: OSS: Created online subsystem instance for: :Context_152
+[2024.03.01-01.08.42:781][562]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.08.42:781][562]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.08.42:792][562]PIE: Server logged in
+[2024.03.01-01.08.42:793][562]PIE: Play in editor total start time 0.247 seconds.
+[2024.03.01-01.08.42:821][562]LogViewport: Scene viewport resized to 4067x1999, mode Windowed.
+[2024.03.01-01.08.51:806][745]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Waypoints' of length 9 in '/Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController_C'!
+[2024.03.01-01.08.51:806][745]LogScript: Warning: Script Msg called by: AI_BaseController_C /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1:PersistentLevel.AI_BaseController_C_0
+[2024.03.01-01.08.58:544][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-01.08.58:544][873]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.03.01-01.08.58:545][873]LogSlate: Window 'IGD720_DRONE Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.01-01.08.58:583][873]LogWorld: UWorld::CleanupWorld for Sector1, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-01.08.58:585][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.08.58:588][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-01.08.58:599][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.08.58:615][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.01-01.08.58:618][873]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.01-01.08.58:618][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.01-01.08.58:620][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.01-01.08.58:632][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.03.01-01.08.58:703][874]LogPlayLevel: Display: Destroying online subsystem :Context_152
+[2024.03.01-01.09.06:687][407]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.03.01-01.09.06:694][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-01.09.06:694][407]PIE: New page: PIE session: Sector1 (1 Mar 2024, 01:09:06)
+[2024.03.01-01.09.06:694][407]LogPlayLevel: Creating play world package: /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.03.01-01.09.06:759][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064370s)
+[2024.03.01-01.09.06:759][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BLUEPRINTS/Maps/Sector1.Sector1 to /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 (0.064411s)
+[2024.03.01-01.09.06:776][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.03.01-01.09.06:780][407]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-01.09.06:780][407]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-01.09.06:780][407]LogAIModule: Creating AISystem for world Sector1
+[2024.03.01-01.09.06:782][407]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2024.03.01-01.09.06:782][407]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.03.01-01.09.06:782][407]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-01.09.06:782][407]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-01.09.06:782][407]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-01.09.06:782][407]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-01.09.06:782][407]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.01-01.09.06:782][407]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.01-01.09.06:782][407]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.01-01.09.06:782][407]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-01.09.06:782][407]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-01.09.06:782][407]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-01.09.06:782][407]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-01.09.06:784][407]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.01-01.09.06:803][407]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.03.01-01.09.06:804][407]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-01.09.06:804][407]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-01.09.06:804][407]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-01.09.06:804][407]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.03.01-01.09.06:804][407]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.03.01-01.09.06:806][407]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.03.01-01.09.06:806][407]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.03.01-01.09.06:806][407]LogInit: FAudioDevice initialized with ID 24.
+[2024.03.01-01.09.06:806][407]LogAudio: Display: Audio Device (ID: 24) registered with world 'Sector1'.
+[2024.03.01-01.09.06:806][407]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.01-01.09.06:873][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-01.09.06:874][407]LogLoad: Game class is 'DevatoxGameMode_C'
+[2024.03.01-01.09.06:901][407]LogWorld: Bringing World /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1 up for play (max tick rate 0) at 2024.03.01-01.09.06
+[2024.03.01-01.09.06:902][407]LogWorld: Bringing up level for play took: 0.027801
+[2024.03.01-01.09.06:905][407]LogOnline: OSS: Created online subsystem instance for: :Context_153
+[2024.03.01-01.09.06:906][407]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.09.06:906][407]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.09.06:917][407]PIE: Server logged in
+[2024.03.01-01.09.06:920][407]PIE: Play in editor total start time 0.226 seconds.
+[2024.03.01-01.09.06:951][407]LogViewport: Scene viewport resized to 4073x1999, mode Windowed.
+[2024.03.01-01.09.15:972][596]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Waypoints' of length 9 in '/Game/BLUEPRINTS/DRONE_AI/AI_BaseController.AI_BaseController_C'!
+[2024.03.01-01.09.15:972][596]LogScript: Warning: Script Msg called by: AI_BaseController_C /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1.Sector1:PersistentLevel.AI_BaseController_C_0
+[2024.03.01-01.09.22:404][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-01.09.22:404][718]LogWorld: BeginTearingDown for /Game/BLUEPRINTS/Maps/UEDPIE_0_Sector1
+[2024.03.01-01.09.22:406][718]LogSlate: Window 'IGD720_DRONE Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.01-01.09.22:437][718]LogWorld: UWorld::CleanupWorld for Sector1, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-01.09.22:439][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.09.22:443][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-01.09.22:451][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.09.22:470][718]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.01-01.09.22:470][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.01-01.09.22:471][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.01-01.09.22:483][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.03.01-01.09.22:558][719]LogPlayLevel: Display: Destroying online subsystem :Context_153
+[2024.03.01-01.09.34:235][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.03.01-01.10.28:932][930]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BLUEPRINTS/DevatoxBP.DevatoxBP
+[2024.03.01-01.10.28:932][930]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-01.10.28:932][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-01.10.29:105][930]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.01-01.10.29:105][930]LogScript: Warning: Script Msg called by: DevatoxPlayerAnimBP_C /Engine/Transient.World_130:PersistentLevel.DevatoxBP_C_0.CharacterMesh0.DevatoxPlayerAnimBP_C_0
+[2024.03.01-01.12.48:376][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-01.12.48:428][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/DevatoxBP" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset" SILENT=true
+[2024.03.01-01.12.48:688][639]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DevatoxBP
+[2024.03.01-01.12.48:689][639]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/DevatoxBP1A1EFDB947C817A93D09B9BE8BC515E4.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DevatoxBP.uasset'
+[2024.03.01-01.12.48:706][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 330 ms (total: 25.2 sec)
+[2024.03.01-01.12.48:710][639]AssetCheck: New page: Asset Save: DevatoxBP
+[2024.03.01-01.12.48:710][639]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DevatoxBP.DevatoxBP
+[2024.03.01-01.15.42:931][455]LogBlueprint: Warning: [AssetLog] D:\FALMOUTH\Module2\IGD720_DRONE\Content\BLUEPRINTS\AI_Characters\SW_Drone\Blueprints\BP_Drone.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn Right' for  InputAxis Turn Right
+[2024.03.01-01.15.42:931][455]LogBlueprint: Warning: [AssetLog] D:\FALMOUTH\Module2\IGD720_DRONE\Content\BLUEPRINTS\AI_Characters\SW_Drone\Blueprints\BP_Drone.uasset: [Compiler] Input Axis Event references unknown Axis 'Move Up' for  InputAxis Move Up
+[2024.03.01-01.15.42:931][455]LogBlueprint: Warning: [AssetLog] D:\FALMOUTH\Module2\IGD720_DRONE\Content\BLUEPRINTS\AI_Characters\SW_Drone\Blueprints\BP_Drone.uasset: [Compiler] Input Axis Event references unknown Axis 'Move Right' for  InputAxis Move Right
+[2024.03.01-01.15.42:933][455]LogBlueprint: Warning: [AssetLog] D:\FALMOUTH\Module2\IGD720_DRONE\Content\BLUEPRINTS\AI_Characters\SW_Drone\Blueprints\BP_Drone.uasset: [Compiler] Input Axis Event references unknown Axis 'Look Vertical' for  InputAxis Look Vertical
+[2024.03.01-01.15.42:933][455]LogBlueprint: Warning: [AssetLog] D:\FALMOUTH\Module2\IGD720_DRONE\Content\BLUEPRINTS\AI_Characters\SW_Drone\Blueprints\BP_Drone.uasset: [Compiler] Input Axis Event references unknown Axis 'Look Horizontal' for  InputAxis Look Horizontal
+[2024.03.01-01.15.42:933][455]LogBlueprint: Warning: [AssetLog] D:\FALMOUTH\Module2\IGD720_DRONE\Content\BLUEPRINTS\AI_Characters\SW_Drone\Blueprints\BP_Drone.uasset: [Compiler] Input Axis Event references unknown Axis 'Move Forward' for  InputAxis Move Forward
+[2024.03.01-01.15.43:853][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2.BP_Projectile_2_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Projectile_2.PackageMetaData'
+[2024.03.01-01.15.43:853][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2.SKEL_BP_Projectile_2_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Projectile_2.PackageMetaData'
+[2024.03.01-01.15.43:853][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2.SKEL_BP_Projectile_2_C:BndEvt__ProjectileMovement_K2Node_ComponentBoundEvent_0_OnProjectileStopDelegate__DelegateSignature' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Projectile_2.PackageMetaData'
+[2024.03.01-01.15.43:853][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2.SKEL_BP_Projectile_2_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Projectile_2.PackageMetaData'
+[2024.03.01-01.15.43:853][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2.SKEL_BP_Projectile_2_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Projectile_2.PackageMetaData'
+[2024.03.01-01.15.43:853][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2.BP_Projectile_2_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Projectile_2.PackageMetaData'
+[2024.03.01-01.15.43:887][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.BP_Projectile_1_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.15.43:887][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.BP_Projectile_1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.15.43:887][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.BP_Projectile_1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.15.43:887][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.SKEL_BP_Projectile_1_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.15.43:887][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.SKEL_BP_Projectile_1_C:BndEvt__ProjectileMovement_K2Node_ComponentBoundEvent_0_OnProjectileStopDelegate__DelegateSignature' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.15.43:887][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.SKEL_BP_Projectile_1_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.15.43:887][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.SKEL_BP_Projectile_1_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.15.43:888][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.BP_Projectile_1_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.15.43:888][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.BP_Drone_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.15.43:888][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:InpAxisEvt_Move Forward_K2Node_InputAxisEvent_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.15.43:888][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:InpAxisEvt_Look Horizontal_K2Node_InputAxisEvent_5' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.15.43:888][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:InpAxisEvt_Look Vertical_K2Node_InputAxisEvent_6' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.15.43:888][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:InpAxisEvt_Move Right_K2Node_InputAxisEvent_12' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.15.43:889][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:InpAxisEvt_Move Up_K2Node_InputAxisEvent_13' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.15.43:889][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:InpAxisEvt_Turn Right_K2Node_InputAxisEvent_23' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.15.43:889][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:ReceiveTick' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.15.43:889][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:InpAxisKeyEvt_MouseWheelAxis_K2Node_InputAxisKeyEvent_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.15.43:889][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.15.43:889][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.15.43:889][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.BP_Drone_C:ReceiveTick' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.15.43:889][455]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.BP_Drone_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.15.43:895][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-01.15.44:124][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone
+[2024.03.01-01.15.44:124][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BP_AI_MasterDrone5ADFC21847BFB22C1F30CD89269B8BA7.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.uasset'
+[2024.03.01-01.15.44:173][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BlownUpDroneBP
+[2024.03.01-01.15.44:173][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BlownUpDroneBP6CDEAA90467D59EF883F3DAAE6DB2A1B.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/AI_Characters/AI_DroneLogic/BlownUpDroneBP.uasset'
+[2024.03.01-01.15.44:195][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/P_Explosion
+[2024.03.01-01.15.44:195][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/P_Explosion8487964943B0C5FF2AC333848E5FF5B1.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/P_Explosion.uasset'
+[2024.03.01-01.15.44:201][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/M_Smoke
+[2024.03.01-01.15.44:201][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_SmokeE1776F1B4A8DCDBB456A4B872A508E08.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/M_Smoke.uasset'
+[2024.03.01-01.15.44:206][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/T_SmokeSprite
+[2024.03.01-01.15.44:206][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_SmokeSpriteB70F43C74206E07A9BA5B39FCB1BB5AD.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/T_SmokeSprite.uasset'
+[2024.03.01-01.15.44:209][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_BodyTwo_Inst
+[2024.03.01-01.15.44:210][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_BodyTwo_Inst3F7582DB494BB7F172563DABA0F0E6C7.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_BodyTwo_Inst.uasset'
+[2024.03.01-01.15.44:212][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Body_CoverTwo_Inst
+[2024.03.01-01.15.44:212][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_Body_CoverTwo_Inst64D5A077452C2D701FD7D282087AE557.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Body_CoverTwo_Inst.uasset'
+[2024.03.01-01.15.44:221][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_Gun
+[2024.03.01-01.15.44:221][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_Drone_Gun1FB9797941A882432E4D0FAE4AA342CB.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_Gun.uasset'
+[2024.03.01-01.15.44:225][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Weapon
+[2024.03.01-01.15.44:225][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_Weapon982307D14AE3FA5D809A37A7D8EB8064.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Weapon.uasset'
+[2024.03.01-01.15.44:234][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_NM_3
+[2024.03.01-01.15.44:234][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_NM_3D9557868479809839945428448B29C0D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_NM_3.uasset'
+[2024.03.01-01.15.44:246][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_MRAO_3
+[2024.03.01-01.15.44:247][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_MRAO_3893F2C024F9B6A7C297BCC96775B6CCF.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_MRAO_3.uasset'
+[2024.03.01-01.15.44:255][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_Col+Mask_3
+[2024.03.01-01.15.44:255][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_Col+Mask_35D6BBB78499DA3E2C467769B474A9655.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_Col+Mask_3.uasset'
+[2024.03.01-01.15.44:261][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/RightWing
+[2024.03.01-01.15.44:261][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/RightWingB3353C9A4FCBF07AE959C48ADF327B9E.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/RightWing.uasset'
+[2024.03.01-01.15.44:267][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_LeftWing
+[2024.03.01-01.15.44:267][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_Drone_LeftWingB29419B24184D1EDF8B834AA3AA09F3B.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_LeftWing.uasset'
+[2024.03.01-01.15.44:271][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_Propeller
+[2024.03.01-01.15.44:271][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_Drone_Propeller718541F34541479757AA15BCD4B784AF.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_Propeller.uasset'
+[2024.03.01-01.15.44:274][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Net
+[2024.03.01-01.15.44:274][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_NetD4F921BC4F8B09D80A2649845668982E.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Net.uasset'
+[2024.03.01-01.15.44:277][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Net_NM
+[2024.03.01-01.15.44:277][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Net_NM2D196F8B444A1C198A9A67A056E50703.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Net_NM.uasset'
+[2024.03.01-01.15.44:280][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Net_Col
+[2024.03.01-01.15.44:280][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Net_Col15186C924B365DB755B4C9ABAC02CDB2.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Net_Col.uasset'
+[2024.03.01-01.15.44:282][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_Net
+[2024.03.01-01.15.44:282][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_Drone_Net29E38E6846B0D13771680BBB3826B419.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_Net.uasset'
+[2024.03.01-01.15.44:292][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_Body
+[2024.03.01-01.15.44:292][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_Drone_BodyAF7BDDFF47A4401FFA3ACF8762DABC9D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_Body.uasset'
+[2024.03.01-01.15.44:296][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Body_Cover
+[2024.03.01-01.15.44:296][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_Body_Cover638B1D564B4F19B0D81ECDB76CCB7375.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Body_Cover.uasset'
+[2024.03.01-01.15.44:317][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_NM_1
+[2024.03.01-01.15.44:317][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_NM_178AA71C942BE0A4735007AA9D1C40FC2.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_NM_1.uasset'
+[2024.03.01-01.15.44:341][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_MRAO_1
+[2024.03.01-01.15.44:341][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_MRAO_1F73E2F544ED849399D1332BD7D2097EC.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_MRAO_1.uasset'
+[2024.03.01-01.15.44:367][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_Col+Mask_1
+[2024.03.01-01.15.44:367][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_Col+Mask_1408390A342D8A2A40152B09DDC29AE76.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_Col+Mask_1.uasset'
+[2024.03.01-01.15.44:374][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Body
+[2024.03.01-01.15.44:374][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_BodyE2C427A849E572D4836ECA91D4A418DC.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Body.uasset'
+[2024.03.01-01.15.44:394][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_NM_2
+[2024.03.01-01.15.44:394][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_NM_261A8FFCF4CF40AFAC760B0899D7E1261.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_NM_2.uasset'
+[2024.03.01-01.15.44:418][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_MRAO_2
+[2024.03.01-01.15.44:418][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_MRAO_212C1E3424F31C4EB5940B69E51B9FD14.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_MRAO_2.uasset'
+[2024.03.01-01.15.44:421][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_Emission_2
+[2024.03.01-01.15.44:421][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_Emission_2B541F63E4AA1B90897B8B5988049D226.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_Emission_2.uasset'
+[2024.03.01-01.15.44:437][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_Col+Mask_2
+[2024.03.01-01.15.44:437][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_Col+Mask_25CE20E41466A6BE1CA191B8D8EE925D9.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_Col+Mask_2.uasset'
+[2024.03.01-01.15.44:438][455]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2 does not exist, will not scan.
+[2024.03.01-01.15.44:443][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2
+[2024.03.01-01.15.44:444][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BP_Projectile_2E8E6AE194B804A2AD95F2F9208603B8B.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2.uasset'
+[2024.03.01-01.15.44:450][455]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1 does not exist, will not scan.
+[2024.03.01-01.15.44:454][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1
+[2024.03.01-01.15.44:455][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BP_Projectile_1F488F1744D38FE3C95D308AD16616923.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.uasset'
+[2024.03.01-01.15.44:460][455]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone does not exist, will not scan.
+[2024.03.01-01.15.44:533][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone
+[2024.03.01-01.15.44:533][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BP_Drone415530C047A851537C412684D97DE55C.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.uasset'
+[2024.03.01-01.15.44:543][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Laser_Dot
+[2024.03.01-01.15.44:543][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_Laser_DotD85385C943BB57D3848221AE413252B5.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Laser_Dot.uasset'
+[2024.03.01-01.15.44:545][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/MI_Weapon
+[2024.03.01-01.15.44:545][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Weapon3F618E5743315A680516A38C000DDB8F.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/MI_Weapon.uasset'
+[2024.03.01-01.15.44:547][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/MI_Body_Cover
+[2024.03.01-01.15.44:547][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Body_Cover33A373F3477E47347A7AD0AC459A3A20.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/MI_Body_Cover.uasset'
+[2024.03.01-01.15.44:550][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/MI_Body
+[2024.03.01-01.15.44:550][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_BodyD730980D4098718F25FD33B7B2B7636B.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/MI_Body.uasset'
+[2024.03.01-01.15.44:556][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/P_Projectile
+[2024.03.01-01.15.44:556][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/P_Projectile0B35D140443E9B74A4C387AC7EE61097.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/P_Projectile.uasset'
+[2024.03.01-01.15.44:561][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/P_Flash
+[2024.03.01-01.15.44:561][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/P_Flash08D9BA1241C67852B20232A7807C8436.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/P_Flash.uasset'
+[2024.03.01-01.15.44:563][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/M_Projectile
+[2024.03.01-01.15.44:563][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_Projectile54FC05B745728091A46F3ABF0A96A102.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/M_Projectile.uasset'
+[2024.03.01-01.15.44:566][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Projectile_2
+[2024.03.01-01.15.44:566][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_Projectile_2787C0D4F4403F78FA5F51FB1C8331957.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Projectile_2.uasset'
+[2024.03.01-01.15.44:573][455]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Projectile
+[2024.03.01-01.15.44:573][455]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_ProjectileED168E0A4CA810B483CE2798B6E1CA49.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Projectile.uasset'
+[2024.03.01-01.15.44:583][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 687 ms (total: 25.9 sec)
+[2024.03.01-01.15.44:890][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.03.01-01.15.44:912][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.03.01-01.15.44:930][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.01-01.15.45:045][455]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.BP_AI_MasterDrone
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BlownUpDroneBP.BlownUpDroneBP
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.ParticleSystem /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/P_Explosion.P_Explosion
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/M_Smoke.M_Smoke
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/T_SmokeSprite.T_SmokeSprite
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_BodyTwo_Inst.M_BodyTwo_Inst
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Body_CoverTwo_Inst.M_Body_CoverTwo_Inst
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_Gun.SM_Drone_Gun
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Weapon.M_Weapon
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_NM_3.T_Drone_NM_3
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_MRAO_3.T_Drone_MRAO_3
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_Col+Mask_3.T_Drone_Col+Mask_3
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/RightWing.RightWing
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_LeftWing.SM_Drone_LeftWing
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_Propeller.SM_Drone_Propeller
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Net.M_Net
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Net_NM.T_Net_NM
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Net_Col.T_Net_Col
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_Net.SM_Drone_Net
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Drone_Body.SM_Drone_Body
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Body_Cover.M_Body_Cover
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_NM_1.T_Drone_NM_1
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_MRAO_1.T_Drone_MRAO_1
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_Col+Mask_1.T_Drone_Col+Mask_1
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Body.M_Body
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_NM_2.T_Drone_NM_2
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_MRAO_2.T_Drone_MRAO_2
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_Emission_2.T_Drone_Emission_2
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Textures/T_Drone_Col+Mask_2.T_Drone_Col+Mask_2
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2.BP_Projectile_2
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.BP_Projectile_1
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.BP_Drone
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/M_Laser_Dot.M_Laser_Dot
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/MI_Weapon.MI_Weapon
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/MI_Body_Cover.MI_Body_Cover
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Materials/MI_Body.MI_Body
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.ParticleSystem /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/P_Projectile.P_Projectile
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.ParticleSystem /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/P_Flash.P_Flash
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/SW_Drone/Particles/M_Projectile.M_Projectile
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Projectile_2.SM_Projectile_2
+[2024.03.01-01.15.45:045][455]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/SW_Drone/StaticMeshes/SM_Projectile.SM_Projectile
+[2024.03.01-01.15.45:091][455]LogAutomationController: Ignoring very large delta of 2.45 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.01-01.16.03:198][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/DroneType.DroneType' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/DroneType.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_AssaultDroneProjectile.BP_AI_AssaultDroneProjectile_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_AssaultDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_AssaultDroneProjectile.BP_AI_AssaultDroneProjectile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_AssaultDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_AssaultDroneProjectile.BP_AI_AssaultDroneProjectile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_AssaultDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_AssaultDroneProjectile.BP_AI_AssaultDroneProjectile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_AssaultDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_AssaultDroneProjectile.BP_AI_AssaultDroneProjectile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_AssaultDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_AssaultDroneProjectile.SKEL_BP_AI_AssaultDroneProjectile_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_AssaultDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_AssaultDroneProjectile.SKEL_BP_AI_AssaultDroneProjectile_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_AssaultDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_AssaultDroneProjectile.SKEL_BP_AI_AssaultDroneProjectile_C:ReceiveTick' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_AssaultDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_AssaultDroneProjectile.SKEL_BP_AI_AssaultDroneProjectile_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_AssaultDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_AssaultDroneProjectile.SKEL_BP_AI_AssaultDroneProjectile_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_AssaultDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile.BP_AI_MasterDroneProjectile_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile.BP_AI_MasterDroneProjectile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile.BP_AI_MasterDroneProjectile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile.BP_AI_MasterDroneProjectile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile.BP_AI_MasterDroneProjectile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile.SKEL_BP_AI_MasterDroneProjectile_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile.SKEL_BP_AI_MasterDroneProjectile_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile.SKEL_BP_AI_MasterDroneProjectile_C:ReceiveTick' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile.SKEL_BP_AI_MasterDroneProjectile_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile.SKEL_BP_AI_MasterDroneProjectile_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:199][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile.BP_AI_MasterDroneProjectile_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDroneProjectile.PackageMetaData'
+[2024.03.01-01.16.03:200][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.BlownUpDroneBP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BlownUpDroneBP.PackageMetaData'
+[2024.03.01-01.16.03:200][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.BlownUpDroneBP_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BlownUpDroneBP.PackageMetaData'
+[2024.03.01-01.16.03:200][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.BlownUpDroneBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BlownUpDroneBP.PackageMetaData'
+[2024.03.01-01.16.03:200][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.BlownUpDroneBP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BlownUpDroneBP.PackageMetaData'
+[2024.03.01-01.16.03:200][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.BlownUpDroneBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BlownUpDroneBP.PackageMetaData'
+[2024.03.01-01.16.03:200][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.SKEL_BlownUpDroneBP_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BlownUpDroneBP.PackageMetaData'
+[2024.03.01-01.16.03:200][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.SKEL_BlownUpDroneBP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BlownUpDroneBP.PackageMetaData'
+[2024.03.01-01.16.03:200][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.SKEL_BlownUpDroneBP_C:ReceiveTick' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BlownUpDroneBP.PackageMetaData'
+[2024.03.01-01.16.03:200][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.SKEL_BlownUpDroneBP_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BlownUpDroneBP.PackageMetaData'
+[2024.03.01-01.16.03:200][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.SKEL_BlownUpDroneBP_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BlownUpDroneBP.PackageMetaData'
+[2024.03.01-01.16.03:200][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.BlownUpDroneBP_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BlownUpDroneBP.PackageMetaData'
+[2024.03.01-01.16.03:200][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/AI_DroneController.AI_DroneController_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/AI_DroneController.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/AI_DroneController.AI_DroneController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/AI_DroneController.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/AI_DroneController.AI_DroneController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/AI_DroneController.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/AI_DroneController.SKEL_AI_DroneController_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/AI_DroneController.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/AI_DroneController.AI_DroneController_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/AI_DroneController.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/AI_DroneController.AI_DroneController_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/AI_DroneController.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/AI_DroneController.SKEL_AI_DroneController_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/AI_DroneController.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/AI_DroneController.SKEL_AI_DroneController_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/AI_DroneController.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.BP_AI_MasterDrone_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.BP_AI_MasterDrone:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.BP_AI_MasterDrone:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.BP_AI_MasterDrone_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.BP_AI_MasterDrone_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.BP_AI_MasterDrone_C:ReceiveTick' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.BP_AI_MasterDrone_C:ITakeDamage' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.SKEL_BP_AI_MasterDrone_C' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.SKEL_BP_AI_MasterDrone_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.SKEL_BP_AI_MasterDrone_C:RotatePropellers' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.SKEL_BP_AI_MasterDrone_C:ReceiveTick' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.SKEL_BP_AI_MasterDrone_C:BndEvt__BP_AI_MasterDrone_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.SKEL_BP_AI_MasterDrone_C:ChangeStrafeDirection' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.SKEL_BP_AI_MasterDrone_C:FireProjectile' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.SKEL_BP_AI_MasterDrone_C:ITakeDamage' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:201][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.SKEL_BP_AI_MasterDrone_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.PackageMetaData'
+[2024.03.01-01.16.03:208][906]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/DroneInfo.DroneInfo' ref from Metadata '/Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/DroneInfo.PackageMetaData'
+[2024.03.01-01.16.03:209][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-01.16.03:287][906]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/DroneType
+[2024.03.01-01.16.03:287][906]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/DroneType128F58464BBC76DC8AE4809528485F90.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/DroneType.uasset'
+[2024.03.01-01.16.03:290][906]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_AssaultDroneProjectile does not exist, will not scan.
+[2024.03.01-01.16.03:290][906]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile does not exist, will not scan.
+[2024.03.01-01.16.03:294][906]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_AssaultDroneProjectile
+[2024.03.01-01.16.03:294][906]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BP_AI_AssaultDroneProjectile4E9D01F248D3817AAA184683130D800D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_AssaultDroneProjectile.uasset'
+[2024.03.01-01.16.03:304][906]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile
+[2024.03.01-01.16.03:304][906]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BP_AI_MasterDroneProjectile0F47498A41A57E106FBA4F853C2A7FA4.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile.uasset'
+[2024.03.01-01.16.03:313][906]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP
+[2024.03.01-01.16.03:313][906]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BlownUpDroneBP49A154804B487A2ED79FB48EA7B677A3.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.uasset'
+[2024.03.01-01.16.03:318][906]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/AI_DroneController does not exist, will not scan.
+[2024.03.01-01.16.03:322][906]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/AI_DroneController
+[2024.03.01-01.16.03:322][906]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_DroneControllerFA3A4EB14C11AC74FFE9CC907275D452.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/AI_DroneController.uasset'
+[2024.03.01-01.16.03:393][906]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone
+[2024.03.01-01.16.03:393][906]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BP_AI_MasterDroneB18B2F4043146E81BA2934A5D0D4D5A2.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.uasset'
+[2024.03.01-01.16.03:401][906]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone
+[2024.03.01-01.16.03:402][906]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BP_AI_MasterDrone9C7052C34DAB5286941DD49F6411364A.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.uasset'
+[2024.03.01-01.16.03:406][906]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/DroneInfo
+[2024.03.01-01.16.03:406][906]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/DroneInfoB5A7D44143E697C3B215358747C463E5.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/DroneInfo.uasset'
+[2024.03.01-01.16.03:415][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 26.1 sec)
+[2024.03.01-01.16.03:481][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.03.01-01.16.03:501][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.03.01-01.16.03:519][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.01-01.16.03:542][906]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.01-01.16.03:542][906]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/DroneType.DroneType
+[2024.03.01-01.16.03:542][906]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_AssaultDroneProjectile.BP_AI_AssaultDroneProjectile
+[2024.03.01-01.16.03:542][906]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDroneProjectile.BP_AI_MasterDroneProjectile
+[2024.03.01-01.16.03:542][906]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.BlownUpDroneBP
+[2024.03.01-01.16.03:542][906]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/AI_DroneController.AI_DroneController
+[2024.03.01-01.16.03:542][906]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.BP_AI_MasterDrone
+[2024.03.01-01.16.03:542][906]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.Default__BP_AI_MasterDrone_C
+[2024.03.01-01.16.03:542][906]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.BP_AI_MasterDrone_C
+[2024.03.01-01.16.03:542][906]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/BLUEPRINTS/AI_Characters/AI_DroneLogic/BP_AI_MasterDrone.BP_AI_MasterDrone
+[2024.03.01-01.16.03:542][906]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/DroneInfo.DroneInfo
+[2024.03.01-01.16.31:877][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.BP_Drone_C' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.16.31:878][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.BP_Drone_C:ReceiveTick' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.16.31:878][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.BP_Drone_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.16.31:878][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.16.31:878][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:InpAxisEvt_Move Forward_K2Node_InputAxisEvent_0' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.16.31:878][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:InpAxisEvt_Look Horizontal_K2Node_InputAxisEvent_5' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.16.31:878][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:InpAxisEvt_Look Vertical_K2Node_InputAxisEvent_6' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.16.31:878][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:InpAxisEvt_Move Right_K2Node_InputAxisEvent_12' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.16.31:878][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:InpAxisEvt_Move Up_K2Node_InputAxisEvent_13' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.16.31:878][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:InpAxisEvt_Turn Right_K2Node_InputAxisEvent_23' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.16.31:878][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:ReceiveTick' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.16.31:878][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:InpAxisKeyEvt_MouseWheelAxis_K2Node_InputAxisKeyEvent_0' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.16.31:878][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.SKEL_BP_Drone_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Drone.PackageMetaData'
+[2024.03.01-01.16.31:879][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_1.BP_Projectile_1_C' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.16.31:879][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_1.BP_Projectile_1_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.16.31:879][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_1.SKEL_BP_Projectile_1_C' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.16.31:879][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_1.SKEL_BP_Projectile_1_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.16.31:879][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_1.SKEL_BP_Projectile_1_C:BndEvt__ProjectileMovement_K2Node_ComponentBoundEvent_0_OnProjectileStopDelegate__DelegateSignature' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.16.31:879][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_1.SKEL_BP_Projectile_1_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.16.31:879][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_1.BP_Projectile_1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.16.31:879][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_1.BP_Projectile_1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_1.PackageMetaData'
+[2024.03.01-01.16.31:881][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_2.BP_Projectile_2_C' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2.PackageMetaData'
+[2024.03.01-01.16.31:881][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_2.BP_Projectile_2_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2.PackageMetaData'
+[2024.03.01-01.16.31:881][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_2.SKEL_BP_Projectile_2_C' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2.PackageMetaData'
+[2024.03.01-01.16.31:881][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_2.SKEL_BP_Projectile_2_C:ReceiveBeginPlay' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2.PackageMetaData'
+[2024.03.01-01.16.31:881][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_2.SKEL_BP_Projectile_2_C:BndEvt__ProjectileMovement_K2Node_ComponentBoundEvent_0_OnProjectileStopDelegate__DelegateSignature' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2.PackageMetaData'
+[2024.03.01-01.16.31:881][238]LogMetaData: Removing '/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_2.SKEL_BP_Projectile_2_C:UserConstructionScript' ref from Metadata '/Game/BLUEPRINTS/DRONE_AI/SW_Drone/Blueprints/BP_Projectile_2.PackageMetaData'
+[2024.03.01-01.16.31:884][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-01.16.32:092][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone
+[2024.03.01-01.16.32:093][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BP_AI_MasterDrone62CE99D34696C22BD265BC8E2A2B39D1.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.uasset'
+[2024.03.01-01.16.32:108][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP
+[2024.03.01-01.16.32:108][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BlownUpDroneBP60705A7F41AC74A91A38E1B8B1A6D37B.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.uasset'
+[2024.03.01-01.16.32:110][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/MI_Body
+[2024.03.01-01.16.32:110][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Body38468DB54BBE9BAE4BDD41B683247D15.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/MI_Body.uasset'
+[2024.03.01-01.16.32:114][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/MI_Body_Cover
+[2024.03.01-01.16.32:114][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Body_CoverEEB5FCE64E61A12C9222E3AFBA85F00D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/MI_Body_Cover.uasset'
+[2024.03.01-01.16.32:116][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/MI_Weapon
+[2024.03.01-01.16.32:116][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Weapon1C4156284EF7A4222779D7953CA70D2F.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/MI_Weapon.uasset'
+[2024.03.01-01.16.32:120][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/P_Explosion
+[2024.03.01-01.16.32:120][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/P_ExplosionA4B2FCEE454176E9D0FE55B2AA3C62D3.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/P_Explosion.uasset'
+[2024.03.01-01.16.32:124][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/M_Smoke
+[2024.03.01-01.16.32:124][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_SmokeAA71D67D45F008CCD58836844465AE78.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/M_Smoke.uasset'
+[2024.03.01-01.16.32:130][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/T_SmokeSprite
+[2024.03.01-01.16.32:130][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_SmokeSpriteD7FDC8A24802D8CADE3F9A8D7E0B6F05.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/T_SmokeSprite.uasset'
+[2024.03.01-01.16.32:133][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_BodyTwo_Inst
+[2024.03.01-01.16.32:133][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_BodyTwo_Inst4DCE2C3E46F98FE75DA03588AA3A47FD.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_BodyTwo_Inst.uasset'
+[2024.03.01-01.16.32:135][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Body_CoverTwo_Inst
+[2024.03.01-01.16.32:135][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_Body_CoverTwo_Inst1F8F50BE4980094E4E811994C1CB833F.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Body_CoverTwo_Inst.uasset'
+[2024.03.01-01.16.32:142][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_Gun
+[2024.03.01-01.16.32:142][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_Drone_Gun54E8217D46B728BEB75739BB24567703.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_Gun.uasset'
+[2024.03.01-01.16.32:146][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Weapon
+[2024.03.01-01.16.32:146][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_WeaponA87194C6477DFEB6AB9D07B73CDDE904.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Weapon.uasset'
+[2024.03.01-01.16.32:154][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_NM_3
+[2024.03.01-01.16.32:154][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_NM_31E9A2D7E4C627A597E67659D9E715F1C.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_NM_3.uasset'
+[2024.03.01-01.16.32:166][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_MRAO_3
+[2024.03.01-01.16.32:167][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_MRAO_3E390EFAC4BB7FC6FFCEAC09EF608C7FA.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_MRAO_3.uasset'
+[2024.03.01-01.16.32:174][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_Col+Mask_3
+[2024.03.01-01.16.32:174][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_Col+Mask_3E03387DB4A0FC37535762D998B4C0C56.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_Col+Mask_3.uasset'
+[2024.03.01-01.16.32:179][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/RightWing
+[2024.03.01-01.16.32:179][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/RightWingC1FDCFC240EEE93B6B6245952BD0C07D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/RightWing.uasset'
+[2024.03.01-01.16.32:185][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_LeftWing
+[2024.03.01-01.16.32:185][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_Drone_LeftWingF88A38CA494A23C097CD319823DD2193.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_LeftWing.uasset'
+[2024.03.01-01.16.32:189][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_Propeller
+[2024.03.01-01.16.32:189][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_Drone_Propeller0EF56DFD4FBBA8EC3FFE6E910751107A.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_Propeller.uasset'
+[2024.03.01-01.16.32:192][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Net
+[2024.03.01-01.16.32:192][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_Net1A38E3F34D97ECD3C4E662A2B3455092.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Net.uasset'
+[2024.03.01-01.16.32:194][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Net_NM
+[2024.03.01-01.16.32:194][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Net_NM3022B1FB499D806650AB4FB426484581.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Net_NM.uasset'
+[2024.03.01-01.16.32:196][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Net_Col
+[2024.03.01-01.16.32:196][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Net_ColEA82628B4BB7367E5F23C78089932060.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Net_Col.uasset'
+[2024.03.01-01.16.32:199][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_Net
+[2024.03.01-01.16.32:199][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_Drone_Net34ED317A41A8639D8BF7A8B63FBFC0B3.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_Net.uasset'
+[2024.03.01-01.16.32:207][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_Body
+[2024.03.01-01.16.32:207][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_Drone_Body489389C14A0503A5C14059BB670B482C.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_Body.uasset'
+[2024.03.01-01.16.32:211][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Body_Cover
+[2024.03.01-01.16.32:211][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_Body_CoverD11619AC4D02FB56B675E7AD7FDE9006.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Body_Cover.uasset'
+[2024.03.01-01.16.32:231][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_NM_1
+[2024.03.01-01.16.32:231][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_NM_1460DBDD34448EC97CCC1A99B31B7B04C.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_NM_1.uasset'
+[2024.03.01-01.16.32:257][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_MRAO_1
+[2024.03.01-01.16.32:257][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_MRAO_151D5B508419BBC37639FAD9D90727972.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_MRAO_1.uasset'
+[2024.03.01-01.16.32:281][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_Col+Mask_1
+[2024.03.01-01.16.32:281][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_Col+Mask_1268D8C8142997C64AB58279E5E980905.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_Col+Mask_1.uasset'
+[2024.03.01-01.16.32:285][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Body
+[2024.03.01-01.16.32:285][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_BodyF8BE8B374BC97493ED508E9D8BDCDFF6.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Body.uasset'
+[2024.03.01-01.16.32:305][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_NM_2
+[2024.03.01-01.16.32:305][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_NM_2F835547F4F4361A2DAD0ACB73CA06FE4.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_NM_2.uasset'
+[2024.03.01-01.16.32:329][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_MRAO_2
+[2024.03.01-01.16.32:329][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_MRAO_2923973224D31EF9A9C5F0AB2D7142CD5.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_MRAO_2.uasset'
+[2024.03.01-01.16.32:332][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_Emission_2
+[2024.03.01-01.16.32:332][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_Emission_2FB2B5C2B493E3C9CFCBE79A3EC9DACB4.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_Emission_2.uasset'
+[2024.03.01-01.16.32:349][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_Col+Mask_2
+[2024.03.01-01.16.32:349][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/T_Drone_Col+Mask_2F94635EF4CF0D59E45799DA1164DD453.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_Col+Mask_2.uasset'
+[2024.03.01-01.16.32:416][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone
+[2024.03.01-01.16.32:416][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BP_Drone92A33FF04800A617F0F9A8A10312AF74.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.uasset'
+[2024.03.01-01.16.32:426][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/P_Flash
+[2024.03.01-01.16.32:426][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/P_Flash96A86D21469FAC5FE923D98DA819215F.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/P_Flash.uasset'
+[2024.03.01-01.16.32:429][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Laser_Dot
+[2024.03.01-01.16.32:429][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_Laser_DotA47578BD4E1BBF345E3BC3BB69A7ED3D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Laser_Dot.uasset'
+[2024.03.01-01.16.32:435][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_1
+[2024.03.01-01.16.32:436][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BP_Projectile_1DF3B3DFD4B8C3CAC301242B7DCE7D303.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_1.uasset'
+[2024.03.01-01.16.32:444][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Projectile
+[2024.03.01-01.16.32:444][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_ProjectileFDCC080A48778ADDB6CCC29BDD6FE2DD.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Projectile.uasset'
+[2024.03.01-01.16.32:448][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/P_Projectile
+[2024.03.01-01.16.32:448][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/P_ProjectileB6241B134F1EE09BAD717AAC2DF259E1.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/P_Projectile.uasset'
+[2024.03.01-01.16.32:455][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_2
+[2024.03.01-01.16.32:455][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/BP_Projectile_2CAA150E4432EEBDDB771D3ABE3467764.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_2.uasset'
+[2024.03.01-01.16.32:462][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Projectile_2
+[2024.03.01-01.16.32:463][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/SM_Projectile_285496B99490EC3163E6B12B220C01EEE.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Projectile_2.uasset'
+[2024.03.01-01.16.32:465][238]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/M_Projectile
+[2024.03.01-01.16.32:465][238]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_ProjectileBD92B1F248675DF91A3854BDACEDDF20.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/M_Projectile.uasset'
+[2024.03.01-01.16.32:478][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 593 ms (total: 26.7 sec)
+[2024.03.01-01.16.32:774][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.03.01-01.16.32:794][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.01-01.16.32:812][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.01-01.16.32:922][238]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BP_AI_MasterDrone.BP_AI_MasterDrone
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/BlownUpDroneBP.BlownUpDroneBP
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/MI_Body.MI_Body
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/MI_Body_Cover.MI_Body_Cover
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/MI_Weapon.MI_Weapon
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.ParticleSystem /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/P_Explosion.P_Explosion
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/M_Smoke.M_Smoke
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/T_SmokeSprite.T_SmokeSprite
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_BodyTwo_Inst.M_BodyTwo_Inst
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Body_CoverTwo_Inst.M_Body_CoverTwo_Inst
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_Gun.SM_Drone_Gun
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Weapon.M_Weapon
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_NM_3.T_Drone_NM_3
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_MRAO_3.T_Drone_MRAO_3
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_Col+Mask_3.T_Drone_Col+Mask_3
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/RightWing.RightWing
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_LeftWing.SM_Drone_LeftWing
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_Propeller.SM_Drone_Propeller
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Net.M_Net
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Net_NM.T_Net_NM
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Net_Col.T_Net_Col
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_Net.SM_Drone_Net
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Drone_Body.SM_Drone_Body
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Body_Cover.M_Body_Cover
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_NM_1.T_Drone_NM_1
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_MRAO_1.T_Drone_MRAO_1
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_Col+Mask_1.T_Drone_Col+Mask_1
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Body.M_Body
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_NM_2.T_Drone_NM_2
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_MRAO_2.T_Drone_MRAO_2
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_Emission_2.T_Drone_Emission_2
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Textures/T_Drone_Col+Mask_2.T_Drone_Col+Mask_2
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Drone.BP_Drone
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.ParticleSystem /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/P_Flash.P_Flash
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Laser_Dot.M_Laser_Dot
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_1.BP_Projectile_1
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Projectile.SM_Projectile
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.ParticleSystem /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/P_Projectile.P_Projectile
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Blueprints/BP_Projectile_2.BP_Projectile_2
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/StaticMeshes/SM_Projectile_2.SM_Projectile_2
+[2024.03.01-01.16.32:923][238]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/M_Projectile.M_Projectile
+[2024.03.01-01.16.45:341][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.03.01-01.16.54:917][237]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.01-01.16.54:974][237]LogAutomationController: Ignoring very large delta of 9.66 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.01-01.17.16:108][664]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-01.17.16:110][664]LogMaterial: Display: Material /Game/LevelPrototyping/Materials/MI_Solid_Blue.MI_Solid_Blue needed to have new flag set bUsedWithStaticLighting !
+[2024.03.01-01.17.16:349][664]MapCheck: Warning: M_Solid Material /Game/LevelPrototyping/Materials/MI_Solid_Blue.MI_Solid_Blue was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2024.03.01-01.17.16:424][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-01.17.16:425][664]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-01.17.16:449][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.03.01-01.17.16:503][664]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/LocomotionTest
+[2024.03.01-01.17.16:504][664]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/LocomotionTestD76DFA5A44D93C5B70B960B87B6DA9A1.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/LocomotionTest.umap'
+[2024.03.01-01.17.16:512][664]LogFileHelpers: All files are already saved.
+[2024.03.01-01.17.16:516][664]LogFileHelpers: Saving map 'LocomotionTest' took 0.092
+[2024.03.01-01.17.16:522][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/UI/AI_DroneHealthbar" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/UI/AI_DroneHealthbar.uasset" SILENT=true
+[2024.03.01-01.17.16:530][664]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/UI/AI_DroneHealthbar
+[2024.03.01-01.17.16:530][664]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/AI_DroneHealthbarC72142CF483562E95F49C49FD0299E2E.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/UI/AI_DroneHealthbar.uasset'
+[2024.03.01-01.17.16:531][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 26.8 sec)
+[2024.03.01-01.17.16:566][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.03.01-01.17.16:646][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.01-01.17.16:665][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.03.01-01.17.16:683][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.01-01.17.16:703][664]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-01.17.16:703][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-01.17.16:705][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.01-01.17.16:749][664]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.01-01.17.16:749][664]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BLUEPRINTS/UI/AI_DroneHealthbar.AI_DroneHealthbar
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: ================================================
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Total job queries 211, among them cache hits 50 (23.70%)
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Tracking 159 distinct input hashes that result in 118 distinct outputs (74.21%)
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: RAM used: 4.62 MiB of 1.60 GiB budget. Usage: 0.28%
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Shaders Compiled: 54
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Jobs assigned 54, completed 54 (100%)
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Average time worker was idle: 692.95 s
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Time job spent in pending queue: average 1.56 s, longest 3.19 s
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Job execution time: average 0.58 s, max 2.87 s
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Job life time (pending + execution): average 2.15 s, max 3.60
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Shader code size: average 67.624 KiB, min 35.891 KiB, max 73.562 KiB
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.54 s
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Jobs were issued in 54 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Average processing rate: 8.25 jobs/sec
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Total thread time: 22.017 s
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Total thread preprocess time: 3.829 s
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Percentage time preprocessing: 17.39%
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Effective parallelization: 3.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.59 sec, max 0.69 sec, min 0.50 sec)
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.56 sec, max 0.86 sec, min 0.35 sec)
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 0.52 sec, max 0.57 sec, min 0.48 sec)
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 0.44 sec, max 0.51 sec, min 0.37 sec)
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.64% of total time (compiled    3 times, average 0.56 sec, max 0.86 sec, min 0.35 sec)
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.37% of total time (compiled    2 times, average 0.59 sec, max 0.69 sec, min 0.50 sec)
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy - 4.76% of total time (compiled    2 times, average 0.52 sec, max 0.57 sec, min 0.48 sec)
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight - 4.00% of total time (compiled    2 times, average 0.44 sec, max 0.51 sec, min 0.37 sec)
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 3.94% of total time (compiled    2 times, average 0.43 sec, max 0.48 sec, min 0.39 sec)
+[2024.03.01-01.17.16:759][664]LogShaderCompilers: Display: ================================================
+[2024.03.01-01.17.40:833][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.03.01-01.17.46:810][396]LogSlate: Window 'Message Log' being destroyed
+[2024.03.01-01.17.46:818][396]LogSlate: Window 'Message Log' being destroyed
+[2024.03.01-01.18.00:713][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
