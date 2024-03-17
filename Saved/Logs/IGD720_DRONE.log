@@ -2916,3 +2916,1415 @@ LogInit: Object subsystem initialized
 [2024.03.17-16.37.09:152][221]AssetCheck: New page: Asset Save: Sector2
 [2024.03.17-16.37.09:152][221]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector2.Sector2
 [2024.03.17-16.37.15:146][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 0 (Found bundle for host: 0xba07d970990 [serially])
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 6 (Closing connection)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 9 (  Trying 34.202.42.202:443...)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.202.42.202) port 443)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 34 (Closing connection)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: 00000BA0FAF1AF00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-16.38.30:783][ 59]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-16.38.40:127][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.17-16.38.40:129][574]Cmd: MAP LOAD FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.17-16.38.40:130][574]LightingResults: New page: Lighting Build
+[2024.03.17-16.38.40:130][574]LoadErrors: New page: Loading map: Sector3.umap
+[2024.03.17-16.38.40:170][574]LogWorld: UWorld::CleanupWorld for Sector2, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-16.38.40:170][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-16.38.40:170][574]MapCheck: New page: Map Check
+[2024.03.17-16.38.40:170][574]LightingResults: New page: Lighting Build
+[2024.03.17-16.38.40:178][574]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.17-16.38.40:185][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.17-16.38.40:270][574]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sector3'.
+[2024.03.17-16.38.40:270][574]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-16.38.40:270][574]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-16.38.40:271][574]LogAIModule: Creating AISystem for world Sector3
+[2024.03.17-16.38.40:333][574]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.17-16.38.40:345][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.17-16.38.40:352][574]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.17-16.38.40:352][574]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2024.03.17-16.38.40:352][574]LogSlate: Window 'Open Level' being destroyed
+[2024.03.17-16.39.58:127][656]LogEditorViewport: Clicking Background
+[2024.03.17-16.40.10:111][412]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/UI/Screen.Screen_C
+[2024.03.17-16.40.10:111][412]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/UI/Screen.Screen_C
+[2024.03.17-16.40.10:112][412]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/UI/Screen.Screen as actor: Screen_C /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.Screen_C_5
+[2024.03.17-16.40.10:114][412]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/UI/Screen.Screen as actor: Screen_C /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.Screen_C_5
+[2024.03.17-16.40.10:942][484]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/UI/Screen.Screen_C
+[2024.03.17-16.40.10:942][484]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/UI/Screen.Screen_C
+[2024.03.17-16.40.10:947][484]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/UI/Screen.Screen as actor: Screen_C /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.Screen_C_6
+[2024.03.17-16.40.10:949][484]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/UI/Screen.Screen as actor: Screen_C /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.Screen_C_6
+[2024.03.17-16.41.50:992][749]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name TRASH_WidgetComponent_22 while ResolveName, will return /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.Screen_C_5.TRASH_WidgetComponent_22 but could also be: /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.Screen_C_6.TRASH_WidgetComponent_22
+[2024.03.17-16.43.14:376][934]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name TRASH_WidgetComponent_16 while ResolveName, will return /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.Screen_C_5.TRASH_WidgetComponent_16 but could also be: /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.Screen_C_6.TRASH_WidgetComponent_16 or 1 other object(s)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 0 (Found bundle for host: 0xba07d9706c0 [serially])
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 6 (Closing connection)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 9 (  Trying 3.92.11.105:443...)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.92.11.105) port 443)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 34 (Closing connection)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: 00000BA10E8ADC00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-16.43.30:428][355]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-16.45.51:212][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/DecoOne.DecoOne
+[2024.03.17-16.45.51:212][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/DecoOne.DecoOne
+[2024.03.17-16.45.51:214][471]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/DecoOne.DecoOne as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.StaticMeshActor_38
+[2024.03.17-16.45.53:566][680]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/DecoOne.DecoOne
+[2024.03.17-16.45.53:566][680]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/DecoOne.DecoOne
+[2024.03.17-16.45.53:568][680]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/DecoOne.DecoOne as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.StaticMeshActor_53
+[2024.03.17-16.47.23:774][833]Cmd: TRANSACTION UNDO
+[2024.03.17-16.47.23:774][833]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.17-16.47.26:387][  5]Cmd: TRANSACTION UNDO
+[2024.03.17-16.47.26:387][  5]LogEditorTransaction: Undo Move Elements
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 0 (Found bundle for host: 0xba07d970b40 [serially])
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 6 (Closing connection)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 9 (  Trying 54.146.52.44:443...)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.146.52.44) port 443)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 34 (Closing connection)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: 00000BA0FF1DF000: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-16.47.30:420][318]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-16.49.42:385][968]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.071 and deleted 24 files with total size 1 MiB and 23 empty folders. Scanned 16219 files in 18807 folders with total size 1728 MiB.
+[2024.03.17-16.50.28:745][665]LogEditorViewport: Clicking Background
+[2024.03.17-16.50.53:749][ 57]LogEditorViewport: Clicking Background
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 0 (Found bundle for host: 0xba07d970810 [serially])
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 6 (Closing connection)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 9 (  Trying 34.195.163.27:443...)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.195.163.27) port 443)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-16.51.30:418][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-16.51.30:419][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-16.51.30:419][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-16.51.30:419][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-16.51.30:419][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-16.51.30:419][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 34 (Closing connection)
+[2024.03.17-16.51.30:419][213]LogHttp: Warning: 00000BA10D794100: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-16.51.30:419][213]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-16.53.24:334][760]LogEditorViewport: Clicking Background
+[2024.03.17-16.53.28:691][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.03.17-16.53.28:699][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-16.53.28:800][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector3" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.17-16.53.28:835][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.03.17-16.53.28:944][116]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector3
+[2024.03.17-16.53.28:944][116]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector3CE0702DD461ADF94694B14875AE9BAC8.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap'
+[2024.03.17-16.53.28:953][116]LogFileHelpers: All files are already saved.
+[2024.03.17-16.53.28:953][116]LogFileHelpers: Saving map 'Sector3' took 0.154
+[2024.03.17-16.53.28:961][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 263 ms (total: 4.91 sec)
+[2024.03.17-16.53.28:965][116]AssetCheck: New page: Asset Save: Sector3
+[2024.03.17-16.53.28:965][116]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector3.Sector3
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 0 (Found bundle for host: 0xba07d9709c0 [serially])
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 6 (Closing connection)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 9 (  Trying 3.220.113.241:443...)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.220.113.241) port 443)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 34 (Closing connection)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: 00000BA112298C00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-16.54.30:446][879]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 0 (Found bundle for host: 0xba07d9709f0 [serially])
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 6 (Closing connection)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 9 (  Trying 18.207.44.227:443...)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (18.207.44.227) port 443)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-17.01.30:405][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-17.01.30:406][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-17.01.30:406][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-17.01.30:406][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-17.01.30:406][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-17.01.30:406][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-17.01.30:406][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 34 (Closing connection)
+[2024.03.17-17.01.30:406][636]LogHttp: Warning: 00000BA112290500: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.01.30:406][636]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-17.02.04:561][586]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/UI/Screen.Screen_C
+[2024.03.17-17.02.04:561][586]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/UI/Screen.Screen_C
+[2024.03.17-17.02.04:561][586]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/UI/Screen.Screen as actor: Screen_C /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.Screen_C_9
+[2024.03.17-17.02.04:563][586]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/UI/Screen.Screen as actor: Screen_C /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.Screen_C_9
+[2024.03.17-17.02.05:392][662]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/UI/Screen.Screen_C
+[2024.03.17-17.02.05:392][662]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/UI/Screen.Screen_C
+[2024.03.17-17.02.05:396][662]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/UI/Screen.Screen as actor: Screen_C /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.Screen_C_10
+[2024.03.17-17.02.05:398][662]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/UI/Screen.Screen as actor: Screen_C /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.Screen_C_10
+[2024.03.17-17.02.10:296][923]Cmd: DELETE
+[2024.03.17-17.02.10:296][923]Cmd: ACTOR DELETE
+[2024.03.17-17.02.10:314][923]LogEditorActor: Deleted Actor: Screen_C
+[2024.03.17-17.02.10:323][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.17-17.02.10:329][923]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.03.17-17.03.02:149][760]LogEditorViewport: Clicking Background
+[2024.03.17-17.03.56:877][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.17-17.03.56:889][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-17.03.56:994][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector3" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.17-17.03.57:032][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.03.17-17.03.57:139][904]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector3
+[2024.03.17-17.03.57:140][904]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector38EFB2ED3459A10F8222A7F947649D0AE.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap'
+[2024.03.17-17.03.57:150][904]LogFileHelpers: All files are already saved.
+[2024.03.17-17.03.57:150][904]LogFileHelpers: Saving map 'Sector3' took 0.157
+[2024.03.17-17.03.57:157][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 267 ms (total: 5.18 sec)
+[2024.03.17-17.03.57:161][904]AssetCheck: New page: Asset Save: Sector3
+[2024.03.17-17.03.57:161][904]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector3.Sector3
+[2024.03.17-17.04.03:360][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.17-17.04.03:362][307]Cmd: MAP LOAD FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.17-17.04.03:362][307]LightingResults: New page: Lighting Build
+[2024.03.17-17.04.03:363][307]LoadErrors: New page: Loading map: Sector2.umap
+[2024.03.17-17.04.03:395][307]LogWorld: UWorld::CleanupWorld for Sector3, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-17.04.03:396][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-17.04.03:396][307]MapCheck: New page: Map Check
+[2024.03.17-17.04.03:396][307]LightingResults: New page: Lighting Build
+[2024.03.17-17.04.03:402][307]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.17-17.04.03:407][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.17-17.04.03:595][307]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sector2'.
+[2024.03.17-17.04.03:595][307]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-17.04.03:595][307]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-17.04.03:596][307]LogAIModule: Creating AISystem for world Sector2
+[2024.03.17-17.04.03:718][307]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.17-17.04.03:841][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.17-17.04.03:849][307]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.17-17.04.03:849][307]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2024.03.17-17.04.03:849][307]LogSlate: Window 'Open Level' being destroyed
+[2024.03.17-17.04.30:431][706]LogHttp: Warning: 00000BA112BEC300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-17.04.30:431][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 0 (Found bundle for host: 0xba07d970de0 [serially])
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 6 (Closing connection)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 9 (  Trying 3.224.219.55:443...)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.224.219.55) port 443)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 34 (Closing connection)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: 00000BA112BEC300: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.04.30:433][706]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-17.04.40:653][330]Cmd: EDIT COPY
+[2024.03.17-17.04.43:197][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-17.04.43:289][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector2" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.17-17.04.43:323][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.17-17.04.43:666][465]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector2
+[2024.03.17-17.04.43:667][465]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector29B9098FE4B96445FA506DFBF2C2737B2.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector2.umap'
+[2024.03.17-17.04.43:678][465]LogFileHelpers: All files are already saved.
+[2024.03.17-17.04.43:678][465]LogFileHelpers: Saving map 'Sector2' took 0.390
+[2024.03.17-17.04.43:685][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 488 ms (total: 5.67 sec)
+[2024.03.17-17.04.43:690][465]AssetCheck: New page: Asset Save: Sector2
+[2024.03.17-17.04.43:690][465]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector2.Sector2
+[2024.03.17-17.04.48:706][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.17-17.04.48:707][764]Cmd: MAP LOAD FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.17-17.04.48:708][764]LightingResults: New page: Lighting Build
+[2024.03.17-17.04.48:708][764]LoadErrors: New page: Loading map: Sector3.umap
+[2024.03.17-17.04.48:746][764]LogWorld: UWorld::CleanupWorld for Sector2, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-17.04.48:747][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-17.04.48:747][764]MapCheck: New page: Map Check
+[2024.03.17-17.04.48:747][764]LightingResults: New page: Lighting Build
+[2024.03.17-17.04.48:755][764]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.17-17.04.48:762][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.17-17.04.48:808][764]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sector3'.
+[2024.03.17-17.04.48:808][764]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-17.04.48:808][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-17.04.48:809][764]LogAIModule: Creating AISystem for world Sector3
+[2024.03.17-17.04.48:864][764]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.17-17.04.48:875][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.17-17.04.48:883][764]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.17-17.04.48:883][764]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2024.03.17-17.04.48:883][764]LogSlate: Window 'Open Level' being destroyed
+[2024.03.17-17.04.54:676][162]Cmd: EDIT PASTE
+[2024.03.17-17.05.05:215][877]Cmd: PIVOT HERE
+[2024.03.17-17.06.26:269][378]LogEditorViewport: Clicking Background
+[2024.03.17-17.07.11:345][865]Cmd: PIVOT SNAPPED
+[2024.03.17-17.07.34:294][390]Cmd: PIVOT HERE
+[2024.03.17-17.07.55:929][639]Cmd: PIVOT HERE
+[2024.03.17-17.08.12:453][469]Cmd: DELETE
+[2024.03.17-17.08.12:453][469]Cmd: ACTOR DELETE
+[2024.03.17-17.08.12:461][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.17-17.08.12:469][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.17-17.08.12:476][469]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.03.17-17.08.23:693][293]Cmd: ACTOR BAKEPREPIVOT
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 0 (Found bundle for host: 0xba07d970ea0 [serially])
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 6 (Closing connection)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 9 (  Trying 54.144.12.234:443...)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.144.12.234) port 443)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 34 (Closing connection)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: 00000BA10C5A0000: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.08.30:397][915]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-17.08.30:568][934]Cmd: PIVOT SNAPPED
+[2024.03.17-17.08.48:676][519]Cmd: PIVOT HERE
+[2024.03.17-17.10.24:092][  2]LogEditorViewport: Clicking Background
+[2024.03.17-17.11.53:342][ 49]Cmd: TRANSACTION UNDO
+[2024.03.17-17.11.53:342][ 49]LogEditorTransaction: Undo Move Elements
+[2024.03.17-17.12.11:917][715]Cmd: PIVOT SNAPPED
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 0 (Found bundle for host: 0xba07d9701e0 [serially])
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 6 (Closing connection)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 9 (  Trying 35.171.37.243:443...)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (35.171.37.243) port 443)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 34 (Closing connection)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: 00000BA1094E9100: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.13.30:441][218]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-17.13.50:184][299]LogEditorViewport: Clicking Background
+[2024.03.17-17.15.17:830][ 48]Cmd: TRANSACTION UNDO
+[2024.03.17-17.15.17:830][ 48]LogEditorTransaction: Undo Move Elements
+[2024.03.17-17.15.24:060][423]Cmd: TRANSACTION UNDO
+[2024.03.17-17.15.24:060][423]LogEditorTransaction: Undo Move Elements
+[2024.03.17-17.15.41:313][  7]Cmd: PIVOT SNAPPED
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 0 (Found bundle for host: 0xba07d970b40 [serially])
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 6 (Closing connection)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 9 (  Trying 52.2.147.142:443...)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.2.147.142) port 443)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 34 (Closing connection)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: 00000BA109735500: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.16.30:403][242]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-17.18.48:788][358]LogEditorViewport: Clicking Background
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 0 (Found bundle for host: 0xba07d9703f0 [serially])
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 6 (Closing connection)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 9 (  Trying 107.23.71.122:443...)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (107.23.71.122) port 443)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-17.20.30:403][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 34 (Closing connection)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: 00000BA1116FEB00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.20.30:404][823]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-17.21.07:165][930]LogEditorViewport: Clicking Background
+[2024.03.17-17.21.13:552][301]LogEditorViewport: Clicking Background
+[2024.03.17-17.21.31:097][472]Cmd: PIVOT SNAPPED
+[2024.03.17-17.21.43:290][444]Cmd: TRANSACTION UNDO
+[2024.03.17-17.21.43:290][444]LogEditorTransaction: Undo Move Elements
+[2024.03.17-17.22.19:825][757]Cmd: PIVOT SNAPPED
+[2024.03.17-17.22.43:367][ 13]Cmd: TRANSACTION UNDO
+[2024.03.17-17.22.43:367][ 13]LogEditorTransaction: Undo Move Elements
+[2024.03.17-17.22.52:812][621]Cmd: PIVOT SNAPPED
+[2024.03.17-17.23.01:365][ 60]LogEditorViewport: Clicking Background
+[2024.03.17-17.23.30:429][624]LogHttp: Warning: 00000BA101088700: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-17.23.30:429][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 0 (Found bundle for host: 0xba07d970180 [serially])
+[2024.03.17-17.23.30:429][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-17.23.30:429][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-17.23.30:429][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-17.23.30:429][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-17.23.30:429][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-17.23.30:429][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 6 (Closing connection)
+[2024.03.17-17.23.30:429][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.23.30:429][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-17.23.30:429][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 9 (  Trying 107.23.71.122:443...)
+[2024.03.17-17.23.30:429][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (107.23.71.122) port 443)
+[2024.03.17-17.23.30:429][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 34 (Closing connection)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: 00000BA101088700: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.23.30:430][624]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-17.23.32:750][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-17.23.32:864][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector3" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.17-17.23.32:909][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.17-17.23.33:028][756]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector3
+[2024.03.17-17.23.33:028][756]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector38B08989E4E8E242ECB3A858CF9065082.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap'
+[2024.03.17-17.23.33:038][756]LogFileHelpers: All files are already saved.
+[2024.03.17-17.23.33:038][756]LogFileHelpers: Saving map 'Sector3' took 0.175
+[2024.03.17-17.23.33:046][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 294 ms (total: 5.96 sec)
+[2024.03.17-17.23.33:047][756]AssetCheck: New page: Asset Save: Sector3
+[2024.03.17-17.23.33:047][756]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector3.Sector3
+[2024.03.17-17.23.35:178][929]MapCheck: New page: Map Check
+[2024.03.17-17.23.35:202][929]Cmd: MAP REBUILD ALLVISIBLE
+[2024.03.17-17.23.35:203][929]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.03.17-17.23.35:248][929]LogWorld: UWorld::CleanupWorld for Sector3, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-17.23.35:251][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-17.23.35:251][929]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-17.23.35:251][929]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-17.23.35:274][929]LogShaderCompilers: Display: ================================================
+[2024.03.17-17.23.35:274][929]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.17-17.23.35:274][929]LogShaderCompilers: Display: Total job queries 12, among them cache hits 2 (16.67%)
+[2024.03.17-17.23.35:274][929]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 8 distinct outputs (80.00%)
+[2024.03.17-17.23.35:274][929]LogShaderCompilers: Display: RAM used: 234.86 KiB of 1.60 GiB budget. Usage: 0.01%
+[2024.03.17-17.23.35:274][929]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.17-17.23.35:274][929]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.03.17-17.23.35:274][929]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.03.17-17.23.35:274][929]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.03.17-17.23.35:274][929]LogShaderCompilers: Display: ================================================
+[2024.03.17-17.23.35:278][929]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.03.17-17.23.35:284][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.17-17.23.35:318][929]LogLevel: Display: Export Material TexCoord Scales took 0.031 seconds.
+[2024.03.17-17.23.35:323][929]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2024.03.17-17.23.35:330][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.03.17-17.23.35:333][929]LightingResults: New page: Lighting Build - 17 Mar 2024, 17:23:35
+[2024.03.17-17.23.35:338][929]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.03.17-17.23.35:347][929]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.03.17-17.23.35:347][929]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.03.17-17.23.35:348][929]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.03.17-17.23.35:348][929]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26404
+[2024.03.17-17.23.40:721][929]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2024.03.17-17.23.40:721][929]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.03.17-17.23.40:721][929]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.03.17-17.23.40:721][929]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.03.17-17.23.40:721][929]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.03.17-17.23.40:721][929]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.03.17-17.23.40:831][929]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.03.17-17.23.40:832][929]MapCheck: New page: Sector3 - 17 Mar 2024, 17:23:40
+[2024.03.17-17.23.40:833][929]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.512ms to complete.
+[2024.03.17-17.23.40:833][929]LogEditorBuildUtils: Build time 0:05
+[2024.03.17-17.23.41:010][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.17-17.23.43:819][ 51]LightingResults: Warning: BigBase Object has overlapping UVs.
+[2024.03.17-17.23.43:819][ 51]LightingResults: BigBase Lightmap UV are overlapping by 16.8%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.44:167][ 70]LightingResults: Warning: PyramidVent Object has overlapping UVs.
+[2024.03.17-17.23.44:167][ 70]LightingResults: PyramidVent Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.44:188][ 71]LightingResults: Warning: TopBase Object has overlapping UVs.
+[2024.03.17-17.23.44:188][ 71]LightingResults: TopBase Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.44:310][ 77]LightingResults: Warning: PyramidVent Object has overlapping UVs.
+[2024.03.17-17.23.44:310][ 77]LightingResults: PyramidVent Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.44:480][ 86]LightingResults: Warning: PyramidVent Object has overlapping UVs.
+[2024.03.17-17.23.44:480][ 86]LightingResults: PyramidVent Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.44:774][102]LightingResults: Warning: PyramidVent Object has overlapping UVs.
+[2024.03.17-17.23.44:774][102]LightingResults: PyramidVent Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.44:774][102]LightingResults: Warning: TopBase Object has overlapping UVs.
+[2024.03.17-17.23.44:774][102]LightingResults: TopBase Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.44:795][103]LightingResults: Warning: MiddlePlatformTrim Object has overlapping UVs.
+[2024.03.17-17.23.44:795][103]LightingResults: MiddlePlatformTrim Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.45:181][123]LightingResults: Warning: PyramidVent Object has overlapping UVs.
+[2024.03.17-17.23.45:181][123]LightingResults: PyramidVent Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.45:307][130]LightingResults: Warning: PyramidVent Object has overlapping UVs.
+[2024.03.17-17.23.45:328][131]LightingResults: PyramidVent Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.45:638][147]LightingResults: Warning: SmallStraightCenterLight Object has overlapping UVs.
+[2024.03.17-17.23.45:638][147]LightingResults: SmallStraightCenterLight Lightmap UV are overlapping by 2.0%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.45:784][155]LightingResults: Warning: SmallStraightCenterLight Object has overlapping UVs.
+[2024.03.17-17.23.45:784][155]LightingResults: SmallStraightCenterLight Lightmap UV are overlapping by 2.0%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.45:784][155]LightingResults: Warning: SmallStraightCenterLight Object has overlapping UVs.
+[2024.03.17-17.23.45:808][156]LightingResults: SmallStraightCenterLight Lightmap UV are overlapping by 2.0%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.46:166][175]LightingResults: Warning: MiddleBaseTrim Object has wrapping UVs.
+[2024.03.17-17.23.46:478][192]LightingResults: Warning: LitMeshRamp Object has overlapping UVs.
+[2024.03.17-17.23.46:478][192]LightingResults: LitMeshRamp Lightmap UV are overlapping by 5.2%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.46:778][208]LightingResults: Warning: LitMeshRamp Object has overlapping UVs.
+[2024.03.17-17.23.46:778][208]LightingResults: LitMeshRamp Lightmap UV are overlapping by 5.2%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.46:842][211]LightingResults: Warning: MiddlePlatformTrim Object has overlapping UVs.
+[2024.03.17-17.23.46:842][211]LightingResults: MiddlePlatformTrim Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.17-17.23.47:272][235]Job is a success!
+[2024.03.17-17.23.47:771][237]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.062s
+[2024.03.17-17.23.47:771][237]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2024.03.17-17.23.47:771][237]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 2.4Mb due to 0.010000 MinBrickError)
+[2024.03.17-17.23.47:771][237]LogVolumetricLightmapImport:      Bricks at depth
+[2024.03.17-17.23.47:771][237]LogVolumetricLightmapImport:          0: 14.5% covering 100.0% of volume
+[2024.03.17-17.23.47:771][237]LogVolumetricLightmapImport:          1: 85.5% covering 9.2% of volume
+[2024.03.17-17.23.47:771][237]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2024.03.17-17.23.47:771][237]LogVolumetricLightmapImport:      Bricks in each level
+[2024.03.17-17.23.47:771][237]LogVolumetricLightmapImport:          Sector3 			 55 bricks 	 100.0% (Persistent Level)
+[2024.03.17-17.23.47:996][237]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector3_BuiltData.Sector3_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.03.17-17.23.48:025][237]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector3_BuiltData.Sector3_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.03.17-17.23.48:050][237]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector3_BuiltData.Sector3_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.03.17-17.23.48:073][237]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector3_BuiltData.Sector3_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.03.17-17.23.48:087][237]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector3_BuiltData.Sector3_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.666627 MB), EncodeSpeed: Fast
+[2024.03.17-17.23.48:089][237]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector3_BuiltData.Sector3_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.947886 MB), EncodeSpeed: Fast
+[2024.03.17-17.23.48:091][237]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector3_BuiltData.Sector3_BuiltData:HQ_Lightmap0_4 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.479041 MB), EncodeSpeed: Fast
+[2024.03.17-17.23.48:094][237]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector3_BuiltData.Sector3_BuiltData:LQ_Lightmap_0_4 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 7.604136 MB), EncodeSpeed: Fast
+[2024.03.17-17.23.48:283][237]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector3_BuiltData.Sector3_BuiltData:ShadowMapTexture2D_1 (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 24.062494 MB), EncodeSpeed: Fast
+[2024.03.17-17.23.48:292][237]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector3_BuiltData.Sector3_BuiltData:ShadowMapTexture2D_2 (G8, 1024x64 x1x1x1) (Required Memory Estimate: 1.562504 MB), EncodeSpeed: Fast
+[2024.03.17-17.23.48:293][237]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector3_BuiltData.Sector3_BuiltData:ShadowMapTexture2D_4 (G8, 64x128 x1x1x1) (Required Memory Estimate: 0.24999 MB), EncodeSpeed: Fast
+[2024.03.17-17.23.48:313][237]Lightmass on DEVATOX: 6.78 sec total, 200 ms importing, 56 ms setup, 1.03 sec photons, 5.48 sec processing, 0 us extra exporting [206/206 mappings]. Threads: 1:00 min total, 31.3 sec processing.
+[2024.03.17-17.23.48:408][237]LogStaticLightingSystem: Sector3_BuiltData storing lightmap data for 187 meshes in 7 LightmapResourceClusters (26.7 Meshes per cluster).
+[2024.03.17-17.23.48:432][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.17-17.23.48:443][237]LogStaticLightingSystem: Illumination: 13.0 sec (161 ms encoding lightmaps, 197 ms encoding shadowmaps)
+[2024.03.17-17.23.48:443][237]LogStaticLightingSystem: Lightmap texture memory:  4.3 MB (4.2 MB streaming, 0.1 MB non-streaming), 8 textures
+[2024.03.17-17.23.48:443][237]LogStaticLightingSystem: Shadowmap texture memory: 1.5 MB (1.5 MB streaming, 0.0 MB non-streaming), 3 textures
+[2024.03.17-17.23.48:733][237]DumpUnbuiltLightIteractions
+[2024.03.17-17.23.48:733][237]Lights with unbuilt interactions: 0
+[2024.03.17-17.23.48:733][237]
+[2024.03.17-17.23.48:733][237]Primitives with unbuilt interactions: 0
+[2024.03.17-17.23.48:751][238]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.03.17-17.23.48:751][238]MapCheck: New page: Sector3 - 17 Mar 2024, 17:23:48
+[2024.03.17-17.23.48:753][238]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.49ms to complete.
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 0 (Found bundle for host: 0xba07d970180 [serially])
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 6 (Closing connection)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 9 (  Trying 54.221.40.95:443...)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.221.40.95) port 443)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 34 (Closing connection)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: 00000BA10ED61900: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-17.26.30:408][889]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-17.28.31:275][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.03.17-17.28.31:281][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-17.28.31:385][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector3" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.17-17.28.31:419][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.03.17-17.28.31:556][466]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector3
+[2024.03.17-17.28.31:556][466]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector3B252A3E346FE8D38D06BBF88CB543815.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap'
+[2024.03.17-17.28.31:566][466]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/BLUEPRINTS/Maps/Sector3_BuiltData
+[2024.03.17-17.28.31:567][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-17.28.31:567][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector3_BuiltData" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3_BuiltData.uasset" SILENT=true
+[2024.03.17-17.28.31:615][466]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector3_BuiltData
+[2024.03.17-17.28.31:616][466]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector3_BuiltData768BC41745CA613F5E663C85BEE5F698.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3_BuiltData.uasset'
+[2024.03.17-17.28.31:617][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 6.01 sec)
+[2024.03.17-17.28.31:617][466]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/BLUEPRINTS/Maps/Sector3_BuiltData
+[2024.03.17-17.28.31:617][466]LogFileHelpers: Saving map 'Sector3' took 0.233
+[2024.03.17-17.28.31:617][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector3_BuiltData" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3_BuiltData.uasset" SILENT=true
+[2024.03.17-17.28.31:665][466]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector3_BuiltData
+[2024.03.17-17.28.31:666][466]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector3_BuiltDataB4C444DE4D47DB9E3222E2A57BCE9D5A.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3_BuiltData.uasset'
+[2024.03.17-17.28.31:673][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 392 ms (total: 6.40 sec)
+[2024.03.17-17.28.31:678][466]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.17-17.28.31:678][466]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector3.Sector3
+[2024.03.17-17.28.31:678][466]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/BLUEPRINTS/Maps/Sector3_BuiltData.Sector3_BuiltData
+[2024.03.17-17.28.35:477][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.17-17.28.40:597][985]LogSlate: Window 'Message Log' being destroyed
+[2024.03.17-17.28.40:602][985]LogSlate: Window 'Message Log' being destroyed
+[2024.03.17-17.28.42:176][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.03.17-17.28.42:178][ 89]LogStall: Shutdown...
+[2024.03.17-17.28.42:181][ 89]LogStall: Shutdown complete.
+[2024.03.17-17.28.42:233][ 89]LogSlate: Window 'IGD720_DRONE - Unreal Editor' being destroyed
+[2024.03.17-17.28.42:364][ 90]Cmd: QUIT_EDITOR
+[2024.03.17-17.28.42:364][ 90]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.03.17-17.28.42:368][ 90]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.03.17-17.28.42:368][ 90]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.03.17-17.28.42:368][ 90]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.03.17-17.28.42:371][ 90]LogWorld: UWorld::CleanupWorld for Sector3, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-17.28.42:371][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-17.28.42:379][ 90]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.03.17-17.28.42:509][ 90]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.03.17-17.28.42:509][ 90]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.03.17-17.28.42:509][ 90]LogAudio: Display: Audio Device unregistered from world 'Sector3'.
+[2024.03.17-17.28.42:510][ 90]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.03.17-17.28.42:510][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.03.17-17.28.42:511][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.03.17-17.28.42:518][ 90]LogAudio: Display: Audio Device Manager Shutdown
+[2024.03.17-17.28.42:522][ 90]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.03.17-17.28.42:522][ 90]LogExit: Preparing to exit.
+[2024.03.17-17.28.42:532][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.17-17.28.43:009][ 90]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-17.28.43:087][ 90]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.03.17-17.28.43:104][ 90]LogExit: Editor shut down
+[2024.03.17-17.28.43:105][ 90]LogExit: Transaction tracking system shut down
+[2024.03.17-17.28.43:218][ 90]LogExit: Object subsystem successfully closed.
+[2024.03.17-17.28.43:224][ 90]LogShaderCompilers: Display: ================================================
+[2024.03.17-17.28.43:224][ 90]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.17-17.28.43:224][ 90]LogShaderCompilers: Display: Total job queries 12, among them cache hits 2 (16.67%)
+[2024.03.17-17.28.43:224][ 90]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 8 distinct outputs (80.00%)
+[2024.03.17-17.28.43:224][ 90]LogShaderCompilers: Display: RAM used: 234.86 KiB of 1.60 GiB budget. Usage: 0.01%
+[2024.03.17-17.28.43:224][ 90]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.17-17.28.43:224][ 90]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.03.17-17.28.43:224][ 90]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.03.17-17.28.43:224][ 90]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.03.17-17.28.43:224][ 90]LogShaderCompilers: Display: ================================================
+[2024.03.17-17.28.43:289][ 90]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.03.17-17.28.43:310][ 90]LogVirtualization: UE::Virtualization was shutdown
+[2024.03.17-17.28.43:323][ 90]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1052)
+[2024.03.17-17.28.43:323][ 90]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1050)
+[2024.03.17-17.28.43:323][ 90]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1048)
+[2024.03.17-17.28.43:323][ 90]LogModuleManager: Shutting down and abandoning module SceneOutliner (1046)
+[2024.03.17-17.28.43:323][ 90]LogModuleManager: Shutting down and abandoning module AddContentDialog (1044)
+[2024.03.17-17.28.43:323][ 90]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1043)
+[2024.03.17-17.28.43:323][ 90]LogModuleManager: Shutting down and abandoning module StatusBar (1040)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1038)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1036)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module StatsViewer (1034)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1032)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module AutomationWorker (1030)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module SmartSnapping (1028)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module IKRigEditor (1026)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module ControlRigEditor (1024)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module PlanarCut (1022)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module FractureEngine (1020)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module CharacterAI (1018)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1016)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1014)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1012)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1010)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module WebMMedia (1008)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1006)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1004)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1002)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1001)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (998)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (996)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (994)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (992)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (990)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (988)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (986)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (984)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (982)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (980)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module WaveTableEditor (978)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module RigVMEditor (976)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (974)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module GooglePADEditor (972)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (970)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (968)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module TextureAlignMode (966)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module BspMode (964)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module GeometryMode (962)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (960)
+[2024.03.17-17.28.43:324][ 90]LogModuleManager: Shutting down and abandoning module SessionServices (958)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module MeshPaint (956)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (954)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module PlacementMode (953)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module FoliageEdit (950)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module LandscapeEditor (948)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (946)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module ActorPickerMode (944)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module ViewportSnapping (942)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module EditorWidgets (940)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module ViewportInteraction (938)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module ClothPainter (936)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (935)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module WidgetRegistration (932)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module LogVisualizer (930)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (928)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (926)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (925)
+[2024.03.17-17.28.43:325][ 90]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (923)
+[2024.03.17-17.28.43:929][ 90]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (920)
+[2024.03.17-17.28.43:929][ 90]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (918)
+[2024.03.17-17.28.43:929][ 90]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (916)
+[2024.03.17-17.28.43:929][ 90]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (914)
+[2024.03.17-17.28.43:929][ 90]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (912)
+[2024.03.17-17.28.43:929][ 90]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (910)
+[2024.03.17-17.28.43:929][ 90]LogModuleManager: Shutting down and abandoning module AnimationSettings (908)
+[2024.03.17-17.28.43:929][ 90]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (906)
+[2024.03.17-17.28.43:929][ 90]LogModuleManager: Shutting down and abandoning module CSVtoSVG (904)
+[2024.03.17-17.28.43:929][ 90]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (902)
+[2024.03.17-17.28.43:929][ 90]LogModuleManager: Shutting down and abandoning module EditorConfig (900)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module EditorFramework (898)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (896)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module TraceInsights (894)
+[2024.03.17-17.28.43:930][ 90]MemoryProfiler: Shutdown
+[2024.03.17-17.28.43:930][ 90]NetworkingProfiler: Shutdown
+[2024.03.17-17.28.43:930][ 90]LoadingProfiler: Shutdown
+[2024.03.17-17.28.43:930][ 90]TimingProfiler: Shutdown
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module TraceServices (893)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module TraceAnalysis (892)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (888)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (887)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module InputBindingEditor (884)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module MergeActors (882)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (880)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module LocalizationService (879)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module HardwareTargeting (876)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (874)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module UndoHistory (872)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module XmlParser (870)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module Blutility (868)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (866)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (865)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (862)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (861)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module SettingsEditor (858)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module ProjectLauncher (856)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module SessionFrontend (854)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module ProfilerClient (852)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module DeviceManager (850)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module AutomationController (848)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module AutomationWindow (846)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module Layers (844)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (842)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module DetailCustomizations (840)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module PackagesDialog (838)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (836)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module Persona (834)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (833)
+[2024.03.17-17.28.43:930][ 90]LogModuleManager: Shutting down and abandoning module Kismet (830)
+[2024.03.17-17.28.43:934][ 90]LogModuleManager: Shutting down and abandoning module KismetWidgets (829)
+[2024.03.17-17.28.43:934][ 90]LogModuleManager: Shutting down and abandoning module GraphEditor (826)
+[2024.03.17-17.28.43:934][ 90]LogModuleManager: Shutting down and abandoning module StructViewer (824)
+[2024.03.17-17.28.43:934][ 90]LogModuleManager: Shutting down and abandoning module ClassViewer (822)
+[2024.03.17-17.28.43:936][ 90]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (820)
+[2024.03.17-17.28.43:936][ 90]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (818)
+[2024.03.17-17.28.43:936][ 90]LogModuleManager: Shutting down and abandoning module SourceControlWindows (816)
+[2024.03.17-17.28.43:936][ 90]LogModuleManager: Shutting down and abandoning module OutputLog (814)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module Documentation (812)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (810)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (808)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module MovieScene (806)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (804)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (802)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (800)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module AudioMixer (799)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module AudioMixerCore (798)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module LauncherPlatform (794)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module AnalyticsET (792)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module PortalServices (790)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module PortalRpc (788)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module MessagingRpc (786)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module AIModule (784)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module GameplayDebugger (783)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module AITestSuite (781)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module NavigationSystem (779)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (776)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (774)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module TypedElementFramework (772)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (770)
+[2024.03.17-17.28.43:937][ 90]LogModuleManager: Shutting down and abandoning module ProfilerService (768)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (766)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (764)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (762)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (760)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module TakesCore (758)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (756)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module MegascansPlugin (754)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module Bridge (752)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (750)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (748)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (746)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module CollectionManager (745)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module LightMixer (742)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (740)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (738)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (736)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (734)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module UObjectPlugin (732)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module AlembicImporter (730)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module AlembicLibrary (729)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (726)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (724)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module PluginUtils (722)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (720)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module GitSourceControl (718)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module DumpGPUServices (716)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (714)
+[2024.03.17-17.28.44:140][ 90]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (712)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (710)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (708)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module Paper2DEditor (706)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (704)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module MotionWarping (702)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ControlRigSpline (700)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (698)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (696)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (694)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (690)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (688)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (686)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (684)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (682)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (680)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (678)
+[2024.03.17-17.28.44:141][ 90]LogOpenImageDenoise: OIDN shutting down
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (676)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (674)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (672)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (670)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (668)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module MeshLODToolset (666)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (664)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module LocalizableMessage (662)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (660)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (658)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (656)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (654)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (652)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (651)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (649)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (646)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module DataflowNodes (644)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (642)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module DataflowEditor (640)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (638)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (636)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ChaosNiagara (634)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module FractureEditor (632)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (630)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module BackChannel (628)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (626)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module AutomationUtils (624)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (622)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module MediaPlate (620)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module MediaCompositing (618)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ImgMedia (616)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module TakeSequencer (614)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module TakeMovieScene (612)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (610)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (608)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module InterchangeTests (606)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module TemplateSequence (604)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (602)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module SequencerScripting (600)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (598)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (596)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (594)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module InterchangeExport (592)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module InterchangeMessages (590)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GLTFCore (588)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (586)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (584)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module InterchangeEditor (582)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module SynthesisEditor (580)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ResonanceAudio (578)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (576)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (574)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (572)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ModelingOperators (570)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (568)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ModelingComponents (566)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryFramework (565)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (562)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module MeshModelingTools (560)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (558)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module InputDebugging (556)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GooglePAD (554)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module DynamicMesh (552)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (550)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (548)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryCache (546)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (544)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (542)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (540)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module AudioCapture (538)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (537)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module AssetTags (534)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (532)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (530)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module AppleImageUtils (528)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module AndroidPermission (526)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module VariantManager (524)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (522)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (520)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (518)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (516)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (514)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (512)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module UVEditorTools (510)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module UVEditor (508)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (506)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (504)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module PluginBrowser (502)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (500)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (498)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (496)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module EditorDebugTools (494)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (492)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module CurveEditorTools (490)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (488)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module CryptoKeys (486)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module ChangelistReview (484)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (482)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2024.03.17-17.28.44:141][ 90]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2024.03.17-17.28.44:142][ 90]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2024.03.17-17.28.44:142][ 90]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (470)
+[2024.03.17-17.28.44:142][ 90]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (468)
+[2024.03.17-17.28.44:142][ 90]LogModuleManager: Shutting down and abandoning module AnimationSharing (466)
+[2024.03.17-17.28.44:142][ 90]LogModuleManager: Shutting down and abandoning module Paper2D (464)
+[2024.03.17-17.28.44:142][ 90]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (462)
+[2024.03.17-17.28.44:142][ 90]LogModuleManager: Shutting down and abandoning module Niagara (460)
+[2024.03.17-17.28.44:142][ 90]LogModuleManager: Shutting down and abandoning module NiagaraEditor (459)
+[2024.03.17-17.28.44:142][ 90]LogModuleManager: Shutting down and abandoning module NiagaraCore (456)
+[2024.03.17-17.28.44:142][ 90]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (454)
+[2024.03.17-17.28.44:142][ 90]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (452)
+[2024.03.17-17.28.44:142][ 90]LogModuleManager: Shutting down and abandoning module IKRig (450)
+[2024.03.17-17.28.44:142][ 90]LogModuleManager: Shutting down and abandoning module UdpMessaging (448)
+[2024.03.17-17.28.44:242][ 90]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (446)
+[2024.03.17-17.28.44:242][ 90]LogModuleManager: Shutting down and abandoning module ControlRig (444)
+[2024.03.17-17.28.44:242][ 90]LogModuleManager: Shutting down and abandoning module Constraints (443)
+[2024.03.17-17.28.44:242][ 90]LogModuleManager: Shutting down and abandoning module TcpMessaging (440)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module AnimationData (438)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module StructUtils (436)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (434)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module PBIK (432)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module FullBodyIK (430)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (428)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module TakeRecorder (427)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module ChaosCaching (424)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module LevelSequence (423)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module GameplayCameras (420)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (418)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module ActorSequence (416)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module InterchangePipelines (414)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module InterchangeImport (412)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (410)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module InterchangeNodes (408)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module Synthesis (406)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module SoundFields (404)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module SignificanceManager (402)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (400)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module RigVM (398)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (396)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (392)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module MetasoundEditor (390)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module AudioWidgets (389)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (388)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (384)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module MetasoundEngine (382)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module WaveTable (381)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (379)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (376)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (374)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (372)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (370)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (368)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (366)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module CableComponent (364)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (362)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (361)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (358)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module SignalProcessing (357)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (354)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (352)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module FacialAnimation (350)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module DataValidation (348)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (346)
+[2024.03.17-17.28.44:343][ 90]LogModuleManager: Shutting down and abandoning module LevelEditor (345)
+[2024.03.17-17.28.44:345][ 90]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (344)
+[2024.03.17-17.28.44:345][ 90]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (342)
+[2024.03.17-17.28.44:345][ 90]LogModuleManager: Shutting down and abandoning module MainFrame (340)
+[2024.03.17-17.28.44:345][ 90]LogModuleManager: Shutting down and abandoning module HotReload (339)
+[2024.03.17-17.28.44:345][ 90]LogModuleManager: Shutting down and abandoning module ContentBrowser (335)
+[2024.03.17-17.28.44:345][ 90]LogModuleManager: Shutting down and abandoning module ToolMenus (334)
+[2024.03.17-17.28.44:345][ 90]LogModuleManager: Shutting down and abandoning module ContentBrowserData (332)
+[2024.03.17-17.28.44:345][ 90]LogModuleManager: Shutting down and abandoning module TreeMap (329)
+[2024.03.17-17.28.44:345][ 90]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.03.17-17.28.44:345][ 90]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.03.17-17.28.44:345][ 90]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.03.17-17.28.44:346][ 90]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.03.17-17.28.44:347][ 90]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.03.17-17.28.44:349][ 90]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.03.17-17.28.44:349][ 90]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.03.17-17.28.44:349][ 90]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.03.17-17.28.44:349][ 90]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.03.17-17.28.44:349][ 90]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.03.17-17.28.44:349][ 90]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.03.17-17.28.44:349][ 90]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.03.17-17.28.44:349][ 90]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.03.17-17.28.44:355][ 90]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.03.17-17.28.44:366][ 90]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.03.17-17.28.44:366][ 90]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.03.17-17.28.44:366][ 90]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.03.17-17.28.44:366][ 90]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.03.17-17.28.44:369][ 90]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (122)
+[2024.03.17-17.28.44:370][ 90]RenderDocPlugin: plugin has been unloaded.
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module PixWinPlugin (120)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (118)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (116)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module NiagaraShader (114)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module AISupportModule (112)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (110)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (108)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module ACLPlugin (106)
+[2024.03.17-17.28.44:370][ 90]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (104)
+[2024.03.17-17.28.44:372][ 90]LogModuleManager: Shutting down and abandoning module XMPP (99)
+[2024.03.17-17.28.44:372][ 90]LogModuleManager: Shutting down and abandoning module WebSockets (98)
+[2024.03.17-17.28.44:376][ 90]LogModuleManager: Shutting down and abandoning module HTTP (95)
+[2024.03.17-17.28.44:376][ 90]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.03.17-17.28.44:376][ 90]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E356EB6-48B0-B077-C00F-72A783532B68%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=91de4d6a4f7ee787f8869abcae69a290%7C1478aba3eb014525afefcb2f52033cf0%7Cf163feb7-405d-48b7-8754-1baa84ccb42e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.03.17-17.28.44:380][ 90]LogModuleManager: Shutting down and abandoning module SSL (94)
+[2024.03.17-17.28.44:381][ 90]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (90)
+[2024.03.17-17.28.44:381][ 90]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (88)
+[2024.03.17-17.28.44:381][ 90]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (86)
+[2024.03.17-17.28.44:381][ 90]LogModuleManager: Shutting down and abandoning module ChaosCloth (84)
+[2024.03.17-17.28.44:381][ 90]LogModuleManager: Shutting down and abandoning module WmfMedia (82)
+[2024.03.17-17.28.44:386][ 90]LogModuleManager: Shutting down and abandoning module Media (81)
+[2024.03.17-17.28.44:387][ 90]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (78)
+[2024.03.17-17.28.44:387][ 90]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (76)
+[2024.03.17-17.28.44:387][ 90]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2024.03.17-17.28.44:387][ 90]LogModuleManager: Shutting down and abandoning module ChunkDownloader (72)
+[2024.03.17-17.28.44:387][ 90]LogModuleManager: Shutting down and abandoning module VariantManagerContent (70)
+[2024.03.17-17.28.44:387][ 90]LogModuleManager: Shutting down and abandoning module GLTFExporter (68)
+[2024.03.17-17.28.44:387][ 90]LogModuleManager: Shutting down and abandoning module DatasmithContent (66)
+[2024.03.17-17.28.44:388][ 90]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.03.17-17.28.44:388][ 90]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (62)
+[2024.03.17-17.28.44:388][ 90]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (60)
+[2024.03.17-17.28.44:388][ 90]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2024.03.17-17.28.44:388][ 90]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2024.03.17-17.28.44:388][ 90]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2024.03.17-17.28.44:388][ 90]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2024.03.17-17.28.44:388][ 90]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2024.03.17-17.28.44:388][ 90]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.03.17-17.28.44:388][ 90]LogXGEController: Cleaning working directory: C:/Users/devat/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.03.17-17.28.44:388][ 90]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.03.17-17.28.44:388][ 90]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.03.17-17.28.44:388][ 90]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.03.17-17.28.44:388][ 90]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.03.17-17.28.44:389][ 90]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.03.17-17.28.44:389][ 90]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.03.17-17.28.44:389][ 90]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.03.17-17.28.44:389][ 90]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.03.17-17.28.44:389][ 90]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.03.17-17.28.44:389][ 90]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.03.17-17.28.44:389][ 90]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.03.17-17.28.44:389][ 90]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.03.17-17.28.44:390][ 90]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.03.17-17.28.44:390][ 90]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.03.17-17.28.44:390][ 90]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.03.17-17.28.44:390][ 90]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.03.17-17.28.44:390][ 90]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.03.17-17.28.44:390][ 90]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.03.17-17.28.44:390][ 90]LogPakFile: Destroying PakPlatformFile
+[2024.03.17-17.28.44:390][ 90]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.03.17-17.28.44:390][ 90]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.03.17-17.28.44:390][ 90]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.03.17-17.28.44:390][ 90]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.03.17-17.28.44:390][ 90]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.03.17-17.28.44:642][ 90]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.03.17-17.28.44:677][ 90]LogExit: Exiting.
+[2024.03.17-17.28.44:719][ 90]Log file closed, 03/17/24 17:28:44
