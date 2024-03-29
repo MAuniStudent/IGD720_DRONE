@@ -11180,3 +11180,482 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.28-23.17.37:493][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
 [2024.03.28-23.17.50:247][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
 [2024.03.28-23.27.01:577][870]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.329 and deleted 1 files with total size 0 MiB and 3 empty folders. Scanned 18783 files in 21025 folders with total size 1704 MiB.
+[2024.03.28-23.39.29:696][565]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/BLUEPRINTS/Maps/Sector1.Sector1:PersistentLevel.Sector1
+[2024.03.28-23.39.29:696][565]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.28-23.39.29:697][565]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.28-23.39.48:446][776]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.03.28-23.39.48:446][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.28-23.52.34:096][406]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.28-23.52.34:096][406]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.03.28-23.52.34:096][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.28-23.52.37:749][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.28-23.52.37:749][524]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.03.28-23.52.37:749][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.28-23.52.49:292][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.03.28-23.52.49:304][259]Cmd: MAP LOAD FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.28-23.52.49:304][259]LightingResults: New page: Lighting Build
+[2024.03.28-23.52.49:305][259]LoadErrors: New page: Loading map: Sector3.umap
+[2024.03.28-23.52.49:346][259]LogWorld: UWorld::CleanupWorld for Sector1, bSessionEnded=true, bCleanupResources=true
+[2024.03.28-23.52.49:347][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.28-23.52.49:347][259]MapCheck: New page: Map Check
+[2024.03.28-23.52.49:347][259]LightingResults: New page: Lighting Build
+[2024.03.28-23.52.49:366][259]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.28-23.52.49:375][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.03.28-23.52.49:479][259]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sector3'.
+[2024.03.28-23.52.49:479][259]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.28-23.52.49:479][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.28-23.52.49:479][259]LogAIModule: Creating AISystem for world Sector3
+[2024.03.28-23.52.49:563][259]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.28-23.52.49:591][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.03.28-23.52.49:599][259]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.28-23.52.49:599][259]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2024.03.28-23.52.49:599][259]LogSlate: Window 'Open Level' being destroyed
+[2024.03.28-23.54.19:628][950]LogContentBrowser: Deferred new asset file creation: MI_Head_A_Inst
+[2024.03.28-23.54.19:696][950]LogContentBrowser: Creating deferred item: MI_Head_A_Inst
+[2024.03.28-23.54.19:708][951]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Head_A_Inst).
+[2024.03.28-23.54.48:413][436]LogContentBrowser: Attempting asset rename: MI_Head_A_Inst -> MI_Head_Yellow_Inst
+[2024.03.28-23.54.48:414][436]LogContentBrowser: End creating deferred item MI_Head_A_Inst
+[2024.03.28-23.54.57:782][ 66]LogContentBrowser: Deferred new asset file creation: MI_Legs_A_Inst
+[2024.03.28-23.54.57:855][ 66]LogContentBrowser: Creating deferred item: MI_Legs_A_Inst
+[2024.03.28-23.54.57:866][ 67]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Legs_A_Inst).
+[2024.03.28-23.55.09:180][769]LogContentBrowser: Attempting asset rename: MI_Legs_A_Inst -> MI_Legs_Yellow_Inst
+[2024.03.28-23.55.09:181][769]LogContentBrowser: End creating deferred item MI_Legs_A_Inst
+[2024.03.28-23.55.14:687][160]LogContentBrowser: Deferred new asset file creation: MI_Torso_A_Inst
+[2024.03.28-23.55.14:733][160]LogContentBrowser: Creating deferred item: MI_Torso_A_Inst
+[2024.03.28-23.55.14:745][161]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Torso_A_Inst).
+[2024.03.28-23.55.28:105][991]LogContentBrowser: Attempting asset rename: MI_Torso_A_Inst -> MI_Torso_Yellow_Inst
+[2024.03.28-23.55.28:106][991]LogContentBrowser: End creating deferred item MI_Torso_A_Inst
+[2024.03.28-23.55.35:159][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.03.28-23.55.35:172][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.28-23.55.35:284][483]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Head_Yellow_Inst
+[2024.03.28-23.55.35:285][483]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Head_Yellow_Inst7B4798664A4E8B5484DD349574B2C53E.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Head_Yellow_Inst.uasset'
+[2024.03.28-23.55.35:296][483]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Legs_Yellow_Inst
+[2024.03.28-23.55.35:296][483]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Legs_Yellow_InstB761631E405F25063227FDAB0B61F778.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Legs_Yellow_Inst.uasset'
+[2024.03.28-23.55.35:305][483]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Torso_Yellow_Inst
+[2024.03.28-23.55.35:305][483]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Torso_Yellow_Inst33825F764F59C80273638D90BDE4EBAD.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Torso_Yellow_Inst.uasset'
+[2024.03.28-23.55.35:314][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 10.2 sec)
+[2024.03.28-23.55.35:316][483]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.28-23.55.35:316][483]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Head_Yellow_Inst.MI_Head_Yellow_Inst
+[2024.03.28-23.55.35:316][483]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Legs_Yellow_Inst.MI_Legs_Yellow_Inst
+[2024.03.28-23.55.35:316][483]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Torso_Yellow_Inst.MI_Torso_Yellow_Inst
+[2024.03.28-23.55.39:244][709]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Head_Yellow_Inst.MI_Head_Yellow_Inst
+[2024.03.28-23.55.39:247][709]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.28-23.55.39:247][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.28-23.55.39:590][709]LogViewport: Scene viewport resized to 2798x1542, mode Windowed.
+[2024.03.28-23.55.46:284][ 51]LogViewport: Scene viewport resized to 2793x1583, mode Windowed.
+[2024.03.28-23.55.46:436][ 53]LogViewport: Scene viewport resized to 539x155, mode Windowed.
+[2024.03.28-23.55.46:531][ 62]LogViewport: Scene viewport resized to 2672x1835, mode Windowed.
+[2024.03.28-23.55.46:785][ 72]LogViewport: Scene viewport resized to 2667x1876, mode Windowed.
+[2024.03.28-23.55.46:936][ 74]LogViewport: Scene viewport resized to 539x233, mode Windowed.
+[2024.03.28-23.55.47:026][ 82]LogViewport: Scene viewport resized to 2672x1835, mode Windowed.
+[2024.03.28-23.55.47:539][140]LogSlate: Window 'MI_Head_Yellow_Inst' being destroyed
+[2024.03.28-23.56.17:590][279]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.28-23.56.31:151][753]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.28-23.56.34:702][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.28-23.56.34:879][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.03.28-23.56.34:901][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.28-23.56.34:904][149]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Head_Yellow_Inst
+[2024.03.28-23.56.34:905][149]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Head_Yellow_Inst801F958549B394F600826C8FB208E97C.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Head_Yellow_Inst.uasset'
+[2024.03.28-23.56.34:913][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 10.4 sec)
+[2024.03.28-23.56.34:914][149]AssetCheck: New page: Asset Save: MI_Head_Yellow_Inst
+[2024.03.28-23.56.34:914][149]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Head_Yellow_Inst.MI_Head_Yellow_Inst
+[2024.03.28-23.56.37:484][443]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.03.28-23.56.37:485][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.28-23.56.44:910][864]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Legs_Yellow_Inst.MI_Legs_Yellow_Inst
+[2024.03.28-23.56.44:911][864]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.28-23.56.44:912][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.28-23.56.45:227][864]LogViewport: Scene viewport resized to 2801x1547, mode Windowed.
+[2024.03.28-23.56.48:155][ 19]LogViewport: Scene viewport resized to 2796x1588, mode Windowed.
+[2024.03.28-23.56.48:310][ 21]LogViewport: Scene viewport resized to 539x156, mode Windowed.
+[2024.03.28-23.56.48:499][ 39]LogViewport: Scene viewport resized to 2672x1835, mode Windowed.
+[2024.03.28-23.56.48:876][ 78]LogSlate: Window 'MI_Legs_Yellow_Inst' being destroyed
+[2024.03.28-23.56.56:567][930]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.28-23.57.01:664][441]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.28-23.57.04:303][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.28-23.57.04:499][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.03.28-23.57.04:523][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.28-23.57.04:526][728]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Legs_Yellow_Inst
+[2024.03.28-23.57.04:526][728]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Legs_Yellow_InstB02616AF4A6287ADFB35149B7DFA91D4.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Legs_Yellow_Inst.uasset'
+[2024.03.28-23.57.04:534][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 231 ms (total: 10.6 sec)
+[2024.03.28-23.57.04:536][728]AssetCheck: New page: Asset Save: MI_Legs_Yellow_Inst
+[2024.03.28-23.57.04:536][728]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Legs_Yellow_Inst.MI_Legs_Yellow_Inst
+[2024.03.28-23.57.06:086][881]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.03.28-23.57.06:086][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.28-23.57.10:326][115]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Torso_Yellow_Inst.MI_Torso_Yellow_Inst
+[2024.03.28-23.57.10:328][115]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.28-23.57.10:328][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.28-23.57.10:641][115]LogViewport: Scene viewport resized to 2805x1552, mode Windowed.
+[2024.03.28-23.57.13:373][261]LogViewport: Scene viewport resized to 2800x1593, mode Windowed.
+[2024.03.28-23.57.13:524][263]LogViewport: Scene viewport resized to 539x156, mode Windowed.
+[2024.03.28-23.57.13:906][301]LogViewport: Scene viewport resized to 2672x1835, mode Windowed.
+[2024.03.28-23.57.14:283][340]LogSlate: Window 'MI_Torso_Yellow_Inst' being destroyed
+[2024.03.28-23.57.21:977][177]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.28-23.57.25:361][485]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.28-23.57.28:105][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.28-23.57.28:281][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.03.28-23.57.28:303][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.03.28-23.57.28:306][796]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Torso_Yellow_Inst
+[2024.03.28-23.57.28:307][796]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/MI_Torso_Yellow_Inst0B05708D4F4A1AF8EB9128A613743992.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Torso_Yellow_Inst.uasset'
+[2024.03.28-23.57.28:316][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 10.8 sec)
+[2024.03.28-23.57.28:317][796]AssetCheck: New page: Asset Save: MI_Torso_Yellow_Inst
+[2024.03.28-23.57.28:317][796]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/DRONE_AI/Materials/GreenSoldier/MI_Torso_Yellow_Inst.MI_Torso_Yellow_Inst
+[2024.03.28-23.57.29:542][933]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.03.28-23.57.29:542][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.28-23.57.53:625][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.03.28-23.57.53:637][394]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.28-23.57.53:742][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector3" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.28-23.57.53:788][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.03.28-23.57.53:938][394]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector3
+[2024.03.28-23.57.53:939][394]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector38B489E96460CFFC522EE4B8E71B94BB5.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap'
+[2024.03.28-23.57.53:951][394]LogFileHelpers: All files are already saved.
+[2024.03.28-23.57.53:951][394]LogFileHelpers: Saving map 'Sector3' took 0.209
+[2024.03.28-23.57.53:978][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 340 ms (total: 11.2 sec)
+[2024.03.28-23.57.53:982][394]AssetCheck: New page: Asset Save: Sector3
+[2024.03.28-23.57.53:982][394]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector3.Sector3
+[2024.03.28-23.58.29:749][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.03.28-23.58.29:758][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.28-23.58.29:864][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector3" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.28-23.58.29:913][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.28-23.58.30:053][827]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector3
+[2024.03.28-23.58.30:053][827]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector31D687ED341FF4761A1D65AB26CDB1E03.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap'
+[2024.03.28-23.58.30:064][827]LogFileHelpers: All files are already saved.
+[2024.03.28-23.58.30:065][827]LogFileHelpers: Saving map 'Sector3' took 0.201
+[2024.03.28-23.58.30:072][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 314 ms (total: 11.5 sec)
+[2024.03.28-23.58.30:076][827]AssetCheck: New page: Asset Save: Sector3
+[2024.03.28-23.58.30:076][827]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector3.Sector3
+[2024.03.28-23.58.59:774][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.03.28-23.58.59:782][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.28-23.58.59:884][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector3" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.28-23.58.59:928][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.28-23.59.00:070][  6]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector3
+[2024.03.28-23.59.00:070][  6]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector3740513784C4C0E0963DB52A476B7EEC6.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap'
+[2024.03.28-23.59.00:081][  6]LogFileHelpers: All files are already saved.
+[2024.03.28-23.59.00:081][  6]LogFileHelpers: Saving map 'Sector3' took 0.198
+[2024.03.28-23.59.00:089][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 306 ms (total: 11.8 sec)
+[2024.03.28-23.59.00:091][  6]AssetCheck: New page: Asset Save: Sector3
+[2024.03.28-23.59.00:091][  6]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector3.Sector3
+[2024.03.29-00.00.13:809][971]LogEditorViewport: Clicking Background
+[2024.03.29-00.00.32:071][280]Cmd: TRANSACTION UNDO
+[2024.03.29-00.00.32:071][280]LogEditorTransaction: Undo Replace component used material
+[2024.03.29-00.01.46:557][527]LogContentBrowser: Deferred new asset file creation: M_FloorOneEmissiveFour_Inst_Inst
+[2024.03.29-00.01.46:612][527]LogContentBrowser: Creating deferred item: M_FloorOneEmissiveFour_Inst_Inst
+[2024.03.29-00.01.46:739][528]LogContentBrowser: Renaming the item being created (Deferred Item: M_FloorOneEmissiveFour_Inst_Inst).
+[2024.03.29-00.02.25:665][401]LogContentBrowser: Attempting asset rename: M_FloorOneEmissiveFour_Inst_Inst -> M_FloorOneEmissiveSeven
+[2024.03.29-00.02.25:666][401]LogContentBrowser: End creating deferred item M_FloorOneEmissiveFour_Inst_Inst
+[2024.03.29-00.02.28:931][610]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/BLUEPRINTS/Materials/M_FloorOneEmissiveSeven.M_FloorOneEmissiveSeven
+[2024.03.29-00.02.28:934][610]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-00.02.28:934][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-00.02.29:206][610]LogViewport: Scene viewport resized to 2808x1557, mode Windowed.
+[2024.03.29-00.02.32:172][757]LogViewport: Scene viewport resized to 2803x1598, mode Windowed.
+[2024.03.29-00.02.32:329][759]LogViewport: Scene viewport resized to 539x157, mode Windowed.
+[2024.03.29-00.02.32:768][792]LogViewport: Scene viewport resized to 2672x1835, mode Windowed.
+[2024.03.29-00.02.33:134][830]LogSlate: Window 'M_FloorOneEmissiveSeven' being destroyed
+[2024.03.29-00.02.59:643][769]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.29-00.03.03:348][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-00.03.03:523][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.03.29-00.03.03:557][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.29-00.03.03:560][196]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Materials/M_FloorOneEmissiveSeven
+[2024.03.29-00.03.03:560][196]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/M_FloorOneEmissiveSeven0C342BC84FE9C962BF8AC7AA00A45F1F.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Materials/M_FloorOneEmissiveSeven.uasset'
+[2024.03.29-00.03.03:566][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 218 ms (total: 12.0 sec)
+[2024.03.29-00.03.03:566][196]AssetCheck: New page: Asset Save: M_FloorOneEmissiveSeven
+[2024.03.29-00.03.03:566][196]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/BLUEPRINTS/Materials/M_FloorOneEmissiveSeven.M_FloorOneEmissiveSeven
+[2024.03.29-00.03.05:104][371]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-00.03.05:104][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-00.06.08:844][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.29-00.06.08:859][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-00.06.08:955][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector3" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.29-00.06.09:001][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.29-00.06.09:140][562]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector3
+[2024.03.29-00.06.09:140][562]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector30AEBCDB24694415B296494BBADA8419D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap'
+[2024.03.29-00.06.09:151][562]LogFileHelpers: All files are already saved.
+[2024.03.29-00.06.09:151][562]LogFileHelpers: Saving map 'Sector3' took 0.197
+[2024.03.29-00.06.09:186][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 325 ms (total: 12.4 sec)
+[2024.03.29-00.06.09:190][562]AssetCheck: New page: Asset Save: Sector3
+[2024.03.29-00.06.09:190][562]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector3.Sector3
+[2024.03.29-00.06.48:202][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.03.29-00.06.48:214][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-00.06.48:314][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector3" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.29-00.06.48:360][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.29-00.06.48:500][224]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector3
+[2024.03.29-00.06.48:500][224]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector3F21799B44DE1F5E331DEF78CF32DCC42.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap'
+[2024.03.29-00.06.48:510][224]LogFileHelpers: All files are already saved.
+[2024.03.29-00.06.48:510][224]LogFileHelpers: Saving map 'Sector3' took 0.196
+[2024.03.29-00.06.48:517][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 303 ms (total: 12.7 sec)
+[2024.03.29-00.06.48:521][224]AssetCheck: New page: Asset Save: Sector3
+[2024.03.29-00.06.48:521][224]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector3.Sector3
+[2024.03.29-00.07.07:080][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.03.29-00.07.51:589][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.03.29-00.27.01:507][606]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.258 and deleted 12 files with total size 0 MiB and 8 empty folders. Scanned 18782 files in 21022 folders with total size 1704 MiB.
+[2024.03.29-00.52.24:227][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.03.29-00.52.30:947][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.03.29-01.27.00:574][ 44]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.324 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18770 files in 21014 folders with total size 1703 MiB.
+[2024.03.29-01.37.21:703][187]LogEditorViewport: Clicking Background
+[2024.03.29-01.38.04:866][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.03.29-01.38.35:114][874]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.Sector3
+[2024.03.29-01.38.35:115][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-01.38.35:115][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.38.41:653][314]LogSlate: Window 'Sector3' being destroyed
+[2024.03.29-01.38.59:594][452]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.38.59:594][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.39.06:949][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.29-01.39.06:953][ 21]Cmd: MAP LOAD FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.29-01.39.06:954][ 21]LightingResults: New page: Lighting Build
+[2024.03.29-01.39.06:955][ 21]LoadErrors: New page: Loading map: Sector4.umap
+[2024.03.29-01.39.06:998][ 21]LogWorld: UWorld::CleanupWorld for Sector3, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.39.06:998][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.39.06:998][ 21]MapCheck: New page: Map Check
+[2024.03.29-01.39.06:998][ 21]LightingResults: New page: Lighting Build
+[2024.03.29-01.39.07:016][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.29-01.39.07:023][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.29-01.39.07:099][ 21]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sector4'.
+[2024.03.29-01.39.07:099][ 21]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-01.39.07:099][ 21]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.39.07:099][ 21]LogAIModule: Creating AISystem for world Sector4
+[2024.03.29-01.39.07:215][ 21]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.29-01.39.07:242][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.03.29-01.39.07:250][ 21]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.29-01.39.07:250][ 21]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2024.03.29-01.39.07:251][ 21]LogSlate: Window 'Open Level' being destroyed
+[2024.03.29-01.39.12:456][459]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/BLUEPRINTS/Maps/Sector4.Sector4:PersistentLevel.Sector4
+[2024.03.29-01.39.12:456][459]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-01.39.12:456][459]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.39.38:113][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.03.29-01.39.38:118][163]Cmd: MAP LOAD FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.29-01.39.38:118][163]LightingResults: New page: Lighting Build
+[2024.03.29-01.39.38:118][163]LoadErrors: New page: Loading map: HUB.umap
+[2024.03.29-01.39.38:186][163]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.39.38:186][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.39.38:221][163]LogWorld: UWorld::CleanupWorld for Sector4, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.39.38:221][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.39.38:222][163]MapCheck: New page: Map Check
+[2024.03.29-01.39.38:222][163]LightingResults: New page: Lighting Build
+[2024.03.29-01.39.38:238][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.29-01.39.38:246][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.03.29-01.39.38:293][163]LogAudio: Display: Audio Device (ID: 1) registered with world 'HUB'.
+[2024.03.29-01.39.38:293][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-01.39.38:293][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.39.38:294][163]LogAIModule: Creating AISystem for world HUB
+[2024.03.29-01.39.38:365][163]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.29-01.39.38:392][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.03.29-01.39.38:401][163]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.29-01.39.38:401][163]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2024.03.29-01.39.38:401][163]LogSlate: Window 'Open Level' being destroyed
+[2024.03.29-01.39.39:769][257]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 377971
+[2024.03.29-01.39.39:779][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.39.39:832][258]LogSlate: Took 0.004873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.03.29-01.39.39:839][258]LogSlate: Took 0.004162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.03.29-01.39.39:846][258]LogSlate: Took 0.004161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.29-01.39.39:851][258]LogSlate: Took 0.003186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.03.29-01.39.39:855][258]LogSlate: Took 0.003589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.03.29-01.40.19:422][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.03.29-01.40.19:428][ 71]Cmd: MAP LOAD FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.29-01.40.19:428][ 71]LightingResults: New page: Lighting Build
+[2024.03.29-01.40.19:429][ 71]LoadErrors: New page: Loading map: Sector3.umap
+[2024.03.29-01.40.19:465][ 71]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.40.19:465][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.40.19:465][ 71]MapCheck: New page: Map Check
+[2024.03.29-01.40.19:465][ 71]LightingResults: New page: Lighting Build
+[2024.03.29-01.40.19:482][ 71]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.29-01.40.19:487][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.03.29-01.40.19:562][ 71]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sector3'.
+[2024.03.29-01.40.19:562][ 71]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-01.40.19:562][ 71]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.40.19:563][ 71]LogAIModule: Creating AISystem for world Sector3
+[2024.03.29-01.40.19:663][ 71]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.29-01.40.19:689][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.03.29-01.40.19:698][ 71]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.29-01.40.19:698][ 71]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2024.03.29-01.40.19:698][ 71]LogSlate: Window 'Open Level' being destroyed
+[2024.03.29-01.41.35:253][417]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-01.41.35:333][418]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-01.41.41:684][811]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/Interactables/ItemPickups/CubitPickup.CubitPickup_C
+[2024.03.29-01.41.41:684][811]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/Interactables/ItemPickups/CubitPickup.CubitPickup_C
+[2024.03.29-01.41.41:686][811]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/Interactables/ItemPickups/CubitPickup.CubitPickup as actor: CubitPickup_C /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.CubitPickup_C_0
+[2024.03.29-01.41.41:688][811]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/Interactables/ItemPickups/CubitPickup.CubitPickup as actor: CubitPickup_C /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.CubitPickup_C_0
+[2024.03.29-01.41.41:693][811]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.03.29-01.41.43:394][949]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/Interactables/ItemPickups/CubitPickup.CubitPickup_C
+[2024.03.29-01.41.43:394][949]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/Interactables/ItemPickups/CubitPickup.CubitPickup_C
+[2024.03.29-01.41.43:397][949]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/Interactables/ItemPickups/CubitPickup.CubitPickup as actor: CubitPickup_C /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.CubitPickup_C_1
+[2024.03.29-01.41.43:399][949]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/Interactables/ItemPickups/CubitPickup.CubitPickup as actor: CubitPickup_C /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.CubitPickup_C_1
+[2024.03.29-01.42.29:196][778]Cmd: TRANSACTION UNDO
+[2024.03.29-01.42.29:196][778]LogEditorTransaction: Undo Move Elements
+[2024.03.29-01.42.30:575][827]LogEditorViewport: Clicking Background
+[2024.03.29-01.43.10:498][323]Cmd: TRANSACTION UNDO
+[2024.03.29-01.43.10:498][323]LogEditorTransaction: Undo Move Elements
+[2024.03.29-01.47.42:164][ 72]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.29-01.50.15:455][ 80]Cmd: TRANSACTION UNDO
+[2024.03.29-01.50.15:455][ 80]LogEditorTransaction: Undo Move Elements
+[2024.03.29-01.51.35:070][103]Cmd: TRANSACTION UNDO
+[2024.03.29-01.51.35:070][103]LogEditorTransaction: Undo Move Elements
+[2024.03.29-01.51.43:244][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.03.29-01.51.43:271][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-01.51.43:359][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector3" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.29-01.51.43:405][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.29-01.51.43:553][602]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector3
+[2024.03.29-01.51.43:553][602]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector338888C7341E67234A9389DB46B471C62.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap'
+[2024.03.29-01.51.43:567][602]LogFileHelpers: All files are already saved.
+[2024.03.29-01.51.43:567][602]LogFileHelpers: Saving map 'Sector3' took 0.208
+[2024.03.29-01.51.43:596][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 325 ms (total: 13.0 sec)
+[2024.03.29-01.51.43:601][602]AssetCheck: New page: Asset Save: Sector3
+[2024.03.29-01.51.43:601][602]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector3.Sector3
+[2024.03.29-01.56.32:895][557]LogEditorViewport: Clicking Background
+[2024.03.29-02.01.41:414][149]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/DecoWallMesh.DecoWallMesh
+[2024.03.29-02.01.41:414][149]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/DecoWallMesh.DecoWallMesh
+[2024.03.29-02.01.41:415][149]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/DecoWallMesh.DecoWallMesh as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.StaticMeshActor_123
+[2024.03.29-02.01.42:904][260]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/DecoWallMesh.DecoWallMesh
+[2024.03.29-02.01.42:905][260]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BLUEPRINTS/Meshs/DecoWallMesh.DecoWallMesh
+[2024.03.29-02.01.42:906][260]LogActorFactory: Actor Factory spawned StaticMesh /Game/BLUEPRINTS/Meshs/DecoWallMesh.DecoWallMesh as actor: StaticMeshActor /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.StaticMeshActor_124
+[2024.03.29-02.02.44:351][395]LogEditorViewport: Clicking Background
+[2024.03.29-02.04.09:886][943]Cmd: TRANSACTION UNDO
+[2024.03.29-02.04.09:886][943]LogEditorTransaction: Undo Move Elements
+[2024.03.29-02.04.24:350][822]Cmd: TRANSACTION UNDO
+[2024.03.29-02.04.24:350][822]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.29-02.04.35:079][470]Cmd: TRANSACTION UNDO
+[2024.03.29-02.04.35:079][470]LogEditorTransaction: Undo Move Elements
+[2024.03.29-02.04.39:331][712]Cmd: TRANSACTION UNDO
+[2024.03.29-02.04.39:331][712]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.29-02.05.00:463][142]Cmd: TRANSACTION UNDO
+[2024.03.29-02.05.00:463][142]LogEditorTransaction: Undo Move Elements
+[2024.03.29-02.06.52:527][982]Cmd: DELETE
+[2024.03.29-02.06.52:527][982]Cmd: ACTOR DELETE
+[2024.03.29-02.06.52:541][982]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-02.06.52:542][982]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.29-02.06.52:584][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.03.29-02.06.52:597][982]LogEditorActor: Deleted 2 Actors (0.069 secs)
+[2024.03.29-02.07.07:865][839]LogEditorViewport: Clicking Background
+[2024.03.29-02.08.39:887][367]LogViewport: Scene viewport resized to 2946x937, mode Windowed.
+[2024.03.29-02.08.39:909][368]LogViewport: Scene viewport resized to 2942x937, mode Windowed.
+[2024.03.29-02.08.40:013][369]LogViewport: Scene viewport resized to 2818x937, mode Windowed.
+[2024.03.29-02.08.40:048][370]LogViewport: Scene viewport resized to 2761x937, mode Windowed.
+[2024.03.29-02.08.40:088][371]LogViewport: Scene viewport resized to 2699x937, mode Windowed.
+[2024.03.29-02.08.40:115][372]LogViewport: Scene viewport resized to 2644x937, mode Windowed.
+[2024.03.29-02.08.40:148][373]LogViewport: Scene viewport resized to 2616x937, mode Windowed.
+[2024.03.29-02.08.40:180][374]LogViewport: Scene viewport resized to 2615x937, mode Windowed.
+[2024.03.29-02.08.40:210][375]LogViewport: Scene viewport resized to 2614x937, mode Windowed.
+[2024.03.29-02.08.40:343][386]LogViewport: Scene viewport resized to 2611x937, mode Windowed.
+[2024.03.29-02.08.40:364][387]LogViewport: Scene viewport resized to 2609x937, mode Windowed.
+[2024.03.29-02.08.40:417][388]LogViewport: Scene viewport resized to 2589x937, mode Windowed.
+[2024.03.29-02.08.40:448][389]LogViewport: Scene viewport resized to 2560x937, mode Windowed.
+[2024.03.29-02.08.40:479][390]LogViewport: Scene viewport resized to 2501x937, mode Windowed.
+[2024.03.29-02.08.40:509][391]LogViewport: Scene viewport resized to 2472x937, mode Windowed.
+[2024.03.29-02.08.40:544][392]LogViewport: Scene viewport resized to 2470x937, mode Windowed.
+[2024.03.29-02.08.40:952][431]LogViewport: Scene viewport resized to 2476x937, mode Windowed.
+[2024.03.29-02.08.40:975][432]LogViewport: Scene viewport resized to 2494x937, mode Windowed.
+[2024.03.29-02.08.43:017][553]LogViewport: Scene viewport resized to 2492x937, mode Windowed.
+[2024.03.29-02.08.43:039][554]LogViewport: Scene viewport resized to 2488x937, mode Windowed.
+[2024.03.29-02.08.43:090][555]LogViewport: Scene viewport resized to 2463x937, mode Windowed.
+[2024.03.29-02.08.43:121][556]LogViewport: Scene viewport resized to 2441x937, mode Windowed.
+[2024.03.29-02.08.43:150][557]LogViewport: Scene viewport resized to 2408x937, mode Windowed.
+[2024.03.29-02.08.43:184][558]LogViewport: Scene viewport resized to 2354x937, mode Windowed.
+[2024.03.29-02.08.43:211][559]LogViewport: Scene viewport resized to 2300x937, mode Windowed.
+[2024.03.29-02.08.43:242][560]LogViewport: Scene viewport resized to 2250x937, mode Windowed.
+[2024.03.29-02.08.43:274][561]LogViewport: Scene viewport resized to 2221x937, mode Windowed.
+[2024.03.29-02.08.43:307][562]LogViewport: Scene viewport resized to 2212x937, mode Windowed.
+[2024.03.29-02.08.43:336][563]LogViewport: Scene viewport resized to 2210x937, mode Windowed.
+[2024.03.29-02.08.43:366][564]LogViewport: Scene viewport resized to 2207x937, mode Windowed.
+[2024.03.29-02.08.43:732][599]LogViewport: Scene viewport resized to 2210x937, mode Windowed.
+[2024.03.29-02.08.43:832][601]LogViewport: Scene viewport resized to 2235x937, mode Windowed.
+[2024.03.29-02.08.43:868][602]LogViewport: Scene viewport resized to 2263x937, mode Windowed.
+[2024.03.29-02.08.43:907][603]LogViewport: Scene viewport resized to 2291x937, mode Windowed.
+[2024.03.29-02.08.43:942][604]LogViewport: Scene viewport resized to 2304x937, mode Windowed.
+[2024.03.29-02.08.43:970][605]LogViewport: Scene viewport resized to 2306x937, mode Windowed.
+[2024.03.29-02.08.43:999][606]LogViewport: Scene viewport resized to 2308x937, mode Windowed.
+[2024.03.29-02.08.47:029][802]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2024.03.29-02.08.47:029][802]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2024.03.29-02.08.47:029][802]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.BlockingVolume_23
+[2024.03.29-02.08.47:037][802]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.BlockingVolume_23
+[2024.03.29-02.08.48:872][920]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2024.03.29-02.08.48:872][920]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2024.03.29-02.08.48:875][920]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.BlockingVolume_24
+[2024.03.29-02.08.48:876][920]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/BLUEPRINTS/Maps/Sector3.Sector3:PersistentLevel.BlockingVolume_24
+[2024.03.29-02.12.01:841][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.03.29-02.12.01:855][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-02.12.01:960][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector3" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.29-02.12.02:008][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.29-02.12.02:164][213]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector3
+[2024.03.29-02.12.02:164][213]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector36E25180A47F5803673ED929E38C6D1EA.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap'
+[2024.03.29-02.12.02:175][213]LogFileHelpers: All files are already saved.
+[2024.03.29-02.12.02:175][213]LogFileHelpers: Saving map 'Sector3' took 0.216
+[2024.03.29-02.12.02:210][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 354 ms (total: 13.3 sec)
+[2024.03.29-02.12.02:216][213]AssetCheck: New page: Asset Save: Sector3
+[2024.03.29-02.12.02:216][213]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector3.Sector3
+[2024.03.29-02.13.51:414][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.03.29-02.13.51:417][456]Cmd: MAP LOAD FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.29-02.13.51:418][456]LightingResults: New page: Lighting Build
+[2024.03.29-02.13.51:419][456]LoadErrors: New page: Loading map: HUB.umap
+[2024.03.29-02.13.51:461][456]LogWorld: UWorld::CleanupWorld for Sector3, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-02.13.51:461][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-02.13.51:461][456]MapCheck: New page: Map Check
+[2024.03.29-02.13.51:461][456]LightingResults: New page: Lighting Build
+[2024.03.29-02.13.51:479][456]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.29-02.13.51:488][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.03.29-02.13.51:529][456]LogAudio: Display: Audio Device (ID: 1) registered with world 'HUB'.
+[2024.03.29-02.13.51:529][456]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-02.13.51:529][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-02.13.51:529][456]LogAIModule: Creating AISystem for world HUB
+[2024.03.29-02.13.51:591][456]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.29-02.13.51:614][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.03.29-02.13.51:624][456]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.29-02.13.51:625][456]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2024.03.29-02.13.51:625][456]LogSlate: Window 'Open Level' being destroyed
+[2024.03.29-02.14.04:997][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-02.14.05:102][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/HUB" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.29-02.14.05:150][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.03.29-02.14.05:236][361]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/HUB
+[2024.03.29-02.14.05:237][361]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUBF40C7F1147CD8E52FEB733AAAB05596B.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap'
+[2024.03.29-02.14.05:246][361]LogFileHelpers: All files are already saved.
+[2024.03.29-02.14.05:246][361]LogFileHelpers: Saving map 'HUB' took 0.145
+[2024.03.29-02.14.05:252][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 256 ms (total: 13.6 sec)
+[2024.03.29-02.14.05:255][361]AssetCheck: New page: Asset Save: HUB
+[2024.03.29-02.14.05:255][361]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/HUB.HUB
+[2024.03.29-02.14.11:291][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.29-02.14.11:294][722]Cmd: MAP LOAD FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.29-02.14.11:294][722]LightingResults: New page: Lighting Build
+[2024.03.29-02.14.11:294][722]LoadErrors: New page: Loading map: Sector3.umap
+[2024.03.29-02.14.11:335][722]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-02.14.11:335][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-02.14.11:335][722]MapCheck: New page: Map Check
+[2024.03.29-02.14.11:335][722]LightingResults: New page: Lighting Build
+[2024.03.29-02.14.11:351][722]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.29-02.14.11:357][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.29-02.14.11:416][722]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sector3'.
+[2024.03.29-02.14.11:416][722]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-02.14.11:416][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-02.14.11:417][722]LogAIModule: Creating AISystem for world Sector3
+[2024.03.29-02.14.11:526][722]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.29-02.14.11:553][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.29-02.14.11:562][722]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.29-02.14.11:562][722]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2024.03.29-02.14.11:562][722]LogSlate: Window 'Open Level' being destroyed
+[2024.03.29-02.15.41:662][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.29-02.15.41:667][937]Cmd: MAP LOAD FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.29-02.15.41:667][937]LightingResults: New page: Lighting Build
+[2024.03.29-02.15.41:667][937]LoadErrors: New page: Loading map: HUB.umap
+[2024.03.29-02.15.41:707][937]LogWorld: UWorld::CleanupWorld for Sector3, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-02.15.41:707][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-02.15.41:708][937]MapCheck: New page: Map Check
+[2024.03.29-02.15.41:708][937]LightingResults: New page: Lighting Build
+[2024.03.29-02.15.41:726][937]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.29-02.15.41:733][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.03.29-02.15.41:774][937]LogAudio: Display: Audio Device (ID: 1) registered with world 'HUB'.
+[2024.03.29-02.15.41:774][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-02.15.41:774][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-02.15.41:775][937]LogAIModule: Creating AISystem for world HUB
+[2024.03.29-02.15.41:832][937]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.29-02.15.41:853][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.03.29-02.15.41:861][937]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.29-02.15.41:861][937]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2024.03.29-02.15.41:862][937]LogSlate: Window 'Open Level' being destroyed
+[2024.03.29-02.15.51:706][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.29-02.27.01:475][515]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.224 and deleted 59 files with total size 4 MiB and 51 empty folders. Scanned 18770 files in 21014 folders with total size 1703 MiB.
+[2024.03.29-03.27.01:483][462]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.232 and deleted 8 files with total size 0 MiB and 17 empty folders. Scanned 18711 files in 20963 folders with total size 1699 MiB.
+[2024.03.29-04.27.00:556][257]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.305 and deleted 4 files with total size 0 MiB and 6 empty folders. Scanned 18703 files in 20946 folders with total size 1699 MiB.
+[2024.03.29-05.27.01:496][ 58]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.245 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 18699 files in 20940 folders with total size 1698 MiB.
+[2024.03.29-06.27.00:502][854]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.250 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18699 files in 20939 folders with total size 1698 MiB.
+[2024.03.29-07.27.01:432][655]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.179 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18699 files in 20939 folders with total size 1698 MiB.
+[2024.03.29-08.27.00:503][450]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.250 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18699 files in 20939 folders with total size 1698 MiB.
+[2024.03.29-09.27.01:359][251]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.105 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18699 files in 20939 folders with total size 1698 MiB.
+[2024.03.29-10.27.01:466][ 50]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.210 and deleted 4 files with total size 0 MiB and 4 empty folders. Scanned 18699 files in 20939 folders with total size 1698 MiB.
+[2024.03.29-11.27.00:611][845]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.354 and deleted 0 files with total size 0 MiB and 2 empty folders. Scanned 18695 files in 20935 folders with total size 1698 MiB.
+[2024.03.29-12.27.01:500][646]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.242 and deleted 13 files with total size 0 MiB and 13 empty folders. Scanned 18695 files in 20933 folders with total size 1698 MiB.
+[2024.03.29-13.27.00:555][442]LogDerivedDataCache: C:/Users/devat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.296 and deleted 0 files with total size 0 MiB and 2 empty folders. Scanned 18682 files in 20920 folders with total size 1698 MiB.
