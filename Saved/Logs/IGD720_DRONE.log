@@ -7315,3 +7315,224 @@ AI_BaseWalking5
 [2024.03.30-18.48.48:820][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 364 ms (total: 11.0 sec)
 [2024.03.30-18.48.48:826][ 96]AssetCheck: New page: Asset Save: Sector2
 [2024.03.30-18.48.48:826][ 96]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector2.Sector2
+[2024.03.30-18.52.19:292][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.30-18.52.19:297][400]Cmd: MAP LOAD FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.30-18.52.19:298][400]LightingResults: New page: Lighting Build
+[2024.03.30-18.52.19:298][400]LoadErrors: New page: Loading map: HUB.umap
+[2024.03.30-18.52.19:345][400]LogWorld: UWorld::CleanupWorld for Sector2, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-18.52.19:345][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.52.19:345][400]MapCheck: New page: Map Check
+[2024.03.30-18.52.19:345][400]LightingResults: New page: Lighting Build
+[2024.03.30-18.52.19:361][400]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-18.52.19:374][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.03.30-18.52.19:420][400]LogAudio: Display: Audio Device (ID: 1) registered with world 'HUB'.
+[2024.03.30-18.52.19:421][400]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.52.19:421][400]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-18.52.19:421][400]LogAIModule: Creating AISystem for world HUB
+[2024.03.30-18.52.19:482][400]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.30-18.52.19:506][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.03.30-18.52.19:514][400]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.30-18.52.19:514][400]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2024.03.30-18.52.19:514][400]LogSlate: Window 'Open Level' being destroyed
+[2024.03.30-18.52.21:144][499]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 467287
+[2024.03.30-18.52.21:155][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.52.21:197][500]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.03.30-18.52.21:202][500]LogSlate: Took 0.000730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.03.30-18.52.21:205][500]LogSlate: Took 0.000638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.30-18.52.21:207][500]LogSlate: Took 0.000423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.03.30-18.52.21:207][500]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.03.30-18.52.53:832][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.30-18.52.53:839][ 95]Cmd: MAP LOAD FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.30-18.52.53:840][ 95]LightingResults: New page: Lighting Build
+[2024.03.30-18.52.53:840][ 95]LoadErrors: New page: Loading map: Sector2.umap
+[2024.03.30-18.52.53:881][ 95]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-18.52.53:882][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.52.53:882][ 95]MapCheck: New page: Map Check
+[2024.03.30-18.52.53:882][ 95]LightingResults: New page: Lighting Build
+[2024.03.30-18.52.53:897][ 95]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-18.52.53:904][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.03.30-18.52.54:090][ 95]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sector2'.
+[2024.03.30-18.52.54:090][ 95]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.52.54:090][ 95]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-18.52.54:090][ 95]LogAIModule: Creating AISystem for world Sector2
+[2024.03.30-18.52.54:222][ 95]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.30-18.52.54:255][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.03.30-18.52.54:263][ 95]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.30-18.52.54:264][ 95]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.165ms to complete.
+[2024.03.30-18.52.54:264][ 95]LogSlate: Window 'Open Level' being destroyed
+[2024.03.30-18.54.22:530][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.30-18.54.22:535][509]Cmd: MAP LOAD FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.30-18.54.22:536][509]LightingResults: New page: Lighting Build
+[2024.03.30-18.54.22:536][509]LoadErrors: New page: Loading map: HUB.umap
+[2024.03.30-18.54.22:574][509]LogWorld: UWorld::CleanupWorld for Sector2, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-18.54.22:575][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.54.22:575][509]MapCheck: New page: Map Check
+[2024.03.30-18.54.22:575][509]LightingResults: New page: Lighting Build
+[2024.03.30-18.54.22:594][509]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-18.54.22:602][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.03.30-18.54.22:645][509]LogAudio: Display: Audio Device (ID: 1) registered with world 'HUB'.
+[2024.03.30-18.54.22:645][509]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.54.22:645][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-18.54.22:645][509]LogAIModule: Creating AISystem for world HUB
+[2024.03.30-18.54.22:702][509]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.30-18.54.22:726][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.03.30-18.54.22:733][509]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.30-18.54.22:733][509]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2024.03.30-18.54.22:734][509]LogSlate: Window 'Open Level' being destroyed
+[2024.03.30-18.54.37:507][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-18.54.37:646][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/HUB" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.30-18.54.37:696][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.03.30-18.54.37:780][576]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/HUB
+[2024.03.30-18.54.37:780][576]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/HUBDEC65B0D4D170EAC19C739AEE19AFAC2.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap'
+[2024.03.30-18.54.37:790][576]LogFileHelpers: All files are already saved.
+[2024.03.30-18.54.37:790][576]LogFileHelpers: Saving map 'HUB' took 0.146
+[2024.03.30-18.54.37:798][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 290 ms (total: 11.3 sec)
+[2024.03.30-18.54.37:802][576]AssetCheck: New page: Asset Save: HUB
+[2024.03.30-18.54.37:802][576]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/HUB.HUB
+[2024.03.30-18.54.40:255][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.03.30-18.57.32:808][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.30-18.57.32:810][587]Cmd: MAP LOAD FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.30-18.57.32:811][587]LightingResults: New page: Lighting Build
+[2024.03.30-18.57.32:811][587]LoadErrors: New page: Loading map: Sector2.umap
+[2024.03.30-18.57.32:848][587]LogWorld: UWorld::CleanupWorld for HUB, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-18.57.32:849][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.57.32:849][587]MapCheck: New page: Map Check
+[2024.03.30-18.57.32:849][587]LightingResults: New page: Lighting Build
+[2024.03.30-18.57.32:865][587]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-18.57.32:870][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.03.30-18.57.33:039][587]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sector2'.
+[2024.03.30-18.57.33:039][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.57.33:039][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-18.57.33:040][587]LogAIModule: Creating AISystem for world Sector2
+[2024.03.30-18.57.33:164][587]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.30-18.57.33:195][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.03.30-18.57.33:204][587]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.30-18.57.33:204][587]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
+[2024.03.30-18.57.33:204][587]LogSlate: Window 'Open Level' being destroyed
+[2024.03.30-18.58.37:882][212]LogEditor: Attempting to add actor of class 'NavLinkProxy' to level at 6539.66,-1113.11,-441.48
+[2024.03.30-18.58.40:942][542]LogEditor: Attempting to add actor of class 'NavLinkProxy' to level at 6862.67,-1222.53,-776.68
+[2024.03.30-18.59.01:257][ 41]LogEditor: Attempting to add actor of class 'NavLinkProxy' to level at 6559.45,-1097.23,-598.37
+[2024.03.30-18.59.04:787][360]LogEditor: Attempting to add actor of class 'NavLinkProxy' to level at 6893.04,-552.26,-782.32
+[2024.03.30-18.59.40:111][879]LogEditor: Attempting to add actor of class 'NavLinkProxy' to level at 7993.79,-376.58,-595.87
+[2024.03.30-18.59.42:819][107]LogEditor: Attempting to add actor of class 'NavLinkProxy' to level at 7201.57,-64.05,-782.32
+[2024.03.30-19.00.03:269][531]LogEditor: Attempting to add actor of class 'NavLinkProxy' to level at 7644.95,-567.60,-826.71
+[2024.03.30-19.00.05:471][688]LogEditor: Attempting to add actor of class 'NavLinkProxy' to level at 6699.45,293.21,-782.32
+[2024.03.30-19.00.24:122][981]LogEditor: Attempting to add actor of class 'NavLinkProxy' to level at 7796.95,-341.43,-780.39
+[2024.03.30-19.00.26:336][152]LogEditor: Attempting to add actor of class 'NavLinkProxy' to level at 6766.05,879.15,-782.32
+[2024.03.30-19.01.10:597][866]MapCheck: New page: Map Check
+[2024.03.30-19.01.10:622][866]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.30-19.01.10:623][866]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.03.30-19.01.10:623][866]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2024.03.30-19.01.10:623][866]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.30-19.01.10:725][866]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.10s
+[2024.03.30-19.01.10:725][866]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.10s
+[2024.03.30-19.01.10:725][866]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.03.30-19.01.10:725][866]MapCheck: New page: Sector2 - 30 Mar 2024, 19:01:10
+[2024.03.30-19.01.10:729][866]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.145ms to complete.
+[2024.03.30-19.01.10:729][866]LogEditorBuildUtils: Build time 0:00
+[2024.03.30-19.01.15:289][195]MapCheck: New page: Map Check
+[2024.03.30-19.01.15:329][195]Cmd: MAP REBUILD ALLVISIBLE
+[2024.03.30-19.01.15:330][195]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.03.30-19.01.15:735][195]LogWorld: UWorld::CleanupWorld for Sector2, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-19.01.15:738][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-19.01.15:739][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-19.01.15:739][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-19.01.15:874][195]LogShaderCompilers: Display: ================================================
+[2024.03.30-19.01.15:874][195]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.30-19.01.15:874][195]LogShaderCompilers: Display: Total job queries 72, among them cache hits 30 (41.67%)
+[2024.03.30-19.01.15:874][195]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 34 distinct outputs (80.95%)
+[2024.03.30-19.01.15:874][195]LogShaderCompilers: Display: RAM used: 1.26 MiB of 1.60 GiB budget. Usage: 0.08%
+[2024.03.30-19.01.15:874][195]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.30-19.01.15:874][195]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.03.30-19.01.15:874][195]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.03.30-19.01.15:874][195]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.03.30-19.01.15:874][195]LogShaderCompilers: Display: ================================================
+[2024.03.30-19.01.15:883][195]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.03.30-19.01.15:883][195]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2024.03.30-19.01.15:904][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.03.30-19.01.15:972][195]LogLevel: Display: Export Material TexCoord Scales took 0.059 seconds.
+[2024.03.30-19.01.15:981][195]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2024.03.30-19.01.15:997][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.30-19.01.16:002][195]LightingResults: New page: Lighting Build - 30 Mar 2024, 19:01:16
+[2024.03.30-19.01.16:011][195]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.03.30-19.01.16:019][195]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.03.30-19.01.16:019][195]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.03.30-19.01.16:019][195]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.03.30-19.01.16:019][195]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12004
+[2024.03.30-19.01.21:391][195]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.03.30-19.01.21:391][195]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.03.30-19.01.21:391][195]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.03.30-19.01.21:391][195]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.03.30-19.01.21:391][195]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.03.30-19.01.21:490][195]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.03.30-19.01.21:491][195]MapCheck: New page: Sector2 - 30 Mar 2024, 19:01:21
+[2024.03.30-19.01.21:493][195]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.36ms to complete.
+[2024.03.30-19.01.21:493][195]LogEditorBuildUtils: Build time 0:06
+[2024.03.30-19.01.22:324][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.03.30-19.01.33:712][728]LightingResults: Warning: SmallStraightCenterLight Object has overlapping UVs.
+[2024.03.30-19.01.33:712][728]LightingResults: SmallStraightCenterLight Lightmap UV are overlapping by 2.0%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.30-19.01.33:798][732]LightingResults: Warning: SmallStraightCenterLight Object has overlapping UVs.
+[2024.03.30-19.01.33:798][732]LightingResults: SmallStraightCenterLight Lightmap UV are overlapping by 2.0%. Please adjust content - Enable Error Coloring to visualize.
+[2024.03.30-19.01.35:972][839]Job is a success!
+[2024.03.30-19.01.36:469][841]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.051s
+[2024.03.30-19.01.36:469][841]LogVolumetricLightmapImport:      Indirection Texture 32x16x16 = 0.0Mb
+[2024.03.30-19.01.36:469][841]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 2.2Mb due to 0.010000 MinBrickError)
+[2024.03.30-19.01.36:469][841]LogVolumetricLightmapImport:      Bricks at depth
+[2024.03.30-19.01.36:469][841]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2024.03.30-19.01.36:469][841]LogVolumetricLightmapImport:          1: 39.6% covering 31.2% of volume
+[2024.03.30-19.01.36:469][841]LogVolumetricLightmapImport:          2: 58.4% covering 0.7% of volume
+[2024.03.30-19.01.36:469][841]LogVolumetricLightmapImport:      Bricks in each level
+[2024.03.30-19.01.36:469][841]LogVolumetricLightmapImport:          Sector2 			 101 bricks 	 100.0% (Persistent Level)
+[2024.03.30-19.01.36:843][841]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.03.30-19.01.36:856][841]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.03.30-19.01.36:869][841]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.03.30-19.01.36:884][841]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.03.30-19.01.36:898][841]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.03.30-19.01.36:910][841]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.03.30-19.01.36:919][841]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData:HQ_Lightmap0_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.03.30-19.01.36:931][841]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData:LQ_Lightmap_0_4 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.03.30-19.01.36:941][841]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData:HQ_Lightmap0_5 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.03.30-19.01.36:965][841]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData:LQ_Lightmap_0_5 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.03.30-19.01.36:985][841]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData:HQ_Lightmap0_6 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.03.30-19.01.37:009][841]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData:LQ_Lightmap_0_6 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.03.30-19.01.37:027][841]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData:HQ_Lightmap1_7 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.479041 MB), EncodeSpeed: Fast
+[2024.03.30-19.01.37:032][841]LogTexture: Display: Building textures: /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData:LQ_Lightmap_1_7 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 7.604136 MB), EncodeSpeed: Fast
+[2024.03.30-19.01.37:049][841]Lightmass on DEVATOX: 14.1 sec total, 299 ms importing, 108 ms setup, 2.80 sec photons, 10.9 sec processing, 0 us extra exporting [839/839 mappings]. Threads: 2:00 min total, 1:16 min processing.
+[2024.03.30-19.01.37:147][841]LogStaticLightingSystem: Sector2_BuiltData storing lightmap data for 296 meshes in 13 LightmapResourceClusters (22.8 Meshes per cluster).
+[2024.03.30-19.01.37:188][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.03.30-19.01.37:292][841]LogStaticLightingSystem: Illumination: 21.2 sec (271 ms encoding lightmaps, 14 us encoding shadowmaps)
+[2024.03.30-19.01.37:292][841]LogStaticLightingSystem: Lightmap texture memory:  12.6 MB (10.5 MB streaming, 2.1 MB non-streaming), 26 textures
+[2024.03.30-19.01.37:292][841]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2024.03.30-19.01.43:407][841]DumpUnbuiltLightIteractions
+[2024.03.30-19.01.43:407][841]Lights with unbuilt interactions: 0
+[2024.03.30-19.01.43:407][841]
+[2024.03.30-19.01.43:407][841]Primitives with unbuilt interactions: 0
+[2024.03.30-19.01.43:434][842]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.03.30-19.01.43:435][842]MapCheck: New page: Sector2 - 30 Mar 2024, 19:01:43
+[2024.03.30-19.01.43:437][842]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.547ms to complete.
+[2024.03.30-19.01.49:019][223]LogSlate: Window 'Message Log' being destroyed
+[2024.03.30-19.01.49:026][223]LogSlate: Window 'Message Log' being destroyed
+[2024.03.30-19.01.53:502][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.30-19.01.53:507][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-19.01.53:616][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector2" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.30-19.01.53:663][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.30-19.01.53:867][523]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector2
+[2024.03.30-19.01.53:868][523]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector2FCB647F041259E036C436F8324972A2D.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector2.umap'
+[2024.03.30-19.01.53:879][523]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/BLUEPRINTS/Maps/Sector2_BuiltData
+[2024.03.30-19.01.53:879][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-19.01.53:879][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector2_BuiltData" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector2_BuiltData.uasset" SILENT=true
+[2024.03.30-19.01.53:966][523]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector2_BuiltData
+[2024.03.30-19.01.53:967][523]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector2_BuiltData470CB1DC42CC586000AF05911BDC25A5.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector2_BuiltData.uasset'
+[2024.03.30-19.01.53:968][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 11.4 sec)
+[2024.03.30-19.01.53:968][523]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/BLUEPRINTS/Maps/Sector2_BuiltData
+[2024.03.30-19.01.53:968][523]LogFileHelpers: Saving map 'Sector2' took 0.353
+[2024.03.30-19.01.53:968][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/Maps/Sector2_BuiltData" FILE="../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector2_BuiltData.uasset" SILENT=true
+[2024.03.30-19.01.54:056][523]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/Maps/Sector2_BuiltData
+[2024.03.30-19.01.54:057][523]LogSavePackage: Moving '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Saved/Sector2_BuiltData7DAA27D0413DF2BBD0D71BBA61F59B48.tmp' to '../../../../../../FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector2_BuiltData.uasset'
+[2024.03.30-19.01.54:064][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 557 ms (total: 11.9 sec)
+[2024.03.30-19.01.54:070][523]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.30-19.01.54:070][523]LogContentValidation: Display: Validating /Script/Engine.World /Game/BLUEPRINTS/Maps/Sector2.Sector2
+[2024.03.30-19.01.54:070][523]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/BLUEPRINTS/Maps/Sector2_BuiltData.Sector2_BuiltData
+[2024.03.30-19.02.33:961][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
