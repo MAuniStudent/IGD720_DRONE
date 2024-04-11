@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\FALMOUTH\\Module2\\IGD720_DRONE\\Intermediate\\Source\\IGD720_DRONE.Build.cs",
+		"D:\\FALMOUTH\\Module2\\IGD720_DRONE\\Intermediate\\Source\\IGD720_DRONE.Target.cs",
+		"D:\\FALMOUTH\\Module2\\IGD720_DRONE\\Intermediate\\Source\\IGD720_DRONEClient.Target.cs",
+		"D:\\FALMOUTH\\Module2\\IGD720_DRONE\\Intermediate\\Source\\IGD720_DRONEEditor.Target.cs",
+		"D:\\FALMOUTH\\Module2\\IGD720_DRONE\\Intermediate\\Source\\IGD720_DRONEServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

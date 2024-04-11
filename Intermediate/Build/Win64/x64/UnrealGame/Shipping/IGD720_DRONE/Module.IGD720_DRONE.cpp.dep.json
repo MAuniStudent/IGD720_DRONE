@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\falmouth\\module2\\igd720_drone\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\igd720_drone\\module.igd720_drone.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\falmouth\\module2\\igd720_drone\\intermediate\\build\\win64\\x64\\igd720_drone\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "d:\\falmouth\\module2\\igd720_drone\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\igd720_drone\\definitions.igd720_drone.h",
+            "d:\\falmouth\\module2\\igd720_drone\\intermediate\\source\\igd720_drone.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

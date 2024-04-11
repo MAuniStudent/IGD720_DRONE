@@ -1,0 +1,2920 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "71633D0081574515A08C3F540EB9CC87CCAD6A2F",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_Hex_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "59AD470090D49B35F34484FCE2F703027F6CFF51",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "909B9E00524CE9B24FDBA1C7333D082A99D2A55E",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Big"
+			]
+		},
+		{
+			"ShaderMapHash": "387CA001DFB814A9407EB6075B0964C470EDDA6B",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Supernova"
+			]
+		},
+		{
+			"ShaderMapHash": "FAD71902555E7D734B8989D6A4575080823F95A0",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe"
+			]
+		},
+		{
+			"ShaderMapHash": "80A2B5029BC6FA41DA02E60DA54D3CA06709F113",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Rayvfx/Materials/M_Master_Fresnel_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "CFDCF902CB1EAFB4C8F49CB52E1C1F161E001776",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "7142840353F82C40131EA6F4108FD2A072D4D6C0",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "D2BC7304E19C92A116A21E6CBBD2D54C88B35EFF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "22B0DD050B9BD648B5F0D46E2B1EE493A98EE50B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "2E8F240635EA368D7C93EEB9FCC0A362E56B2E1F",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement2"
+			]
+		},
+		{
+			"ShaderMapHash": "9E5FD4068601D6BF67C8D455C6D11366F114CD2E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "9742D80682D1D5F3F8E7C1584648E0EA0A82F0FF",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Nebula",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Nebula1"
+			]
+		},
+		{
+			"ShaderMapHash": "03FE67081A68298D778D459BD8AC8F9CF51D30FC",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Algiz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Ansuz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Berkana_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Dagaz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Ehwaz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Eihwaz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Fehu_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Gebo_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Hagalaz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Inguz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Isa_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Jera_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Kaunan_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Laguz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Mannaz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Nauthis_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Othila_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Pertho_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Raido_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Sowulo_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Teiwaz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Thurisaz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Uruz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Wunjo_Offset"
+			]
+		},
+		{
+			"ShaderMapHash": "5AA76E08E038B4D27691F7F2B12926E65E764B31",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_PickupSet_1/Materials/M_sA_Aura",
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_PickupSet_1/Materials/MI_Aura_1",
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Rayvfx/Materials/M_sA_Aura"
+			]
+		},
+		{
+			"ShaderMapHash": "7538DE08C5413ACC3AD43A817A39993BE468C2DB",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Var1"
+			]
+		},
+		{
+			"ShaderMapHash": "B2590709EA228CB0A494CD90487D5B1CF7259C84",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Statue"
+			]
+		},
+		{
+			"ShaderMapHash": "425768098FE1DA0585281B79CB824508ED820F52",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement"
+			]
+		},
+		{
+			"ShaderMapHash": "A32BD20AC0C476F12FEB2CBCD218975A25118BD8",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Big",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement2"
+			]
+		},
+		{
+			"ShaderMapHash": "39CF800B84409DC5AEFAE52811E7D2B055DD1EDF",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/MY_FX/M_RedCharacterOverlay"
+			]
+		},
+		{
+			"ShaderMapHash": "94FF470C40F1A55704D934889898350A7834207C",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_BlackHoleMiniature"
+			]
+		},
+		{
+			"ShaderMapHash": "49726C0DB9E97DC9BEBE269FD30410989E7C3E96",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Aquarius",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Aries",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Big_Dipper",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cancer",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Capricorn",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Gemini",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Libra",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Lion",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Orion",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Pisces",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Sagittarius",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Scorpio",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Taurus"
+			]
+		},
+		{
+			"ShaderMapHash": "C960E90D338F77F45A119F5AD2C01E3601F1D333",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Globular_Cluster"
+			]
+		},
+		{
+			"ShaderMapHash": "FFB4AF0E2A9D6DAF2664B6BE9775FFA36E3DC70A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_ABScrollNiagara",
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Rayvfx/Materials/M_ABScrollNiagara"
+			]
+		},
+		{
+			"ShaderMapHash": "C45C270FC3F748AFCA52355A499616D647619BB0",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Big",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe"
+			]
+		},
+		{
+			"ShaderMapHash": "F188770FB5BA1CF554A4A80E2DE2446B68AF37C1",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Big",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe"
+			]
+		},
+		{
+			"ShaderMapHash": "4C7C790F6C7946037EE51A5A0BF1F7F4B7AE51A8",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F76A830FF407BDA41238302AFDB976A630849F5D",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/MY_FX/M_CharacterOverlay"
+			]
+		},
+		{
+			"ShaderMapHash": "8433A00FAFAB8F2C1A595F078F178CF7E5304564",
+			"Assets": [
+				"/Game/BLUEPRINTS/UI/Assets/INTEL_Icon_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "740906101A6FADF71754BCAF0E0A831106816B97",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "2E774F10DB8FCBFD5C932D087FAEF2C68EFD8FC9",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0CBA1E11538F0617658F2D3F395F9E3BEF557F71",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "BF0695117897703214A215E0D0AE3263DF255C9C",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_StarTrackFast"
+			]
+		},
+		{
+			"ShaderMapHash": "15151E130815977E5FE6F055AB2759B32A610047",
+			"Assets": [
+				"/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/M_Projectile"
+			]
+		},
+		{
+			"ShaderMapHash": "78427714FEDE0AEBE2AA2729BD14695EDE3D0158",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/MY_FX/M_YellowCharacterOverlay"
+			]
+		},
+		{
+			"ShaderMapHash": "F41020167194BC7D7FF4809CE6A45F62FFA78E08",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "1D2E54161B2B1F335CBEE56CBD033F03A6A15F2B",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_HologramCylindrBig"
+			]
+		},
+		{
+			"ShaderMapHash": "5BBB5E185F70ED3AB45B0B2CBD90B5B0FFF1276C",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Relativistic_Jet"
+			]
+		},
+		{
+			"ShaderMapHash": "FFB29C182EE1168E723DE9245C32644A98586335",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Big",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe"
+			]
+		},
+		{
+			"ShaderMapHash": "70BFE0181157AFD44D54C1A1CEAE91DD7B2D3276",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Globular_Cluster"
+			]
+		},
+		{
+			"ShaderMapHash": "B99324194051F2FBF358EAFD4063CFF8E6478CFC",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Oak"
+			]
+		},
+		{
+			"ShaderMapHash": "7C0C821A40528D2FD1A69A57E84885A86D56B072",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "4E4BAC1B474B717D58FF22554FDE04978B5B60EC",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7C4DCA1B7A59E782323B7C5B368F737A40A17E83",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Big",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe"
+			]
+		},
+		{
+			"ShaderMapHash": "AC8E891C45993703B6B71C3BB5A9B031623124C7",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "5C8DAC1CA78431CA6333B5450596BC44424E6ABF",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_CylindrDecor"
+			]
+		},
+		{
+			"ShaderMapHash": "BDBDE11CAEF640CD3C558C226B765668232F1F5E",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "E05D341DA8C9AD4380D247586380136B558BB7F3",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_StatueGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "E0B9CB1D4D960E6CE74E25EF6CD6DCC8A2D4808F",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
+			]
+		},
+		{
+			"ShaderMapHash": "FAC2CC1D5893280137F253A5F6CDA83A64F037BA",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8A0AE51D075F1E50F64C9FEB0EC44D3B13710D84",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "C9F3ED1DD430C230190A6B81C856F92E9FC9E807",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_A",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_B",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_C",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_D",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_E",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_F",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_G",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_H",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_I",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_J",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_K",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_L",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_M",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_N",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_O",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_P",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_Q",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_R",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_S",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_T",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_U",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_V",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_W",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_X",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_Y",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_Z"
+			]
+		},
+		{
+			"ShaderMapHash": "B6DE0C1E0092B45604715BBD7DA061938635FF48",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Space"
+			]
+		},
+		{
+			"ShaderMapHash": "2B78221E515B492113E079E8DAD66198DB7FA56D",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_Brushed_Nickel",
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "20A9C91E1E448D544BAB8833E90E4F9126979A1C",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Constelation_Ring"
+			]
+		},
+		{
+			"ShaderMapHash": "EFD6D71E5DD3EA0096A5A415B0671A9EEDDF92A5",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Constelation_Ring"
+			]
+		},
+		{
+			"ShaderMapHash": "D03D4B1F56BFC7D9D2C142D31593B7CE6FD82AEE",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_GlowFive",
+				"/Game/BLUEPRINTS/Materials/M_GlowFour",
+				"/Game/BLUEPRINTS/Materials/M_GlowTwo"
+			]
+		},
+		{
+			"ShaderMapHash": "A722B51F07D01C58468AB509667B8B57323B7A98",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DEF56220C7BD375B4FDAB75A7F6EDB6140CF8EB9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8EF7432262121E8454796FC2E7A27749851C2451",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "B7F17423B903CB354970F4AAF30E897BCC0FBBF7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
+			]
+		},
+		{
+			"ShaderMapHash": "B139EB25AA917057CD08389321E479BE1F90C8C4",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/MY_FX/PlayerTrails"
+			]
+		},
+		{
+			"ShaderMapHash": "4F5B8726E466FAAC4BFCFD0DCE881269BED07323",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_BlackHoleMiniature"
+			]
+		},
+		{
+			"ShaderMapHash": "4D875A2759C02D2CAE7FDD88B7D00A7353B4C89C",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "E80A0D28D0F5E94DEA691B8EF28E2821DD3B72A0",
+			"Assets": [
+				"/Engine/EditorResources/FieldNodes/_Resources/M_FieldRadiusPreview"
+			]
+		},
+		{
+			"ShaderMapHash": "7BBF3E282B0EC1A1D8E01B6713F3D3E8564A64FC",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement"
+			]
+		},
+		{
+			"ShaderMapHash": "771D6728A2485C01AA16C31891D9D71895E911EE",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_FloorOne"
+			]
+		},
+		{
+			"ShaderMapHash": "0F8E3929E92B1D981FA8CE875ACFAEA6EB1FBE4B",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_OldPortal"
+			]
+		},
+		{
+			"ShaderMapHash": "315B4E29F830FBCAC45BCA9F05A8C1E7F0BBDF27",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement"
+			]
+		},
+		{
+			"ShaderMapHash": "4FAB4A2AD4DE123F6916571FE3C788A4272E1DB6",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Tracer_A"
+			]
+		},
+		{
+			"ShaderMapHash": "BF026C2A3C8CAA36903BD181336F6E590166CEC9",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_BlackHoleMiniature"
+			]
+		},
+		{
+			"ShaderMapHash": "8F0DCB2A7CE346FC0CF04FA7AA3AAB468AEA5FA1",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "BE81EF2A22D95B4BB48FF88C308CF19097BB5E6A",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "02952A2B245F77FEE86A5472B1E5BDCBEC365479",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "92A9202CC49ABF1081EA95A388FF428ABD74E250",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_New"
+			]
+		},
+		{
+			"ShaderMapHash": "113A8C2C95DA61981944B1D75F1E97BEA2B14979",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Space"
+			]
+		},
+		{
+			"ShaderMapHash": "5966682D34B010172E0D5EB473F0F88CA27FA829",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Bush"
+			]
+		},
+		{
+			"ShaderMapHash": "FF837D2EFAB4CD3F0D288968EDFD9A4879FD72D8",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Globular_Cluster"
+			]
+		},
+		{
+			"ShaderMapHash": "4B719430D40D084780AEB892E12935E389C4CCAD",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_CylindrDecor",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_HologramCylinder"
+			]
+		},
+		{
+			"ShaderMapHash": "6D65B030484FE287CB08269D34C59297E82A925B",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "05DBC530719BFEE2B021D1A6919E54111F70A016",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Big"
+			]
+		},
+		{
+			"ShaderMapHash": "825DD5306C730CB0E47715B8BCEDFEAA166809FF",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_HologramCylindrBig"
+			]
+		},
+		{
+			"ShaderMapHash": "1EE222324EC6EC8D31778393A2B284A93DE4BF8F",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsMovement2"
+			]
+		},
+		{
+			"ShaderMapHash": "256C8E32413DB1156FA98705DFCFD19CB50F8B4F",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "086107332172A6F7DC3BD8E3038D9C20AD0273FC",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement2"
+			]
+		},
+		{
+			"ShaderMapHash": "3F1519336AC696440DD9063E679E6EF061A6ED15",
+			"Assets": [
+				"/Game/BLUEPRINTS/DRONE_AI/AI_InfantryLogic/SciFiSoldier02/Demo/Materials/M_Background"
+			]
+		},
+		{
+			"ShaderMapHash": "FCE85F33CB5D23A0044C7F44EDA03BBC8E1CA022",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "596A1934E2A3AE76821E85F6EAD59C39105813C1",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Lake"
+			]
+		},
+		{
+			"ShaderMapHash": "F57BCA36A12953F1D4FED02EE570DBC9FB63AA0A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
+			]
+		},
+		{
+			"ShaderMapHash": "295E27370D68D6F64A9BFEC63B855D2678657E1D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "E16C5D378A44D031BFBAAB8D26CDC8D5A2E2126D",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/Weapons/Materials/M_SniperRifle_Inst",
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/Weapons/Materials/M_WeaponMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "E8EA7F38EC240E8309520F6E458EF214C7586BE8",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_ParticlesCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "A2DCA1389DDE57B29CC8C02C3E92F265C9292ED0",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "97F5593916AF78AB84098DCDF947E941BAC0FCAB",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsMovement2"
+			]
+		},
+		{
+			"ShaderMapHash": "A028C83B4E40AA14165DFB6B980C709DB155AEDE",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Big"
+			]
+		},
+		{
+			"ShaderMapHash": "2F39413C25CA3E3B01D755056D33236356E540DB",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_0_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_1_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_2_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_3_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_4_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_5_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_6_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_7_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_8_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_9_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Ampersand_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Cent_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Commercial_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Dollar_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Exclamation_Mark_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Hash_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Percent_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Pound_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Star_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Yen_Offset",
+				"/Game/BLUEPRINTS/FX/MY_FX/NS_Star"
+			]
+		},
+		{
+			"ShaderMapHash": "59BB4C3D7B10FEC123D53D902879A89DC57A7B3D",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_04",
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
+			]
+		},
+		{
+			"ShaderMapHash": "623EC03E7CD94BEBCB7ED451ED1411A4E5086451",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Portal_2"
+			]
+		},
+		{
+			"ShaderMapHash": "B27AD73F10A58BD3A2939464F94B1CA13E9310A4",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Relativistic_Jet"
+			]
+		},
+		{
+			"ShaderMapHash": "969E7340D7555AF9E9AB56AEDBFFB9A1FC6412AB",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Rayvfx/Materials/M_Master_Solid_Panner"
+			]
+		},
+		{
+			"ShaderMapHash": "12855E41D99A6640A76824F0306FF9DACBEEFCA6",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_CityHologrammCombine"
+			]
+		},
+		{
+			"ShaderMapHash": "59CCA04155CD934DF2B1F931EAE6528878E4F51D",
+			"Assets": [
+				"/Engine/EditorResources/FieldNodes/_Resources/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "4174C34247CC99A9CFDD209F24C320627937C68A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVar4"
+			]
+		},
+		{
+			"ShaderMapHash": "63792F447E9A162E5BF5A2D93DEFF75E11D85116",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_BlackHoleMiniature"
+			]
+		},
+		{
+			"ShaderMapHash": "C86F7C44B386018412F7827E213D76EB64473453",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_03",
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "BE6E9D44183946D8D0C01D0FC8A4DCB88359D75C",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_HologramCylinderRed"
+			]
+		},
+		{
+			"ShaderMapHash": "EFD6D64425C2D4962AEC3B0F8AD6B12BBB12AA68",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Panel"
+			]
+		},
+		{
+			"ShaderMapHash": "AAA40B4582B3F3D5094AA378B55535CA70704D0C",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Explosion_8x8_A_01"
+			]
+		},
+		{
+			"ShaderMapHash": "EE2EA0467A9F6AB9248F3161B8DE9A26B36E7C0E",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_MeteorRain",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_MeteorRainHeavy"
+			]
+		},
+		{
+			"ShaderMapHash": "6AADD3461EBE81F44B4D9DDE3F543788156594CE",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Knife_RibbonTrail_01"
+			]
+		},
+		{
+			"ShaderMapHash": "08147647FD92AB4A5378B343BE3829AAD4F2A7A9",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "54459E47C7A916E5712E6D5215E7275DBA6C2DF6",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "9C8EC447B8F0ABFC783A30C5E81742A6F21D9A66",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "93D566488481A1B417F3A6E232B885DD44F3B380",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_AssaultRifle_MuzzleFlash_4x1"
+			]
+		},
+		{
+			"ShaderMapHash": "BF3B0549E2E6F23F2B2F8D7ABEF59DEB4D94C598",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Ampersand_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Cent_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Commercial_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Dollar_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Exclamation_Mark_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Hash_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Percent_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Star_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Yen_Offset",
+				"/Game/BLUEPRINTS/FX/MY_FX/NS_Star"
+			]
+		},
+		{
+			"ShaderMapHash": "723D524ADE4C9A9B4B4E99371FC40C8D010293B5",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8A6F374BC134288FE6CBCC176AD631778BF34C9A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Relativistic_Jet"
+			]
+		},
+		{
+			"ShaderMapHash": "DECA544BD18D79692A1B57E44E66B0509B864CB9",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Sun"
+			]
+		},
+		{
+			"ShaderMapHash": "0B8A744B322D0854441DD41D577664191D635FB9",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Big",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement2"
+			]
+		},
+		{
+			"ShaderMapHash": "32230F4C80F28A5C9E5F2D8F0C435EB6D62861DB",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
+			]
+		},
+		{
+			"ShaderMapHash": "A6992A4FE907D8AAB3CAB953EC0284DFE97A291D",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "CA4A7F4F4BE8C507B366AE80EE8693612EFEB5A3",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_Brain"
+			]
+		},
+		{
+			"ShaderMapHash": "BF24954F14215BD20749B2F40620D1B45785D9BB",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement2"
+			]
+		},
+		{
+			"ShaderMapHash": "9CCE0850983694766F427439305C0D16F39BBA48",
+			"Assets": [
+				"/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Net"
+			]
+		},
+		{
+			"ShaderMapHash": "241010502E9A37E5C58801926A864E07A1764E55",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_BlackHoleMiniature"
+			]
+		},
+		{
+			"ShaderMapHash": "B2352451A8B93866FB529322E0377F81FFD9A501",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "E9A91052EEC625A10868CB4CD02FAFEBBB00B135",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Ampersand",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Cent",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Commercial",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Dollar",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Exclamation_Mark",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Hash",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Percent",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Pound",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Star",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Yen"
+			]
+		},
+		{
+			"ShaderMapHash": "9324765216D93E65BC745347D0CFD5265982373A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement"
+			]
+		},
+		{
+			"ShaderMapHash": "BDDFBE525F3678729A6755BA7EEEBD3F2AF8E72A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVortex"
+			]
+		},
+		{
+			"ShaderMapHash": "DB0E5353289E3AD732CC26F93822015E83A2561C",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Dimension"
+			]
+		},
+		{
+			"ShaderMapHash": "5B47D953ECECB94CF2F264FB53F07F04012805ED",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement"
+			]
+		},
+		{
+			"ShaderMapHash": "37431756CE0A4F96215A41FA73449C6CB2DA7E98",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Relativistic_Jet"
+			]
+		},
+		{
+			"ShaderMapHash": "068EE056863223D1F24C443535161AED5CB27AE5",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement2"
+			]
+		},
+		{
+			"ShaderMapHash": "EFBD2057ECE34C09FC7A36D00A216E2E22268000",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVar3"
+			]
+		},
+		{
+			"ShaderMapHash": "4EEEFE57B37BA4F0A593FF8F7898ACB5AE883720",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "DB626958631E950FB38D981C39A87E0D50CDBB22",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C1EE5E5B5BF67801CFCF926385ECA562DDB0D7FC",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D4A99A5B0F0F49489B0B8C0F970626C8D1BDCEC9",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Big",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe"
+			]
+		},
+		{
+			"ShaderMapHash": "649C655C618D005DC2EC0DAF87421F3E7594432B",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Star_Dimension"
+			]
+		},
+		{
+			"ShaderMapHash": "6CC0C55C0E2B139240A505FA01F08C73D104DED3",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Algiz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Ansuz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Berkana",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Dagaz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Ehwaz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Eihwaz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Fehu",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Gebo",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Hagalaz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Inguz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Isa",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Jera",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Kaunan",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Laguz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Mannaz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Nauthis",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Othila",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Pertho",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Raido",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Sowulo",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Teiwaz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Thurisaz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Uruz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Wunjo"
+			]
+		},
+		{
+			"ShaderMapHash": "68643F5D6D6E2AE1D434689B768EDAAAF5DA71F0",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
+			]
+		},
+		{
+			"ShaderMapHash": "8547C05D0EAA437BF7442AE46ACDDF5CDE7E52FE",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement"
+			]
+		},
+		{
+			"ShaderMapHash": "9DE06C5E0FE445E15D4E6061D6D92A819829097C",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Dimension"
+			]
+		},
+		{
+			"ShaderMapHash": "47FC7C5E20A5E66E041741D97F8CF2F604E613EF",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Nutron_Star"
+			]
+		},
+		{
+			"ShaderMapHash": "5B3E895F182400C76628BFB02C933FD7D47A309D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "60711D60EE38F60355B28382EEB3855AA1156DB4",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement"
+			]
+		},
+		{
+			"ShaderMapHash": "53763660661F9E9A32FC9453052912986B3A94BD",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F1BD7560D83F3C761142E5618A93536B52CCFAA3",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Big"
+			]
+		},
+		{
+			"ShaderMapHash": "5C41DA6057AA20A0D3052BE517447B9530D5B9E4",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "752D5D6108A377EFB4E91AABDEDEC4DE44749BD2",
+			"Assets": [
+				"/Game/Characters/Mixamo/Alpha_Body_MAT",
+				"/Game/Characters/Mixamo/Alpha_Joints_MAT"
+			]
+		},
+		{
+			"ShaderMapHash": "4F247D619EEDA1BC2E29EA3124A206474A08BF4B",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe"
+			]
+		},
+		{
+			"ShaderMapHash": "B44057621154A2369DAE0CACC6FE785878C7BA2E",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
+			]
+		},
+		{
+			"ShaderMapHash": "F91F4863C5AC15E382B992C0BF19AC443C01AA88",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_CityHologrammCombine"
+			]
+		},
+		{
+			"ShaderMapHash": "C7FD52638B9519A9AF907A09408D4F05B07E2E35",
+			"Assets": [
+				"/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Particles/M_Smoke"
+			]
+		},
+		{
+			"ShaderMapHash": "06DE9163D59F5000821C76824D099A1F16C9EAA1",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_RockSmall_01",
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_SparksImpact_2x2_01"
+			]
+		},
+		{
+			"ShaderMapHash": "D1AAB36318AE96886CC5821189A6BFCA8662995A",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_GlassOne"
+			]
+		},
+		{
+			"ShaderMapHash": "6C1FA064A832DA956F0B6205D0C7557E55CEC8A8",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "0F58E36514DCFCE66564E759EB0E1D1FC6597A7E",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
+			]
+		},
+		{
+			"ShaderMapHash": "FD110F67D8EDB0BCEFBA237D79DA572FCA861F88",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVortex"
+			]
+		},
+		{
+			"ShaderMapHash": "C0121667330E4157B51D8A2C459A51D7F27548EB",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Diffusion",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_OldPortal"
+			]
+		},
+		{
+			"ShaderMapHash": "F1649467B3C6052EEF75DDF6BBE9FFF9808BD8BB",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "6A499E67019622EC9A8D44736E8920A1818D97DE",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Supernova"
+			]
+		},
+		{
+			"ShaderMapHash": "3D345768528CF81A725E2DC6E89359A02A9F906F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "F5FD5F6884C10894B915A72BC4AE2A59FB96FE68",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_StarTrack_Slow"
+			]
+		},
+		{
+			"ShaderMapHash": "126A6569AC2F856400DD3B81FACC0E29BBF725AB",
+			"Assets": [
+				"/Game/BLUEPRINTS/DRONE_AI/AI_InfantryLogic/SciFiSoldier02/Materials/M_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "47B2736CB69A6A3B72ADDD0B3D431626F21D477A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement2"
+			]
+		},
+		{
+			"ShaderMapHash": "B554746CBE708FE8E20FECAA0F3135F3740E89C0",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_PostProcess"
+			]
+		},
+		{
+			"ShaderMapHash": "61B9526DB97CEF470169405A483D029D04FE730E",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_Landcape"
+			]
+		},
+		{
+			"ShaderMapHash": "0AC27F6DFACCAA0F7C573737D85E4C2073AA4F65",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Hyperspace"
+			]
+		},
+		{
+			"ShaderMapHash": "CA9EAD6DC072047E3E2E0FEEB746B4BC31CE6558",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "096CAA6E8C9F0142259841E1148E5302B3F772E5",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "41E6DC6E9BF3FFDBDD9879CEDB87F8763CAE54BF",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B88EDF6EFE591C9054FCD5B8D9B99E9B56197882",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Slate"
+			]
+		},
+		{
+			"ShaderMapHash": "2161016FCEADB0B2CFAD030BAF374655686E23FD",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_ScratchedMetal"
+			]
+		},
+		{
+			"ShaderMapHash": "7BB5EC71D9923B8E7FE999D962FE8D138810DCF2",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement"
+			]
+		},
+		{
+			"ShaderMapHash": "F25A16729DC78F93255C88A5BB62B2E2352A495D",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_SolarSystemPattern2"
+			]
+		},
+		{
+			"ShaderMapHash": "401A6D72091CD773162642BF1ABCFEF697426BEA",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_Hex_Tile_PulseBlue",
+				"/Game/BLUEPRINTS/Materials/M_Hex_Tile_PulseRed",
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
+			]
+		},
+		{
+			"ShaderMapHash": "A30B447366259C791F92B458F326AEED69A38253",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_HologramCylindrBig"
+			]
+		},
+		{
+			"ShaderMapHash": "C79C2374D826DEA907BED31828C83D36DCA3C89C",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "158D45748F1A52D9A8DAE1BBD4EF6B4FEE4218E9",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Warp_Tunnel"
+			]
+		},
+		{
+			"ShaderMapHash": "25E2847447212E1CE1B9B9AE1388E9C3B085940D",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsMovement"
+			]
+		},
+		{
+			"ShaderMapHash": "BCD76775F13318C93569E12766AAAED71C81947D",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement"
+			]
+		},
+		{
+			"ShaderMapHash": "A4657E759045A7781BDFD5DB5C00547BEEC7A756",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C925CD757EDCBD1DC25BE5BCB8E07BD56739E1F2",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "84F8CE75E8E8ED3D088C39D819A8C1D7095B8F16",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_GlowSphere_01"
+			]
+		},
+		{
+			"ShaderMapHash": "92D1597642ADBCEA275179B0172CB0A3021C9F8F",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_SpriteBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "B818667607413DB617623EE859977F61C9DE53C6",
+			"Assets": [
+				"/Game/BLUEPRINTS/UI/Assets/wireone_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "18427B776ACA912A7FC269748894FFFC0F313066",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "28D61179238DDA7044C7F387B1CCB86B1938AB01",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Woodchips_8x1_01"
+			]
+		},
+		{
+			"ShaderMapHash": "F2171879C7CB478DB02F0EE6AD327D029A6947F0",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "76EA597A5E60FD0BB388F4E25F37B394EC29B033",
+			"Assets": [
+				"/Game/BLUEPRINTS/DRONE_AI/AI_InfantryLogic/SciFiSoldier02/Materials/M_AIpostProcess"
+			]
+		},
+		{
+			"ShaderMapHash": "5454607AFF3309ABE041D91D87527EFB8947EC17",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Tracer_B"
+			]
+		},
+		{
+			"ShaderMapHash": "1E99AA7BFA108CFD0997A4EECE91405ED2741B2A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_Landcape"
+			]
+		},
+		{
+			"ShaderMapHash": "CB27017CD21F54E9560A137083C62CC39FFCAF52",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsMovement"
+			]
+		},
+		{
+			"ShaderMapHash": "7E23297C2EFF8E06615C5A4FBC2A8E0CD7F8A696",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Constelation_Ring1"
+			]
+		},
+		{
+			"ShaderMapHash": "4C0D0D7D2A4986D88A59CC774CE1D11F25202B6B",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_Dodecahedron"
+			]
+		},
+		{
+			"ShaderMapHash": "92DE147D9EA9E67AD6C0C7BC7CD05EF8390723B7",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Hyper_Jump"
+			]
+		},
+		{
+			"ShaderMapHash": "52582B7DE93FC41B818C4DA74D801F3C48E4FDCE",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Globular_Cluster"
+			]
+		},
+		{
+			"ShaderMapHash": "0F61057E95587FD756955023968BBB5104046183",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Diffusion"
+			]
+		},
+		{
+			"ShaderMapHash": "D6AA947E75983ADD6AE87B82F044CF3640E1AEDF",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Pistol_MuzzleFlash_4x1_A"
+			]
+		},
+		{
+			"ShaderMapHash": "DAF4B67EFB45E60669F6C85D71D4B1EB02F51E91",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement"
+			]
+		},
+		{
+			"ShaderMapHash": "4FEFCA7E89313FFB568F3DAD265220DE93FF34A3",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "DDF80C815C4DBCBC469FF047A4BCFCCCA8B0FD0A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Space_Geometry"
+			]
+		},
+		{
+			"ShaderMapHash": "C556298111D1B7B22898E1A069794C0D33EF06A8",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement"
+			]
+		},
+		{
+			"ShaderMapHash": "1C00588120AACA56A4D2BCEFCFF1665E3707319A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/MY_FX/M_PlayerLightning"
+			]
+		},
+		{
+			"ShaderMapHash": "F816D58163313773C6D646547C6DAB29361E4076",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "A8C6DC81A3AA7B9627D531CABF67E77611E34AD8",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Rayvfx/Materials/M_Master_Fresnel"
+			]
+		},
+		{
+			"ShaderMapHash": "81871A825A0F093B7C75EA3A8BAC318E270F06B7",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_HologramCylinderRed"
+			]
+		},
+		{
+			"ShaderMapHash": "51E84283C7D3BE9D53C3D1E6FC4D46F02726D7D2",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "73D047832781D0B2A300E7A04AEB765F47581D19",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "3B4752835D57D94907883619BFBC63ADF22851EC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "86604985991DC63839E318A6DDD2CD1134198731",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Grime"
+			]
+		},
+		{
+			"ShaderMapHash": "865A5A855E2E01B28A0BB498D874ACEC398CBEA8",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "C5398E86C789E830370A1B71ECFC8575AED4CAEB",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVar3"
+			]
+		},
+		{
+			"ShaderMapHash": "854319872FFA2B644901C802379CA7D888C4AF1A",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "30E738876DD8EB6705FAD3167BFAC691352C156B",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "6EFE47870F04E4A08871C5F7973F9C2F871E834D",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_PickupSet_1/Materials/M_Master_Fresnel"
+			]
+		},
+		{
+			"ShaderMapHash": "6A658B87C2A980AC3E917610873CCA2B686AA875",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_sA_Aura"
+			]
+		},
+		{
+			"ShaderMapHash": "AF273D88DC630BBE1EFF2FEC73F7DB6748B75A84",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "D55A75888F2CB7108BAC3520C22E9648DE8FDC21",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "95150F89684A5DD613B71ABB93CAE7B652FEDC10",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "51699C89BC36DCEC9ECE190738FDA3AE09DAD649",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5A1B278A650F75F53FD1DF609264F15EBAD236F6",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVortex"
+			]
+		},
+		{
+			"ShaderMapHash": "F90C3F8A384E622E1D06C8D04F27399146836CA7",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_CylindrDecor"
+			]
+		},
+		{
+			"ShaderMapHash": "EC2C668A2049976BDAF1B8918D8C3A88A90F1114",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D2262B8B4FCB74CDEDB375DC801151EB5ED0756B",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "86C5798C5025669B8CD38CFD575BF74C5B2C962B",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "2EEE4A8DE9194E1FCCC7F4936E71568C7C48E23A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Var2"
+			]
+		},
+		{
+			"ShaderMapHash": "355C728DCF897410C1C1E42ACCB88D46968062EC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "4EDCB18D9CCDABC714A7751EA2A23BAC5D04B16A",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "33F2478F94A51911B8B8697688FA01201B8C4303",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_StarTrack_Medium"
+			]
+		},
+		{
+			"ShaderMapHash": "52D5C98F9D341C57485350CA6D641EDE51032281",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Oort_Cloud"
+			]
+		},
+		{
+			"ShaderMapHash": "5AA5AB909CCA69536752E04C460D36D3F1CB1E22",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_SmokeRibbon_01"
+			]
+		},
+		{
+			"ShaderMapHash": "F9144091E453884D460AA55E1C75778D30D04CA6",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_A",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_B",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_C",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_D",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_E",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_F",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_G",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_H",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_I",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_J",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_K",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_L",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_M",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_N",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_O",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_P",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_Q",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_R",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_S",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_T",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_U",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_V",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_W",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_X",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_Y",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/NS_Z",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_A_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_B_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_C_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_D_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_E_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_F_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_G_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_H_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_I_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_J_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_K_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_L_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_M_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_N_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_O_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_P_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_Q_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_R_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_S_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_T_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_U_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_V_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_W_Offst",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_X_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_Y_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_Z_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_0",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_1",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_2",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_3",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_4",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_5",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_6",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_7",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_8",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_9",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Algiz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Ansuz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Berkana",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Dagaz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Ehwaz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Eihwaz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Fehu",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Gebo",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Hagalaz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Inguz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Isa",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Jera",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Kaunan",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Laguz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Mannaz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Nauthis",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Othila",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Pertho",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Raido",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Sowulo",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Teiwaz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Thurisaz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Uruz",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/NS_Wunjo",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Algiz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Ansuz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Berkana_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Dagaz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Ehwaz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Eihwaz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Fehu_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Gebo_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Hagalaz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Inguz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Isa_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Jera_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Kaunan_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Laguz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Mannaz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Nauthis_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Othila_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Pertho_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Raido_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Sowulo_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Teiwaz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Thurisaz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Uruz_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Runes/Offset/NS_Wunjo_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Ampersand",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Cent",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Commercial",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Dollar",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Exclamation_Mark",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Hash",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Percent",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Pound",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Star",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/NS_Yen"
+			]
+		},
+		{
+			"ShaderMapHash": "8D8FD091400F6AFA984F07EEFBC5CBEECEAF396F",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_GlowGreenAlpha_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "4264CB92C2B10E1893C38A7A0A9D6D85D41B1497",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement2"
+			]
+		},
+		{
+			"ShaderMapHash": "9F1CCD92DF8B36C4C9837513BED5ACBD56CEBE09",
+			"Assets": [
+				"/Engine/EditorMaterials/GeometryCollection/SelectedGeometryMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "13D108934A0C790E77D83F3CD00E8BA640065436",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_HologramCylinder"
+			]
+		},
+		{
+			"ShaderMapHash": "4005BF93903FE5A18FD50F568786679B2A7F8EEF",
+			"Assets": [
+				"/Engine/EditorResources/FieldNodes/_Resources/MI_FieldVolumePreview"
+			]
+		},
+		{
+			"ShaderMapHash": "C975D193F8AD558C6017F15D49B9EF33DF2E5A84",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Exp_D_Light_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "3DA14F94639BD866373FB27228D14E1F8AE68B10",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_Atom"
+			]
+		},
+		{
+			"ShaderMapHash": "CADAD8941D1F03070F107D4E8CFC2E79985A6CDE",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_Landscape2"
+			]
+		},
+		{
+			"ShaderMapHash": "86C357951468C14E1A7C20C474A838EF3D6F2FB5",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_BlackHoleMiniature"
+			]
+		},
+		{
+			"ShaderMapHash": "6F72AA956D048C9E851CD02D33459B4B3372F6C8",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "5AE72F9641DAD163A811119F52670D2AB9698B0D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Panels"
+			]
+		},
+		{
+			"ShaderMapHash": "10B442972F3418BDAFE0E392DA0B9A86CE759406",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Var1",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Var2",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVar3",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVar4",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVar5"
+			]
+		},
+		{
+			"ShaderMapHash": "13519C976AAB6BFC6F3515B070190B167486DA34",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "51E2FD970CC35122B49C5FC4D34A6BAD0FEE925A",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CABA0198EE32ABEFE74B48B611F27F11969E1013",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_SolarSystem"
+			]
+		},
+		{
+			"ShaderMapHash": "6604DD9881A34C46211043191CEF657CDE26F9AF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "42CD80992A90839D709973A8B3343C0DBE9AB673",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement2"
+			]
+		},
+		{
+			"ShaderMapHash": "48EBAA99267CE84D556F9427C5552BE44EC1F9CF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
+			]
+		},
+		{
+			"ShaderMapHash": "201CB2999D4BEA2AF3C876115C8979E63CCDD3D8",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Nutron_Star",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Portal"
+			]
+		},
+		{
+			"ShaderMapHash": "9242CA995275B27AD10FEAB428DC0A1780ABA283",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_Octagon"
+			]
+		},
+		{
+			"ShaderMapHash": "7AA7E49928B1E335694E3644A1D2A050B3A73A96",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Aquarius",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Aries",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_BigDipper",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Cancer",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Capricorn",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Galaxy",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Gemini",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Libra",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Lion",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Nebula",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Nebula1",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Orion",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Pisces",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Planet",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Planet1",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Sagittarius",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Scorpio",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Sun",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Materials/M_Taurus"
+			]
+		},
+		{
+			"ShaderMapHash": "3964EE999DFBD7F725B575C4CB8F65240D58F720",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_CityHologrammCombine"
+			]
+		},
+		{
+			"ShaderMapHash": "75F2859AB119AC36C1C486D50FC0080E4A38F8F1",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_MetalGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "93310E9DE70C23AC1B09E4FDBFA2A37E901AF0AD",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DCD48E9E342196DA0DEC7DF6F91B46CCF2DE9BD4",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "4C5E399F02739FB058819A0EBA55DB224C5B07FC",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "D67831A05B8B916C53B7EDA91A6DB32E4C4851CD",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_PickupSet_1/Materials/M_AdditiveScrollNiagara",
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_AdditiveScrollNiagara",
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Rayvfx/Materials/M_AdditiveScrollNiagara"
+			]
+		},
+		{
+			"ShaderMapHash": "480E58A0192F338736838F1A4019B09C4B8AD3A9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "5F2CD2A002BF213ABFE1B45335964DDFF6091896",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Constelation_Ring1"
+			]
+		},
+		{
+			"ShaderMapHash": "6BEC68A1056E28B118090755B0387B57E27D753A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Var1",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsMovement",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsMovement2"
+			]
+		},
+		{
+			"ShaderMapHash": "6922D6A1AADCDF9A3C3E6B645418F008462034DC",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Hyper_Jump"
+			]
+		},
+		{
+			"ShaderMapHash": "C3112FA22D81E2B19EFBD7C69909A870750C882C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "3ECB89A2939C320E0E9229D448E35A9D717BBFBC",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVortex"
+			]
+		},
+		{
+			"ShaderMapHash": "1484D9A2514F10AA073850EFD4B4AB5B40CBFA99",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FD96E9A2245F074AFAA7AE0239F23D9BCCF520BA",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Constelation_Ring1"
+			]
+		},
+		{
+			"ShaderMapHash": "CDBA47A409B8ED593F86BB2291F5FC3C673D603E",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
+			"ShaderMapHash": "BAC9C1A6E5BBEB89733C165A3564560199E63B80",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement2"
+			]
+		},
+		{
+			"ShaderMapHash": "4860DFA6F8106766BCBE9D6B7B56E720CBFAB7CA",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_Simple_Bram"
+			]
+		},
+		{
+			"ShaderMapHash": "1E9516A865328B66AC1A434CDA146CB7383A65EE",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "EB6B8AA8CD581D615DCE86D6AA321BB3B5AB07C9",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_PickupSet_1/Materials/M_Ground"
+			]
+		},
+		{
+			"ShaderMapHash": "917DDEA92158E8F69F7B0ED774AD505B0DA3B723",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B23BD2AB7941ADBDE1682C6E5C147BC1CBAF7F26",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_A_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_B_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_C_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_D_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_E_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_F_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_G_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_H_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_I_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_J_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_K_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_L_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_M_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_N_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_O_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_P_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_Q_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_R_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_S_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_T_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_U_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_V_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_W_Offst",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_X_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_Y_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Alphabet/Offset/NS_Z_Offset"
+			]
+		},
+		{
+			"ShaderMapHash": "6930FEAB371DABD5BA1804B647754ED603B45AE1",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "C73753ACFA25521625CBF3750FA1C994D33FAB2E",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E89BB6ADA3D45D9D6D65F4386BF81B71AE050D96",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Jet",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Nutron_Star"
+			]
+		},
+		{
+			"ShaderMapHash": "5C4BB8AD0722828E87C1681078499E13E51641FB",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Pistol_Streaks_01"
+			]
+		},
+		{
+			"ShaderMapHash": "F599D2AEE86E5ECDE247FBA09C12EE61C91F4EFD",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "5DE9A9B33AB560C16790C352142C0C6978EA8992",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Smoke_8x8_B_01"
+			]
+		},
+		{
+			"ShaderMapHash": "7596DBB5FF57EA6A8846041B7D3860CB19F43F7D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "DE83F0B587DB93095D1D10F3784A4BCA056220F1",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_HologramCylinder"
+			]
+		},
+		{
+			"ShaderMapHash": "24BB83B65A20DE65994C17054B0976ED6372B4B7",
+			"Assets": [
+				"/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Laser_Dot"
+			]
+		},
+		{
+			"ShaderMapHash": "DC857FB8F8060046EDEE6832EE8C171CD9B6AD5B",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "15A4F6B84AD3C41244AEE12B0159A4AFDF9F9140",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "29BD46BAD7E3D2080E84217F4AA394A9F9720CFB",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement2"
+			]
+		},
+		{
+			"ShaderMapHash": "5799CEBA915D32E569DCBB6FCCF0705692BB5F1D",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_CrystalRefraction_01"
+			]
+		},
+		{
+			"ShaderMapHash": "A21DD3BB07B2D6829A4ACBAD60115EDAC4F5D6AA",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E03E24BCA93EF4DEE51917D9AB597803707D8633",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "279924BC9953F135EA596200FA902969ADBDECDB",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_SolarSystemWithOrbits"
+			]
+		},
+		{
+			"ShaderMapHash": "FCF734BC5C3A5BFDFDBF934671ACFFCB1ED83244",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
+			"ShaderMapHash": "20AA46BC4197214CE2E10ACE2C15FC2382DE37BF",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Symbols/Offset/NS_Pound_Offset"
+			]
+		},
+		{
+			"ShaderMapHash": "2D50D2BC0A25ACABAA723FA0A7FD7AEADA9A636C",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Pop_01"
+			]
+		},
+		{
+			"ShaderMapHash": "55B2E6BCB54953AEF56E025009FA6AEEE6FD2453",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
+			]
+		},
+		{
+			"ShaderMapHash": "1472D8BDC7BBC07B6A04FA3CE4182573D64DEDA9",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Relativistic_Jet"
+			]
+		},
+		{
+			"ShaderMapHash": "6BDA6FBE99D0E605767704FFDED1C53DB38E3994",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Big"
+			]
+		},
+		{
+			"ShaderMapHash": "9F5A7CC0D1A822D203A96DCB19557198505302DC",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "67E624C1DE3C4591E08E48956B5DF67939CF3AE4",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_SolarSystemPattern"
+			]
+		},
+		{
+			"ShaderMapHash": "DA30F4C36D570E9CEB5595E01B656969E63046B4",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_StarTrack_Slow"
+			]
+		},
+		{
+			"ShaderMapHash": "870BAAC4E33E7F405B692237CBDE0F2A06781B8C",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "A53DF2C466466FE838364A147C68071080B16E44",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Globular_Cluster"
+			]
+		},
+		{
+			"ShaderMapHash": "BAF1C9C52C8634063D6A2E47DBAC88F5B86E731E",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_Smoke"
+			]
+		},
+		{
+			"ShaderMapHash": "0443D4C5F4666E54A787352EA0CC2BC0E55037F5",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe"
+			]
+		},
+		{
+			"ShaderMapHash": "63CBE5C50BF88A4CEDACC44180F32FE8885A4D6A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Rayvfx/Materials/M_Master_RefractFresnel"
+			]
+		},
+		{
+			"ShaderMapHash": "E922F0C5F4AB422E8682FC6AA70FA3F7A2F634DB",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "7FA150C68BD8E90E24BFA3AF1186C4ED31C4F4D5",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_BlackHoleMiniature"
+			]
+		},
+		{
+			"ShaderMapHash": "3C3EA1C6B93DA1B10AAB5B96CA0307521B2643CD",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "F0997AC79BBE024D55E20C764523CCFF6420B208",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "1A829DC7B9F78196FFF9AE8AF108C09712335DBB",
+			"Assets": [
+				"/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Body_Cover"
+			]
+		},
+		{
+			"ShaderMapHash": "E627B0C7634A0BCCA4AD9A6AFE68CBCEBC62BC3B",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_CylindrDecor"
+			]
+		},
+		{
+			"ShaderMapHash": "16AF0AC89588E5ACE61BE0B78D67F5B08E12A63F",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVar4",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVar5"
+			]
+		},
+		{
+			"ShaderMapHash": "BF9911C89FABA183B5A1D3CEEEEEA8E96962E3DF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "BBFDC1C866BC172EF00CD8FB5849AFC7F69D7986",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "700294C9FB1A57F607F08CEA758DEB3FFB157F80",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Ember_Speed_01"
+			]
+		},
+		{
+			"ShaderMapHash": "52FEAFC9D949A94C29846FD50C5B20495AFDDCAB",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "ED57EDCA3C81E8EBB137B2EAB6AF7F0E46249CF7",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultRIbbonMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "50C76DCBA6D7FED0DF2D3B030E81E0189C9E6243",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "8E44A6CB8C6B636F84E88F7ED0819C63B858A2ED",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Warp_Tunnel"
+			]
+		},
+		{
+			"ShaderMapHash": "FC05AECBB6C43F0C9D054FC16E9D7742BE56251B",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "82A008CC3635D68485AFD35AF6C78017314F8515",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Moss"
+			]
+		},
+		{
+			"ShaderMapHash": "BD0030CCD88DB5080E160226FA91CB077D20FB5D",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_FloorOneEmissive"
+			]
+		},
+		{
+			"ShaderMapHash": "1E98BFCC2CDA0E173D4BF26D9C52195B0D1B9F30",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_Concrete",
+				"/Game/StarterContent/Materials/M_Concrete_Poured"
+			]
+		},
+		{
+			"ShaderMapHash": "3F62F9CC14D8E4DE9F656E1CECDF02897A5AE329",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
+			]
+		},
+		{
+			"ShaderMapHash": "617D56CD1C083CF3DA1B6430B0BA75088661D9A7",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_CityHologramm"
+			]
+		},
+		{
+			"ShaderMapHash": "61AC6ACE0F26795D592B1774A32CDEF02DA05963",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_BlackHoleMiniature"
+			]
+		},
+		{
+			"ShaderMapHash": "D9FF09CF45877DE13FB1E1453E3EF5982A709F6A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Big",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe"
+			]
+		},
+		{
+			"ShaderMapHash": "022198D0A405A4F85D32F376290EB7236A5FCCE1",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_Landscape2"
+			]
+		},
+		{
+			"ShaderMapHash": "2539B4D0EB37C19AFEB2B422165E15EF6D648205",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "63D3CCD080851F2647C518EF2902B4758A1731C7",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/Weapons/Materials/M_PistolVer2_Inst",
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/Weapons/Materials/M_SniperRifleVer2_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "8D969DD1075A72E36C19CF35FC4E48FC19CCC084",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "C006EFD1EE86B61D0A6E02EC4AE3B632825409DD",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_Chrome",
+				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "53A01CD243E33E69D3387FB89C48E4ACF45679C2",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement"
+			]
+		},
+		{
+			"ShaderMapHash": "A3B9DAD2AF1CC7D822A9F03E939E5CE59348EBD6",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsMovement2"
+			]
+		},
+		{
+			"ShaderMapHash": "3F6547D3D396FF96790F1C3D1E9A4B5E92F60E81",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Rayvfx/Materials/M_Master_RadialBeam"
+			]
+		},
+		{
+			"ShaderMapHash": "AA5094D392F5912CD8D75933F755E47EA98AA1C3",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_GlowSphere_02"
+			]
+		},
+		{
+			"ShaderMapHash": "0CD499D3C37C3AB621009E75C16EABE8203E4135",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_TableRound"
+			]
+		},
+		{
+			"ShaderMapHash": "36F2F9D41876E5A5F1EEF627C06161A7A1373C08",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_LightRay_01"
+			]
+		},
+		{
+			"ShaderMapHash": "B4A9C4D5C68B7E10B1CD0776B826B6605EBC93C8",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsMovement"
+			]
+		},
+		{
+			"ShaderMapHash": "73527ED6B6100969E7B73AA6D2155F7C29066F36",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsMovement"
+			]
+		},
+		{
+			"ShaderMapHash": "A1E88FD6ACB2938EB03C0EA99076CF404740289B",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
+			"ShaderMapHash": "62814BD750D8BEF16FCEC55D2CE82FA0C5A6013C",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Constelation_Ring",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Constelation_Ring1"
+			]
+		},
+		{
+			"ShaderMapHash": "C3FD79D70C7D43180B3DA1936C81EE2AF3486C2D",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B53CCDD756CA21ACC255B8570D14F5B34032CBF7",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Shelf"
+			]
+		},
+		{
+			"ShaderMapHash": "1339DED9263DECFC9561222FD3002F80B1894117",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsMovement2"
+			]
+		},
+		{
+			"ShaderMapHash": "EBD1E8D98B1E408CA7B55AEE1178D1D4D89673D7",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "887B30DADE25E7729A909E806EBA25F58FF2FFA6",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "74801ADB3011D2ADD52B50FA51FC9F692AF3A7AA",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "92A29ADB724151C01E63E55A8511F1FB83A1690B",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Relativistic_Jet"
+			]
+		},
+		{
+			"ShaderMapHash": "5CD13FDC2DB1A09EB6835BBB4B071974F4AAAD69",
+			"Assets": [
+				"/Engine/EditorResources/FieldNodes/_Resources/M_FieldVolumePreview"
+			]
+		},
+		{
+			"ShaderMapHash": "71F898DC38DBDD38B999C7B3EBD998559B2C7A1E",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Big"
+			]
+		},
+		{
+			"ShaderMapHash": "54DD7FDD45AE109DECA95EE2119582BB9F506FB4",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement"
+			]
+		},
+		{
+			"ShaderMapHash": "11D6EADD4041273E2A4CE82A81346B39B66573A1",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Shockwave_01"
+			]
+		},
+		{
+			"ShaderMapHash": "6D9F27DE3C8836307827FE8E5D3B5C1947AA15B6",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVar4"
+			]
+		},
+		{
+			"ShaderMapHash": "EAE573DE2F14FE4B6DED78A5A4B870E86DB9B180",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "6966CADE7B3247C9328C566E4CA76A3CC86931C5",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVar3"
+			]
+		},
+		{
+			"ShaderMapHash": "36413CDFFEB86C4DA997854ECBB87139963070AC",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_AssualtRifle_Core_01"
+			]
+		},
+		{
+			"ShaderMapHash": "1BE19EDF545674289DCF3D03E0CA311054CC5250",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Oort_Cloud"
+			]
+		},
+		{
+			"ShaderMapHash": "184ACEDF99522C67E11F74C91A15D785CFAE084C",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_BlackHoleMiniature"
+			]
+		},
+		{
+			"ShaderMapHash": "760883E079C1D03D6E785494A158EB83BFF39887",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Globular_Cluster"
+			]
+		},
+		{
+			"ShaderMapHash": "732986E094403B6E5AFFE26955459A775CE32A99",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_Ring"
+			]
+		},
+		{
+			"ShaderMapHash": "5424A7E0A8EB60FCA2F17EF8B328D2BAF15BABC6",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "410D31E19E8C379CB0C698DFFF8BF2B94039AE64",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "BBCBD7E1F1216991090B568CACD4205DE246C29A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_HologramCylinderRed"
+			]
+		},
+		{
+			"ShaderMapHash": "7A7745E299DABDA2B7F24ECFB129C43C1E68482D",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_ABNiagara"
+			]
+		},
+		{
+			"ShaderMapHash": "831163E267298BCB8E347ED855E03C3CB5A4EC57",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "910EE2E26A8AF314BE3481D9574F5A433A8AC515",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "6774EBE2C930726FABD59A828379C88D1292AC30",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "B34BF2E29A2427B40197B45844B0B1CBAAB336EC",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_AdditiveNiagara"
+			]
+		},
+		{
+			"ShaderMapHash": "81F0B2E3E1B47863562FDB2553517726453F47BB",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_0_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_1_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_2_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_3_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_4_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_5_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_6_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_7_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_8_Offset",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/Offset/NS_9_Offset"
+			]
+		},
+		{
+			"ShaderMapHash": "DE8D40E48D3850986614C3401966E62CEED89404",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Dimension"
+			]
+		},
+		{
+			"ShaderMapHash": "A7861BE5ED31D67ECB7B05D88E9AEE6B33052CA3",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "24D366E58B140414555D4F23C002EA9746794E5F",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Hyperspace"
+			]
+		},
+		{
+			"ShaderMapHash": "7AF482E5A3763273E34122FE9FA33E6776655C1C",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement2"
+			]
+		},
+		{
+			"ShaderMapHash": "A0E28EE59861BF7F5BA23B4A610C34F652FE9F81",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "044105E6642131CF6ABBADE256CFA8A9CE40F967",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Var1",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVar5"
+			]
+		},
+		{
+			"ShaderMapHash": "EE1D36E6920A7EEBF0E45C05CBAEBDB18CB29F1E",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Var2"
+			]
+		},
+		{
+			"ShaderMapHash": "91F93BE795BAC8301121D74647CA90E3A2AD153A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_DemoScene"
+			]
+		},
+		{
+			"ShaderMapHash": "86C344E7A8C8E5AC32250965576F749DD29FBF8B",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "104C65E7E4F03F67541889392C2BD881B8B426DA",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Planet",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Planet1"
+			]
+		},
+		{
+			"ShaderMapHash": "DFB1C1E739503E2C415844100AFE57E69BCE0E69",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "122F0CE8B33F28CEE3FACDDA5E57E4F3E1A5CFF8",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ECAE6EE995A478B85FAE99DF161FE45C2EC22FE4",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement2"
+			]
+		},
+		{
+			"ShaderMapHash": "BF8DF7E997AE40A4D2773E24FBD8596CE9C52AA0",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_Rayvfx/Materials/M_PannerScroll"
+			]
+		},
+		{
+			"ShaderMapHash": "5CC663EA6CB06C07C0A58626E2C98C39706F7419",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2D7409EC24511D22966C61FEB2FABD241FE1D107",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Plasma_01"
+			]
+		},
+		{
+			"ShaderMapHash": "66C744EC01679C91A994DAEECD03D1CFBD64AD75",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Dimension"
+			]
+		},
+		{
+			"ShaderMapHash": "454D50EC0B07024F1C1BE2A62C61E14ABB17B554",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "8C6895EDD413A328582CA330E8755FA1315DF646",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraAbstractSpace/Effects/NS_Cloud_of_Stars"
+			]
+		},
+		{
+			"ShaderMapHash": "5104A4EDE0C9E2CACBCE9097AE2442F17A998DF4",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Debris_Tileable_01"
+			]
+		},
+		{
+			"ShaderMapHash": "258770EE4698558BA6197AF42E5303B1E4FD5B18",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_Constellations_Var2"
+			]
+		},
+		{
+			"ShaderMapHash": "77F490EEB76C647B55FF642288DE5186973ABAA8",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Galaxy"
+			]
+		},
+		{
+			"ShaderMapHash": "A5FDB8EEAB28A120A1CC7C5A1026EAD1A07E176E",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe"
+			]
+		},
+		{
+			"ShaderMapHash": "6B3F9BEF28811B06CA970657CD09BCC10F69298C",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_Shockwave_Refraction_01"
+			]
+		},
+		{
+			"ShaderMapHash": "513278F04029DC78DFF986B33B3F6D9BD6C4EF89",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Constelation_Ring"
+			]
+		},
+		{
+			"ShaderMapHash": "DAD223F1CE9F266B4B148D1BBDFB081EEB7D88A2",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
+			]
+		},
+		{
+			"ShaderMapHash": "2E460FF222790519C34758855CAC91276B4704AF",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/sA_Megapack_v1/sA_PickupSet_1/Materials/M_Master_MetalFX"
+			]
+		},
+		{
+			"ShaderMapHash": "9C665EF2F673D4094FCD7AF2144F2ED37EF46609",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_BasicBackground"
+			]
+		},
+		{
+			"ShaderMapHash": "FF6A5EF2A3C767990A27ED872CC3F4B45A34618C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "906363F28343087922B6239E724B8495F36B2708",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B8F9F5F2CA1AE7635C3F1F2EAEE43457C82C4AF6",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_0",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_1",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_2",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_3",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_4",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_5",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_6",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_7",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_8",
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraSymbols/Effects/Numbers/NS_9"
+			]
+		},
+		{
+			"ShaderMapHash": "77ACFCF207C666E45B3DA508F4BB672F123B2C69",
+			"Assets": [
+				"/Game/BLUEPRINTS/Materials/M_GlowThree"
+			]
+		},
+		{
+			"ShaderMapHash": "A52275F3BA41AD3188E60348D08D60167D74DE98",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "36DE88F35E9B8FD5FCC862EF1F2754A22F15D783",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement"
+			]
+		},
+		{
+			"ShaderMapHash": "4D31BCF5CD9796B884D55DBE65A02EE9272DCD7D",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_Earth"
+			]
+		},
+		{
+			"ShaderMapHash": "340CDFF5D191BC81B5C2328DC6882E50EC1CAC22",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Cluster_of_ConstellationsVar5"
+			]
+		},
+		{
+			"ShaderMapHash": "87AB3FF66A29CE03E4054C675A0FFEF53374E0FC",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "AF9250F6124FB644378EABCF9CEDD87FA3B771BF",
+			"Assets": [
+				"/Game/BLUEPRINTS/ITEM_Pickups/Weapons/SciFiWeapLight/FX/Materials/M_RockMesh_01"
+			]
+		},
+		{
+			"ShaderMapHash": "A6BA7EF6D12F8DFF9D3A3F50C32AFD6E9E29989A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
+			]
+		},
+		{
+			"ShaderMapHash": "299350F7491D8E4AD194E7E1EED2F9008AB8F897",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "5133B1F704D0D875D4F6B2FB71884F6D2AC2AEC6",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Constelation_Ring1"
+			]
+		},
+		{
+			"ShaderMapHash": "90DE23FA81042675EF6C16CFBF71261148733F29",
+			"Assets": [
+				"/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "079217FB82A46692AE3A18833BA01C09BE207528",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "928630FCB98BF1536C92CF9071428C74291D8F3E",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe"
+			]
+		},
+		{
+			"ShaderMapHash": "4B648BFC853119FA5D90F64245E5788DCC122DE5",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6EFBE7FC5DB0A389B628028286CC1EBC4AFA7082",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "49B125FD64E794024131D5B149D364BC64129A3A",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_StarTrack_Medium"
+			]
+		},
+		{
+			"ShaderMapHash": "9FFB5BFDC45E8D9C44AF60B076220966D7A2A5C8",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "7E72C2FD06A4462CF9F241D01A5E8F4387E64BD0",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_StarTrackFast"
+			]
+		},
+		{
+			"ShaderMapHash": "850419FEA71F656C476232B7FE4C0E25C3C4FF15",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Constelation_Ring"
+			]
+		},
+		{
+			"ShaderMapHash": "81E540FEA495292C486C4597AC8AE89A784B91BC",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "23C99FFE96509994DE6436D1B4850C28277D353A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "844FABFEECE0BC7B7D1DB4C7CAB4F456A836398C",
+			"Assets": [
+				"/Game/BLUEPRINTS/DRONE_AI/AI_DroneLogic/SW_Drone/Materials/M_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "240EC9FE1CD7B66362EFD42E389EF9DB5C8D1B71",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraHologramPack/Effects/NS_DNA"
+			]
+		},
+		{
+			"ShaderMapHash": "667725FF54553BCC5F2C1A9569D0BA098956FCA2",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "1B2F3EFFC9EEB26994BBD169542D5D9680744DDA",
+			"Assets": [
+				"/Game/BLUEPRINTS/FX/BigNiagaraBundle/NiagaraConstellations/Effects/NS_Universe_Movement2"
+			]
+		}
+	]
+}
