@@ -15,7 +15,10 @@
 				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/Characters/RPG_Character/Animations/DevatoxPlayerAnimBP.uasset",
 				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/ProceduralGen/PG_Floor.uasset",
 				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/Sector1.umap",
-				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap"
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/Maps/HUB.umap",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/UI/TAB_CompletionWB.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/UI/UnarmedLoco.uasset",
+				"D:/FALMOUTH/Module2/IGD720_DRONE/Content/BLUEPRINTS/UI/CombatLoco.uasset"
 			]
 		}
 	]
